@@ -21,6 +21,8 @@ https://vimeo.com/42042473
 
 https://observablehq.com/@mitvis/data-types-graphical-marks-and-visual-encoding-channels
 
+## How-To
+Instalar git https://github.com/git-guides/install-git
 ## Ejercicios
 
 
