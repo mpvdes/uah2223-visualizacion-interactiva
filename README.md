@@ -36,6 +36,17 @@ https://300000kms.net/case_study/merce/
 https://observablehq.com/@mitvis/data-types-graphical-marks-and-visual-encoding-channels
 
 ## How-To
+Getting started with Conda
+https://conda.io/projects/conda/en/latest/user-guide/getting-started.html#
+ conda update conda
+ conda info --envs
+ conda list
+ conda install jupyter
+ conda jupyter notebook
+ conda notebook
+ conda install jupyter
+jupyter notebook
+
 Instalar git https://github.com/git-guides/install-git
 ## p5.js
 https://github.com/jtpio/p5-notebook
