@@ -45,7 +45,8 @@ https://github.com/jtpio/p5-notebook
 ## Proyectos
 https://github.com/jtpio/p5-notebook
 
-
+## Recursos
+https://krita.org/en/download/krita-desktop/
 ---
 
 ![img](./img/logo.svg)
