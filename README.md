@@ -13,7 +13,7 @@ visualizaciones interactivas con librerías gráficas de JS.
 
 
 ## Slides
-[Programa del Master] (https://mpvd.es/modulo/visualizacion-interactiva/)
+Programa del Master (https://mpvd.es/modulo/visualizacion-interactiva/)
 
 500 Milestones - interactive data visualization
 https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=19RyYgFNJACEGLmxSO17NzEiydJpxcrAEUGZZBx2yLkI&font=Default&lang=en&initial_zoom=2&height=650
