@@ -16,10 +16,10 @@ visualizaciones interactivas con librerías gráficas de JS.
 Programa del Master (https://mpvd.es/modulo/visualizacion-interactiva/)
 
 ## DataVizs
-#500 Milestones - interactive data visualization
-https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=19RyYgFNJACEGLmxSO17NzEiydJpxcrAEUGZZBx2yLkI&font=Default&lang=en&initial_zoom=2&height=650
-https://www.datavis.ca/milestones/
-https://vimeo.com/42042473
+500 Milestones - interactive data visualization
+- https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=19RyYgFNJACEGLmxSO17NzEiydJpxcrAEUGZZBx2yLkI&font=Default&lang=en&initial_zoom=2&height=650
+- https://www.datavis.ca/milestones/
+- https://vimeo.com/42042473
 
 https://observablehq.com/@mitvis/data-types-graphical-marks-and-visual-encoding-channels
 
