@@ -25,14 +25,16 @@ https://300000kms.net/case_study/merce/
 ## Clase 1
 https://www.ted.com/playlists/201/art_from_data
 
-https://www.buzzfeednews.com/article/meghara/china-new-internment-camps-xinjiang-uighurs-muslims](https://www.degruyter.com/document/doi/10.1515/9781501767197/html
+
 
 Alison Killing
-https://www.buzzfeednews.com/article/meghara/china-new-internment-camps-xinjiang-uighurs-muslims
+  - https://www.buzzfeednews.com/article/meghara/china-new-internment-camps-xinjiang-uighurs-muslims
 
-https://arquitecturaviva.com/articulos/alison-killing-gana-el-premio-pulitzer
+  - https://arquitecturaviva.com/articulos/alison-killing-gana-el-premio-pulitzer
 
-https://www.ted.com/playlists/201/art_from_data
+ 
+Art made of data
+  - https://www.ted.com/playlists/201/art_from_data
 
 Kirk Goldsberry
 https://www.kirkgoldsberry.com/
