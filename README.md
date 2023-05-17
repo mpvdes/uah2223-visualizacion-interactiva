@@ -25,7 +25,7 @@ https://jllopc.github.io/ciudad.desigual/
 https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=19RyYgFNJACEGLmxSO17NzEiydJpxcrAEUGZZBx2yLkI&font=Default&lang=en&initial_zoom=2&height=650
 
 
--500 Milestones - interactive data visualization
+- 500 Milestones - interactive data visualization
 
   - https://www.datavis.ca/milestones/
   - https://vimeo.com/42042473
