@@ -14,6 +14,8 @@ Puedes repasar estos [apuntes](sesiones/apuntes.md) sobre atajos de teclado y co
 ## Slides
 https://mpvd.es/modulo/visualizacion-interactiva/
 
+500 Milestones - interactive data visualization
+https://vimeo.com/42042473
 
 ## Ejercicios
 
