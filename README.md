@@ -10,7 +10,7 @@ Puedes repasar estos [apuntes](sesiones/apuntes.md) sobre atajos de teclado y co
 
 
 ## Slides
-
+https://mpvd.es/modulo/visualizacion-interactiva/
 
 
 ## Ejercicios
