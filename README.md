@@ -39,6 +39,8 @@ https://www.kirkgoldsberry.com/
 Loud Numbers
 https://www.loudnumbers.net/
 
+Nextcloud
+https://nextcloud.com/
 
 Krita
 https://krita.org/fr/telechargement/krita-desktop/
