@@ -15,16 +15,16 @@ visualizaciones interactivas con librerías gráficas de JS.
 ## Info
 Programa del Master (https://mpvd.es/modulo/visualizacion-interactiva/)
 
+
+
+
+## Clase 1
+
 ## Barcelona Clean Location
 https://www.kaggle.com/code/albagcorral2/barcelona-clean-location
 http://insideairbnb.com/barcelona/
 https://jllopc.github.io/ciudad.desigual/
 https://300000kms.net/case_study/merce/
-
-
-## Clase 1
-https://www.ted.com/playlists/201/art_from_data
-
 
 
 Alison Killing
@@ -52,8 +52,8 @@ Gimp
 https://www.gimp.org/
 )
 ## clase 2
+Art Made of Data
 https://www.ted.com/playlists/201/art_from_data
-
 
 ## DataVizs
 
