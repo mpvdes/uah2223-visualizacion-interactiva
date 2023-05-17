@@ -32,10 +32,6 @@ Alison Killing
 
   - https://arquitecturaviva.com/articulos/alison-killing-gana-el-premio-pulitzer
 
- 
-Art made of data
-  - https://www.ted.com/playlists/201/art_from_data
-
 Kirk Goldsberry
 https://www.kirkgoldsberry.com/
 
@@ -52,8 +48,9 @@ Gimp
 https://www.gimp.org/
 )
 ## clase 2
-Art Made of Data
-https://www.ted.com/playlists/201/art_from_data
+ 
+Art made of data
+  - https://www.ted.com/playlists/201/art_from_data
 
 ## DataVizs
 
