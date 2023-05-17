@@ -17,6 +17,8 @@ https://mpvd.es/modulo/visualizacion-interactiva/
 500 Milestones - interactive data visualization
 https://vimeo.com/42042473
 
+https://observablehq.com/@mitvis/data-types-graphical-marks-and-visual-encoding-channels
+
 ## Ejercicios
 
 
