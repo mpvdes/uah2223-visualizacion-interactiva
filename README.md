@@ -19,6 +19,7 @@ Programa del Master (https://mpvd.es/modulo/visualizacion-interactiva/)
 https://www.kaggle.com/code/albagcorral2/barcelona-clean-location
 http://insideairbnb.com/barcelona/
 https://jllopc.github.io/ciudad.desigual/
+https://300000kms.net/case_study/merce/
 
 ## DataVizs
 
