@@ -5,7 +5,7 @@
 // 0,Capra hircus,Goat
 // 1,Panthera pardus,Leopard
 // 2,Equus zebra,Zebra
-
+//hola esto es un comentario
 Table table;
 
 void setup() {
