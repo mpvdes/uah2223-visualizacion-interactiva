@@ -1,4 +1,4 @@
-##VISUALIZING CONNECTIONS
+## VISUALIZING CONNECTIONS
 #| Nadieh Bremer at Eyeo 2019 |
 
 In this talk Nadieh reveals the (sometimes ugly) truth behind the design process of several interactive data visualizations from personal projects to client work. The common thread they all share; they all tell a story about connections, but in completely different ways. From a royal family tree, to those existing between UNESCO's Intangible Cultural Heritage, to connections drawn in the night skies and more. All types connections are unique and revealing the intricacies that lie within them requires a creative, iterative and custom approach. 
