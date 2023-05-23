@@ -54,19 +54,7 @@ https://www.gimp.org/
 Art made of data
   - https://www.ted.com/playlists/201/art_from_data
 
-## DataVizs
 
-- Milestones of Interactive Data Visialization
-
-  - https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=19RyYgFNJACEGLmxSO17NzEiydJpxcrAEUGZZBx2yLkI&font=Default&lang=en&initial_zoom=2&height=650
-
-
-- 500 Milestones - interactive data visualization
-
-  - https://www.datavis.ca/milestones/
-  - https://vimeo.com/42042473
-
-https://observablehq.com/@mitvis/data-types-graphical-marks-and-visual-encoding-channels
 
 ## How-To
 Getting started with Conda
@@ -79,6 +67,8 @@ https://conda.io/projects/conda/en/latest/user-guide/getting-started.html#
  conda notebook
  conda install jupyter
 jupyter notebook
+# Sintaxis Markdown
+https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
 Instalar git https://github.com/git-guides/install-git
 ## p5.js
