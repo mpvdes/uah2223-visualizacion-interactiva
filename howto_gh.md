@@ -1,6 +1,11 @@
 # CH en terminal para poder manejar el repositorio desde local
+
 ## pasos a seguir
-### terminal local
+
+### Terminal local Linux
+
+Pasos a seguir en un entorno Linux:
+
 ```
 
 sudo apt update
@@ -35,3 +40,37 @@ git add .
   512  git push
 ```
 ATENCION! cuando pida password poner el token y listo
+
+### Terminal local Windows
+
+En Windows los pasos a seguir son:
+
+- Descargar *gh* en su [web](https://cli.github.com/).
+
+- Cerrar la terminal (si la teníamos abierta) y abrirla de nuevo.
+
+- Acceder a la carpeta donde queremos clonar el repositorio.
+
+- Loguearse en github:
+
+```
+gh auth login
+```
+
+- Responder a las siguientes preguntas:
+
+ *What account do you want to log into?* GitHub.com
+ 
+ *What is your preferred protocol for Git operations?* HTTPS
+ 
+ *Authenticate Git with your GitHub credentials?* Yes
+ 
+ *How would you like to authenticate GitHub CLI?* Paste an authentication token
+ 
+ - Pegamos el token que hemos generado previamente en la web de [Github](https://github.com/settings/tokens).
+ 
+ - Clonar el repositorio con el siguiente comando:
+ 
+ ```
+ gh repo clone mpvdes/uah2223-visualizacion-interactiva
+ ```
