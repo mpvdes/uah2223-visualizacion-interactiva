@@ -4,6 +4,13 @@
 ## informationisbeautiful.net
  -https://informationisbeautiful.net/
 
+## See how Republicans won the House but fell short of a red wave
+https://www.washingtonpost.com/politics/interactive/2022/house-race-map-midterm-elections/
+
+
+## Explore winners of the 25th Malofiej International Infographics Awards
+https://iguacel.github.io/malofiej/
+
 # Milestones of Interactive Data Visialization
 
   - https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=19RyYgFNJACEGLmxSO17NzEiydJpxcrAEUGZZBx2yLkI&font=Default&lang=en&initial_zoom=2&height=650
