@@ -30,14 +30,13 @@ git commit
 git push
 git config --local credential.helper ""
 git push
-git config --local credential.helper ""
+git config --local credential.helper "" # no se si funciona
 git push
 gh auth login
- gh repo create
+gh repo create
 git add .
-
-  510  git commit -m "First commit."
-  512  git push
+git commit -m "First commit."
+git push
 ```
 ATENCION! cuando pida password poner el token y listo
 
