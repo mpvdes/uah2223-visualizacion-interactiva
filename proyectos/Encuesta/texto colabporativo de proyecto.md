@@ -29,6 +29,7 @@ Familia 4 Flows
 
 los barrios mas ricos tienen mas percepción de inseguridad
 
+
 * Geolocalización SI!!!!!!!
   * 
 * por barrios
@@ -40,3 +41,7 @@ los barrios mas ricos tienen mas percepción de inseguridad
 ## problema mes greu
 
 STORY
+
+## Links
+Manuel Lima on How Data Visualization Can Shape Architecture and Cities
+https://www.archdaily.com/941891/manuel-lima-on-how-data-visualization-can-shape-architecture-and-cities
