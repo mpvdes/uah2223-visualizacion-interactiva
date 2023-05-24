@@ -15,7 +15,7 @@ function preload() {
 }
 
 function setup() {
-  createCanvas(710, 400);
+  createCanvas(windowWidth, windowWidth);
 
   // Set text characteristics
   textFont(font);
