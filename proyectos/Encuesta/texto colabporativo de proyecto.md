@@ -2,18 +2,27 @@
 
 ## **ha mejorado / ha empeorado**
 
-* que pasó en el 2012 
+**dato:**
+
+**\- IMAGEN DE LA CIUTAT - P1A**
+
+\- **GRAU DE SATISFACCIÓ- P3**
+
+**TO-DO** 
+
+* dejar todo el año
+* que pasó en el 2012
   * QUIEN GOBERNABA
   * HEMEROTECA
   * PROPIA BASE DE DATOS
   * BARÓMETRO DEL CIS
   * Crisis - Process! - Pandemia
-  *  indice de criminalidad
+  * indice de criminalidad
   * 
 
 4 opciones
 
-*  ha millorat
+* ha millorat
 * esta giaul
 * ha empeorado
 * no lo sabe
@@ -29,9 +38,7 @@ Familia 4 Flows
 
 los barrios mas ricos tienen mas percepción de inseguridad
 
-
-* Geolocalización SI!!!!!!!
-  * 
+* Geolocalización SI!!!!!!! \*
 * por barrios
 * Serveis municipals > 8.17
 * 
@@ -41,7 +48,3 @@ los barrios mas ricos tienen mas percepción de inseguridad
 ## problema mes greu
 
 STORY
-
-## Links
-Manuel Lima on How Data Visualization Can Shape Architecture and Cities
-https://www.archdaily.com/941891/manuel-lima-on-how-data-visualization-can-shape-architecture-and-cities
