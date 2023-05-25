@@ -14,5 +14,7 @@ Dar contexto a la pieza visual artística > Periodismo Visual
 https://www.instamaps.cat/instavisor/6d7eef8c34ca72a7c11697d1520c963a/Habitatges_turistics_a_Barcelona.html#
 https://www.habitatges.es/denunciar-piso-turistico-ilegal/
 
+https://meet.barcelona.cat/habitatgesturistics/
+
 ### Datasets
 
