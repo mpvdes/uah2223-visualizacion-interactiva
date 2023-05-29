@@ -6,10 +6,12 @@ var maxData;
 let peso = [10, 20, 1, 34, 56, 89, 90, 10];
 let circular =  []; //PVector [state.length];
 let loc =  []; //PVector [state.length];
+
 function setup() {
+  createCanvas(600, 600);
   angleMode(DEGREES);
   //datos aleatorios
-  for (var i = 0; i < 32; i = i + 1) {
+  for (var i = 0; i < 12; i = i + 1) {
     var randomNumber = random(20, 80);
     data.push(randomNumber);
   }
