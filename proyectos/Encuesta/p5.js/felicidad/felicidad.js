@@ -11,7 +11,7 @@ let minumero = 1.2;
 //configuraciones y cosas que solo queremos que pasen una vez
 function setup() {
   createCanvas(windowWidth, windowHeight);//creamos Canvas segun el tamaño de mi ventana
-  background(255);
+  background(255,0,255);
 }
 
 

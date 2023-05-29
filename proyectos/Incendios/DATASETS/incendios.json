@@ -1,0 +1,1099 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "9r29-e8ha",
+      "name" : "Incendis forestals per comarques a Catalunya. Any en curs",
+      "assetType" : "dataset",
+      "attribution" : "Departament d'Acció Climàtica, Alimentació i Agenda Rural",
+      "attributionLink" : "http://governobert.gencat.cat/ca/dades_obertes/llicencia-oberta-informacio-catalunya/",
+      "averageRating" : 0,
+      "category" : "Medi Rural-Pesca",
+      "createdAt" : 1621410056,
+      "description" : "Relació dels incendis forestals esdevinguts a Catalunya des de l’1 de gener, amb detall de la data, el municipi en el quan s’han iniciat i les superfícies forestals i no forestals afectades, en hectàrees. Totes les dades son provisionals i estan pendents de validació.",
+      "displayType" : "table",
+      "downloadCount" : 528,
+      "hideFromCatalog" : false,
+      "hideFromDataJson" : false,
+      "licenseId" : "SEE_TERMS_OF_USE",
+      "newBackend" : true,
+      "numberOfComments" : 0,
+      "oid" : 2079439,
+      "provenance" : "official",
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1621415269,
+      "publicationGroup" : 1412061,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1683117050,
+      "rowsUpdatedBy" : "7yiu-nmxh",
+      "tableId" : 1412101,
+      "totalTimesRated" : 0,
+      "viewCount" : 4456,
+      "viewLastModified" : 1683117048,
+      "viewType" : "tabular",
+      "approvals" : [ {
+        "reviewedAt" : 1621413307,
+        "reviewedAutomatically" : true,
+        "state" : "approved",
+        "submissionId" : 914769,
+        "submissionObject" : "public_audience_request",
+        "submissionOutcome" : "change_audience",
+        "submittedAt" : 1621413307,
+        "workflowId" : 182,
+        "submissionDetails" : {
+          "permissionType" : "READ"
+        },
+        "submissionOutcomeApplication" : {
+          "endedAt" : 1621413307,
+          "failureCount" : 0,
+          "startedAt" : 1621413307,
+          "status" : "success"
+        },
+        "submitter" : {
+          "id" : "igsa-mim2",
+          "displayName" : "Dades Obertes Agricultura"
+        }
+      } ],
+      "clientContext" : {
+        "clientContextVariables" : [ ],
+        "inheritedVariables" : { }
+      },
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : 19537987,
+        "name" : "DATA INCENDI",
+        "dataTypeName" : "calendar_date",
+        "description" : "Data d’inici de l’incendi.",
+        "fieldName" : "data_incendi",
+        "position" : 1,
+        "renderTypeName" : "calendar_date",
+        "tableColumnId" : 12967907,
+        "cachedContents" : {
+          "non_null" : "228",
+          "largest" : "2023-05-01T00:00:00.000",
+          "null" : "0",
+          "top" : [ {
+            "item" : "2023-02-05T00:00:00.000",
+            "count" : "9"
+          }, {
+            "item" : "2023-03-14T00:00:00.000",
+            "count" : "7"
+          }, {
+            "item" : "2023-02-18T00:00:00.000",
+            "count" : "6"
+          }, {
+            "item" : "2023-04-05T00:00:00.000",
+            "count" : "6"
+          }, {
+            "item" : "2023-03-11T00:00:00.000",
+            "count" : "6"
+          }, {
+            "item" : "2023-03-04T00:00:00.000",
+            "count" : "6"
+          }, {
+            "item" : "2023-01-30T00:00:00.000",
+            "count" : "6"
+          }, {
+            "item" : "2023-04-13T00:00:00.000",
+            "count" : "5"
+          }, {
+            "item" : "2023-02-04T00:00:00.000",
+            "count" : "5"
+          }, {
+            "item" : "2023-04-07T00:00:00.000",
+            "count" : "5"
+          }, {
+            "item" : "2023-04-17T00:00:00.000",
+            "count" : "5"
+          }, {
+            "item" : "2023-04-15T00:00:00.000",
+            "count" : "5"
+          }, {
+            "item" : "2023-04-08T00:00:00.000",
+            "count" : "4"
+          }, {
+            "item" : "2023-02-03T00:00:00.000",
+            "count" : "4"
+          }, {
+            "item" : "2023-02-20T00:00:00.000",
+            "count" : "4"
+          }, {
+            "item" : "2023-04-12T00:00:00.000",
+            "count" : "4"
+          }, {
+            "item" : "2023-03-10T00:00:00.000",
+            "count" : "4"
+          }, {
+            "item" : "2023-03-26T00:00:00.000",
+            "count" : "4"
+          }, {
+            "item" : "2023-03-08T00:00:00.000",
+            "count" : "3"
+          }, {
+            "item" : "2023-04-01T00:00:00.000",
+            "count" : "3"
+          } ],
+          "smallest" : "2023-01-07T00:00:00.000",
+          "count" : "228",
+          "cardinality" : "89"
+        },
+        "format" : {
+          "view" : "date_dmy"
+        }
+      }, {
+        "id" : 19537988,
+        "name" : "CODI COMARCA",
+        "dataTypeName" : "text",
+        "description" : "Codi Idescat de la comarca.",
+        "fieldName" : "codi_comarca",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 12967900,
+        "cachedContents" : {
+          "non_null" : "228",
+          "largest" : "42",
+          "null" : "0",
+          "top" : [ {
+            "item" : "40",
+            "count" : "27"
+          }, {
+            "item" : "09",
+            "count" : "19"
+          }, {
+            "item" : "11",
+            "count" : "16"
+          }, {
+            "item" : "03",
+            "count" : "12"
+          }, {
+            "item" : "41",
+            "count" : "10"
+          }, {
+            "item" : "10",
+            "count" : "10"
+          }, {
+            "item" : "02",
+            "count" : "10"
+          }, {
+            "item" : "13",
+            "count" : "9"
+          }, {
+            "item" : "20",
+            "count" : "8"
+          }, {
+            "item" : "08",
+            "count" : "8"
+          }, {
+            "item" : "34",
+            "count" : "8"
+          }, {
+            "item" : "23",
+            "count" : "7"
+          }, {
+            "item" : "12",
+            "count" : "6"
+          }, {
+            "item" : "01",
+            "count" : "6"
+          }, {
+            "item" : "37",
+            "count" : "6"
+          }, {
+            "item" : "04",
+            "count" : "6"
+          }, {
+            "item" : "29",
+            "count" : "5"
+          }, {
+            "item" : "06",
+            "count" : "5"
+          }, {
+            "item" : "24",
+            "count" : "5"
+          }, {
+            "item" : "33",
+            "count" : "4"
+          } ],
+          "smallest" : "01",
+          "count" : "228",
+          "cardinality" : "40"
+        },
+        "format" : { }
+      }, {
+        "id" : 19537989,
+        "name" : "COMARCA",
+        "dataTypeName" : "text",
+        "description" : "Comarca d’inici de l’incendi.",
+        "fieldName" : "comarca",
+        "position" : 3,
+        "renderTypeName" : "text",
+        "tableColumnId" : 12967906,
+        "cachedContents" : {
+          "non_null" : "228",
+          "largest" : "Vallès Oriental",
+          "null" : "0",
+          "top" : [ {
+            "item" : "Vallès Occidental",
+            "count" : "27"
+          }, {
+            "item" : "Baix Ebre",
+            "count" : "19"
+          }, {
+            "item" : "Baix Llobregat",
+            "count" : "16"
+          }, {
+            "item" : "Alt Penedès",
+            "count" : "12"
+          }, {
+            "item" : "Baix Empordà",
+            "count" : "10"
+          }, {
+            "item" : "Alt Empordà",
+            "count" : "10"
+          }, {
+            "item" : "Vallès Oriental",
+            "count" : "10"
+          }, {
+            "item" : "Barcelonès",
+            "count" : "9"
+          }, {
+            "item" : "Selva",
+            "count" : "8"
+          }, {
+            "item" : "Gironès",
+            "count" : "8"
+          }, {
+            "item" : "Baix Camp",
+            "count" : "8"
+          }, {
+            "item" : "Noguera",
+            "count" : "7"
+          }, {
+            "item" : "Terra Alta",
+            "count" : "6"
+          }, {
+            "item" : "Alt Camp",
+            "count" : "6"
+          }, {
+            "item" : "Baix Penedès",
+            "count" : "6"
+          }, {
+            "item" : "Alt Urgell",
+            "count" : "6"
+          }, {
+            "item" : "Anoia",
+            "count" : "5"
+          }, {
+            "item" : "Priorat",
+            "count" : "5"
+          }, {
+            "item" : "Osona",
+            "count" : "5"
+          }, {
+            "item" : "Moianès",
+            "count" : "4"
+          } ],
+          "smallest" : "Alta Ribagorça",
+          "count" : "228",
+          "cardinality" : "40"
+        },
+        "format" : { }
+      }, {
+        "id" : 19537990,
+        "name" : "CODI MUNICIPI",
+        "dataTypeName" : "text",
+        "description" : "Codi Idescat del municipi d’inici de l’incendi.",
+        "fieldName" : "codi_municipi",
+        "position" : 4,
+        "renderTypeName" : "text",
+        "tableColumnId" : 12967899,
+        "cachedContents" : {
+          "non_null" : "228",
+          "largest" : "439060",
+          "null" : "0",
+          "top" : [ {
+            "item" : "431554",
+            "count" : "10"
+          }, {
+            "item" : "081878",
+            "count" : "5"
+          }, {
+            "item" : "430640",
+            "count" : "5"
+          }, {
+            "item" : "171595",
+            "count" : "4"
+          }, {
+            "item" : "081944",
+            "count" : "4"
+          }, {
+            "item" : "082798",
+            "count" : "4"
+          }, {
+            "item" : "082515",
+            "count" : "3"
+          }, {
+            "item" : "080898",
+            "count" : "3"
+          }, {
+            "item" : "080543",
+            "count" : "3"
+          }, {
+            "item" : "080517",
+            "count" : "3"
+          }, {
+            "item" : "431634",
+            "count" : "3"
+          }, {
+            "item" : "431042",
+            "count" : "3"
+          }, {
+            "item" : "082917",
+            "count" : "3"
+          }, {
+            "item" : "080193",
+            "count" : "3"
+          }, {
+            "item" : "170890",
+            "count" : "3"
+          }, {
+            "item" : "170792",
+            "count" : "3"
+          }, {
+            "item" : "082021",
+            "count" : "2"
+          }, {
+            "item" : "082883",
+            "count" : "2"
+          }, {
+            "item" : "081234",
+            "count" : "2"
+          }, {
+            "item" : "250156",
+            "count" : "2"
+          } ],
+          "smallest" : "080057",
+          "count" : "228",
+          "cardinality" : "166"
+        },
+        "format" : { }
+      }, {
+        "id" : 19537991,
+        "name" : "TERMEMUNIC",
+        "dataTypeName" : "text",
+        "description" : "Municipi d’inici de l’incendi.",
+        "fieldName" : "termemunic",
+        "position" : 5,
+        "renderTypeName" : "text",
+        "tableColumnId" : 12967905,
+        "cachedContents" : {
+          "non_null" : "228",
+          "largest" : "Vilella Baixa, la",
+          "null" : "0",
+          "top" : [ {
+            "item" : "Tortosa",
+            "count" : "10"
+          }, {
+            "item" : "Gandesa",
+            "count" : "5"
+          }, {
+            "item" : "Sabadell",
+            "count" : "5"
+          }, {
+            "item" : "Sant Adrià de Besòs",
+            "count" : "4"
+          }, {
+            "item" : "Sant Feliu de Buixalleu",
+            "count" : "4"
+          }, {
+            "item" : "Terrassa",
+            "count" : "4"
+          }, {
+            "item" : "Castellbisbal",
+            "count" : "3"
+          }, {
+            "item" : "Castellar del Vallès",
+            "count" : "3"
+          }, {
+            "item" : "Barcelona",
+            "count" : "3"
+          }, {
+            "item" : "Gavà",
+            "count" : "3"
+          }, {
+            "item" : "Vendrell, el",
+            "count" : "3"
+          }, {
+            "item" : "Girona",
+            "count" : "3"
+          }, {
+            "item" : "Perelló, el",
+            "count" : "3"
+          }, {
+            "item" : "Llagostera",
+            "count" : "3"
+          }, {
+            "item" : "Santa Margarida i els Monjos",
+            "count" : "3"
+          }, {
+            "item" : "Vacarisses",
+            "count" : "3"
+          }, {
+            "item" : "Amposta",
+            "count" : "2"
+          }, {
+            "item" : "Montcada i Reixac",
+            "count" : "2"
+          }, {
+            "item" : "Montmell, el",
+            "count" : "2"
+          }, {
+            "item" : "Castellví de Rosanes",
+            "count" : "2"
+          } ],
+          "smallest" : "Agullana",
+          "count" : "228",
+          "cardinality" : "166"
+        },
+        "format" : { }
+      }, {
+        "id" : 19537992,
+        "name" : "HAARBRADES",
+        "dataTypeName" : "number",
+        "description" : "Superfície forestal arbrada cremada, en hectàrees.",
+        "fieldName" : "haarbrades",
+        "position" : 6,
+        "renderTypeName" : "number",
+        "tableColumnId" : 12967904,
+        "cachedContents" : {
+          "non_null" : "228",
+          "largest" : "36.79",
+          "null" : "0",
+          "top" : [ {
+            "item" : "0.00",
+            "count" : "130"
+          }, {
+            "item" : "0.01",
+            "count" : "11"
+          }, {
+            "item" : "0.02",
+            "count" : "10"
+          }, {
+            "item" : "0.03",
+            "count" : "7"
+          }, {
+            "item" : "0.04",
+            "count" : "5"
+          }, {
+            "item" : "0.06",
+            "count" : "5"
+          }, {
+            "item" : "0.15",
+            "count" : "4"
+          }, {
+            "item" : "0.18",
+            "count" : "3"
+          }, {
+            "item" : "0.09",
+            "count" : "2"
+          }, {
+            "item" : "0.07",
+            "count" : "2"
+          }, {
+            "item" : "0.80",
+            "count" : "2"
+          }, {
+            "item" : "0.25",
+            "count" : "2"
+          }, {
+            "item" : "0.10",
+            "count" : "2"
+          }, {
+            "item" : "0.43",
+            "count" : "2"
+          }, {
+            "item" : "0.05",
+            "count" : "2"
+          }, {
+            "item" : "0.50",
+            "count" : "2"
+          }, {
+            "item" : "0.24",
+            "count" : "2"
+          }, {
+            "item" : "36.79",
+            "count" : "1"
+          }, {
+            "item" : "0.48",
+            "count" : "1"
+          }, {
+            "item" : "0.21",
+            "count" : "1"
+          } ],
+          "smallest" : "0.00",
+          "count" : "228",
+          "cardinality" : "52"
+        },
+        "format" : {
+          "precisionStyle" : "standard",
+          "decimalSeparator" : ",",
+          "precision" : "2"
+        }
+      }, {
+        "id" : 19537993,
+        "name" : "HANOARBRAD",
+        "dataTypeName" : "number",
+        "description" : "Superfície forestal de matoll, herbàcia o pastura cremada, en hectàrees.",
+        "fieldName" : "hanoarbrad",
+        "position" : 7,
+        "renderTypeName" : "number",
+        "tableColumnId" : 12967903,
+        "cachedContents" : {
+          "non_null" : "228",
+          "largest" : "335.00",
+          "null" : "0",
+          "top" : [ {
+            "item" : "0.00",
+            "count" : "113"
+          }, {
+            "item" : "0.02",
+            "count" : "13"
+          }, {
+            "item" : "0.01",
+            "count" : "10"
+          }, {
+            "item" : "0.03",
+            "count" : "9"
+          }, {
+            "item" : "0.04",
+            "count" : "7"
+          }, {
+            "item" : "0.05",
+            "count" : "7"
+          }, {
+            "item" : "0.06",
+            "count" : "6"
+          }, {
+            "item" : "0.08",
+            "count" : "4"
+          }, {
+            "item" : "0.20",
+            "count" : "4"
+          }, {
+            "item" : "0.40",
+            "count" : "4"
+          }, {
+            "item" : "0.10",
+            "count" : "3"
+          }, {
+            "item" : "0.12",
+            "count" : "2"
+          }, {
+            "item" : "0.15",
+            "count" : "2"
+          }, {
+            "item" : "0.24",
+            "count" : "2"
+          }, {
+            "item" : "0.13",
+            "count" : "2"
+          }, {
+            "item" : "0.48",
+            "count" : "2"
+          }, {
+            "item" : "0.07",
+            "count" : "2"
+          }, {
+            "item" : "0.30",
+            "count" : "2"
+          }, {
+            "item" : "0.09",
+            "count" : "2"
+          }, {
+            "item" : "1.90",
+            "count" : "1"
+          } ],
+          "smallest" : "0.00",
+          "count" : "228",
+          "cardinality" : "51"
+        },
+        "format" : {
+          "decimalSeparator" : ",",
+          "precision" : "2"
+        }
+      }, {
+        "id" : 19537994,
+        "name" : "HANOFOREST",
+        "dataTypeName" : "number",
+        "description" : "Superfície no forestal (urbana, agrícola) cremada, en hectàrees.",
+        "fieldName" : "hanoforest",
+        "position" : 8,
+        "renderTypeName" : "number",
+        "tableColumnId" : 12967902,
+        "cachedContents" : {
+          "non_null" : "228",
+          "largest" : "13.00",
+          "null" : "0",
+          "top" : [ {
+            "item" : "0.00",
+            "count" : "223"
+          }, {
+            "item" : "1.00",
+            "count" : "3"
+          }, {
+            "item" : "13.00",
+            "count" : "1"
+          }, {
+            "item" : "12.00",
+            "count" : "1"
+          } ],
+          "smallest" : "0.00",
+          "count" : "228",
+          "cardinality" : "4"
+        },
+        "format" : {
+          "decimalSeparator" : ",",
+          "precision" : "2"
+        }
+      }, {
+        "id" : 19537995,
+        "name" : "HAFORESTAL",
+        "dataTypeName" : "number",
+        "description" : "Superfície forestal cremada, en hectàrees. Suma la columna HaArbrades + HaNoArbrades.",
+        "fieldName" : "haforestal",
+        "position" : 9,
+        "renderTypeName" : "number",
+        "tableColumnId" : 12967901,
+        "cachedContents" : {
+          "non_null" : "228",
+          "largest" : "335.00",
+          "null" : "0",
+          "top" : [ {
+            "item" : "0.00",
+            "count" : "36"
+          }, {
+            "item" : "0.02",
+            "count" : "22"
+          }, {
+            "item" : "0.01",
+            "count" : "18"
+          }, {
+            "item" : "0.03",
+            "count" : "14"
+          }, {
+            "item" : "0.04",
+            "count" : "11"
+          }, {
+            "item" : "0.06",
+            "count" : "9"
+          }, {
+            "item" : "0.05",
+            "count" : "6"
+          }, {
+            "item" : "0.09",
+            "count" : "6"
+          }, {
+            "item" : "0.40",
+            "count" : "6"
+          }, {
+            "item" : "0.15",
+            "count" : "5"
+          }, {
+            "item" : "0.20",
+            "count" : "5"
+          }, {
+            "item" : "0.08",
+            "count" : "4"
+          }, {
+            "item" : "0.10",
+            "count" : "4"
+          }, {
+            "item" : "0.24",
+            "count" : "4"
+          }, {
+            "item" : "0.07",
+            "count" : "3"
+          }, {
+            "item" : "0.21",
+            "count" : "3"
+          }, {
+            "item" : "0.48",
+            "count" : "3"
+          }, {
+            "item" : "0.18",
+            "count" : "3"
+          }, {
+            "item" : "0.13",
+            "count" : "3"
+          }, {
+            "item" : "0.35",
+            "count" : "2"
+          } ],
+          "smallest" : "0.00",
+          "count" : "228",
+          "cardinality" : "74"
+        },
+        "format" : {
+          "decimalSeparator" : ",",
+          "precision" : "2"
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "license" : {
+        "name" : "See Terms of Use"
+      },
+      "metadata" : {
+        "custom_fields" : {
+          "Freqüència d'actualització" : {
+            "Freqüència d'actualització" : "Variable"
+          },
+          "Idioma" : {
+            "Idioma" : "Català",
+            "Dataset name (EN)" : "Forest fires by counties in Catalonia. Current year.",
+            "Nombre del conjunto de datos (ES)" : "Incendios forestales por comarca en Catalunya. Año en curso."
+          },
+          "Enllaços relacionats" : {
+            "Nom" : "Dades d'incendis",
+            "URL" : "http://agricultura.gencat.cat/ca/ambits/medi-natural/incendis-forestals/dades-incendis/"
+          },
+          "Actors" : {
+            "Departament" : "Acció Climàtica, Alimentació i Agenda Rural",
+            "Tipus actor" : "Generalitat de Catalunya"
+          },
+          "Àmbit geogràfic" : {
+            "Informació geogràfica" : "Codi d'element",
+            "Àmbit geogràfic" : "Catalunya"
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+      },
+      "owner" : {
+        "id" : "a4b5-gx6v",
+        "displayName" : "Dades Obertes Catalunya",
+        "profileImageUrlLarge" : "/api/users/a4b5-gx6v/profile_images/LARGE",
+        "profileImageUrlMedium" : "/api/users/a4b5-gx6v/profile_images/THUMB",
+        "profileImageUrlSmall" : "/api/users/a4b5-gx6v/profile_images/TINY",
+        "screenName" : "Dades Obertes Catalunya",
+        "type" : "interactive",
+        "flags" : [ "acceptedEula" ]
+      },
+      "query" : { },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "a4b5-gx6v",
+        "displayName" : "Dades Obertes Catalunya",
+        "profileImageUrlLarge" : "/api/users/a4b5-gx6v/profile_images/LARGE",
+        "profileImageUrlMedium" : "/api/users/a4b5-gx6v/profile_images/THUMB",
+        "profileImageUrlSmall" : "/api/users/a4b5-gx6v/profile_images/TINY",
+        "screenName" : "Dades Obertes Catalunya",
+        "type" : "interactive",
+        "flags" : [ "acceptedEula" ]
+      },
+      "tags" : [ "incendi", "forestal" ],
+      "flags" : [ "default", "ownerMayBeContacted", "restorable", "restorePossibleForType" ]
+    }
+  },
+  "data" : [ [ "row-e5rq.gtpd_iqu2", "00000000-0000-0000-76C3-6AF81CA50062", 0, 1683117050, null, 1683117050, null, "{ }", "2023-01-07T00:00:00", "40", "Vallès Occidental", "082606", "Santa Perpètua de Mogoda", "0.00", "0.00", "0.00", "0.00" ]
+, [ "row-skxe.5sys~94kw", "00000000-0000-0000-1791-22D633B324D0", 0, 1683117050, null, 1683117050, null, "{ }", "2023-01-10T00:00:00", "13", "Barcelonès", "081944", "Sant Adrià de Besòs", "0.00", "0.02", "0.00", "0.02" ]
+, [ "row-m8uq.7344~um3u", "00000000-0000-0000-0DD1-A2AC7D52E296", 0, 1683117050, null, 1683117050, null, "{ }", "2023-01-10T00:00:00", "02", "Alt Empordà", "172348", "Biure", "0.00", "0.00", "0.00", "0.00" ]
+, [ "row-rqa4~s4td~b55a", "00000000-0000-0000-BD74-716D55E0EBFC", 0, 1683117050, null, 1683117050, null, "{ }", "2023-01-10T00:00:00", "13", "Barcelonès", "081944", "Sant Adrià de Besòs", "0.00", "0.01", "0.00", "0.01" ]
+, [ "row-nvnx-zmuh-3qmr", "00000000-0000-0000-8E55-ACC4132F448B", 0, 1683117050, null, 1683117050, null, "{ }", "2023-01-11T00:00:00", "09", "Baix Ebre", "430136", "Ametlla de Mar, l'", "0.00", "0.00", "0.00", "0.00" ]
+, [ "row-p5d8-sk8p~6xsm", "00000000-0000-0000-69AF-F532CED3DF98", 0, 1683117050, null, 1683117050, null, "{ }", "2023-01-12T00:00:00", "40", "Vallès Occidental", "080543", "Castellbisbal", "0.00", "0.00", "0.00", "0.00" ]
+, [ "row-psw4.2u33_7fbp", "00000000-0000-0000-E930-9C1529152016", 0, 1683117050, null, 1683117050, null, "{ }", "2023-01-13T00:00:00", "13", "Barcelonès", "081944", "Sant Adrià de Besòs", "0.00", "0.02", "0.00", "0.02" ]
+, [ "row-kjar~uap9-dxgx", "00000000-0000-0000-2C97-7701CEED3EDA", 0, 1683117050, null, 1683117050, null, "{ }", "2023-01-15T00:00:00", "24", "Osona", "081995", "Sant Bartomeu del Grau", "0.00", "0.00", "0.00", "0.00" ]
+, [ "row-93nq_5gpt~whfu", "00000000-0000-0000-6A1E-714EAE4D506E", 0, 1683117050, null, 1683117050, null, "{ }", "2023-01-16T00:00:00", "34", "Selva", "171805", "Santa Coloma de Farners", "0.00", "0.00", "0.00", "0.00" ]
+, [ "row-spx9~89cg_jntj", "00000000-0000-0000-48C5-A24AFB4F23C2", 0, 1683117050, null, 1683117050, null, "{ }", "2023-01-16T00:00:00", "13", "Barcelonès", "081944", "Sant Adrià de Besòs", "0.00", "0.02", "0.00", "0.02" ]
+, [ "row-a7mq~akdp.28nu", "00000000-0000-0000-52A7-818C5B9ECCA5", 0, 1683117050, null, 1683117050, null, "{ }", "2023-01-18T00:00:00", "40", "Vallès Occidental", "082798", "Terrassa", "0.00", "0.00", "0.00", "0.00" ]
+, [ "row-9uvj-gxpq-gyeq", "00000000-0000-0000-2293-B7658490863D", 0, 1683117050, null, 1683117050, null, "{ }", "2023-01-20T00:00:00", "40", "Vallès Occidental", "080517", "Castellar del Vallès", "0.00", "0.30", "0.00", "0.30" ]
+, [ "row-vyfh-bvmr.8tng", "00000000-0000-0000-CA31-90749775C25B", 0, 1683117050, null, 1683117050, null, "{ }", "2023-01-21T00:00:00", "40", "Vallès Occidental", "081252", "Montcada i Reixac", "0.00", "0.49", "0.00", "0.49" ]
+, [ "row-s6ni-cgvm-b5nz", "00000000-0000-0000-DC76-4AD32C9250C8", 0, 1683117050, null, 1683117050, null, "{ }", "2023-01-22T00:00:00", "03", "Alt Penedès", "080850", "Font-rubí", "0.00", "0.04", "0.00", "0.04" ]
+, [ "row-83id_xmgx~veuz", "00000000-0000-0000-BBF2-A30A56311CF8", 0, 1683117050, null, 1683117050, null, "{ }", "2023-01-22T00:00:00", "12", "Baix Penedès", "431634", "Vendrell, el", "0.00", "0.01", "0.00", "0.01" ]
+, [ "row-m53m-vytb.vguz", "00000000-0000-0000-BAAA-9AF1E7D375BA", 0, 1683117050, null, 1683117050, null, "{ }", "2023-01-22T00:00:00", "22", "Montsià", "430141", "Amposta", "0.03", "0.00", "0.00", "0.03" ]
+, [ "row-axgi.diws.m5dr", "00000000-0000-0000-8202-C3B8138A4533", 0, 1683117050, null, 1683117050, null, "{ }", "2023-01-23T00:00:00", "04", "Alt Urgell", "259084", "Fígols i Alinyà", "0.00", "0.00", "0.00", "0.00" ]
+, [ "row-78jv_hqef_6ste", "00000000-0000-0000-7B7B-5F131981C33C", 0, 1683117050, null, 1683117050, null, "{ }", "2023-01-23T00:00:00", "12", "Baix Penedès", "431634", "Vendrell, el", "0.00", "0.00", "0.00", "0.00" ]
+, [ "row-9ef3_xcu7_x8aa", "00000000-0000-0000-56B4-C7510258ECAA", 0, 1683117050, null, 1683117050, null, "{ }", "2023-01-23T00:00:00", "40", "Vallès Occidental", "080517", "Castellar del Vallès", "0.00", "0.00", "0.00", "0.00" ]
+, [ "row-p384_kjn3.794x", "00000000-0000-0000-7FFF-C6D85A16B49A", 0, 1683117050, null, 1683117050, null, "{ }", "2023-01-24T00:00:00", "29", "Priorat", "430555", "Falset", "0.00", "0.20", "0.00", "0.20" ]
+, [ "row-a284.besf~88i7", "00000000-0000-0000-49E0-4C4E08C48BF6", 0, 1683117050, null, 1683117050, null, "{ }", "2023-01-24T00:00:00", "08", "Baix Camp", "431671", "Vilanova d'Escornalbou", "0.04", "0.00", "0.00", "0.04" ]
+, [ "row-gt7c.x3pk-cbrc", "00000000-0000-0000-5BF0-16FAB093704C", 0, 1683117050, null, 1683117050, null, "{ }", "2023-01-25T00:00:00", "37", "Terra Alta", "430640", "Gandesa", "0.00", "0.12", "0.00", "0.12" ]
+, [ "row-fj9e.e54u.3tmp", "00000000-0000-0000-B73B-F1F765529D8C", 0, 1683117050, null, 1683117050, null, "{ }", "2023-01-25T00:00:00", "40", "Vallès Occidental", "080517", "Castellar del Vallès", "0.00", "0.03", "0.00", "0.03" ]
+, [ "row-2hk4-tjcw~jj2d", "00000000-0000-0000-D7AE-42DBD5AA21A5", 0, 1683117050, null, 1683117050, null, "{ }", "2023-01-27T00:00:00", "09", "Baix Ebre", "431042", "Perelló, el", "0.00", "0.20", "0.00", "0.20" ]
+, [ "row-qy7x_nti3.uzqd", "00000000-0000-0000-523C-AA547AA04529", 0, 1683117050, null, 1683117050, null, "{ }", "2023-01-27T00:00:00", "10", "Baix Empordà", "172116", "Verges", "0.24", "0.00", "0.00", "0.24" ]
+, [ "row-9cgt~3gub-9k6e", "00000000-0000-0000-626A-5F409B9ED480", 0, 1683117050, null, 1683117050, null, "{ }", "2023-01-28T00:00:00", "11", "Baix Llobregat", "080898", "Gavà", "0.02", "0.08", "0.00", "0.10" ]
+, [ "row-aahq_z466_6k6z", "00000000-0000-0000-21A9-5C0165B6FA49", 0, 1683117050, null, 1683117050, null, "{ }", "2023-01-30T00:00:00", "11", "Baix Llobregat", "080898", "Gavà", "0.00", "0.00", "0.00", "0.00" ]
+, [ "row-p2md_pasn~ekwx", "00000000-0000-0000-1F9E-65C117F60BC2", 0, 1683117050, null, 1683117050, null, "{ }", "2023-01-30T00:00:00", "03", "Alt Penedès", "080919", "Gelida", "0.15", "0.00", "0.00", "0.15" ]
+, [ "row-78s5~jib4-j4fm", "00000000-0000-0000-5508-AD30B9710B0C", 0, 1683117050, null, 1683117050, null, "{ }", "2023-01-30T00:00:00", "41", "Vallès Oriental", "082763", "Tagamanent", "0.18", "0.00", "0.00", "0.18" ]
+, [ "row-43r3.9qdj-6g2m", "00000000-0000-0000-814A-217C02380104", 0, 1683117050, null, 1683117050, null, "{ }", "2023-01-30T00:00:00", "41", "Vallès Oriental", "081982", "Sant Antoni de Vilamajor", "0.10", "0.00", "0.00", "0.10" ]
+, [ "row-cnbb_h79n_grc3", "00000000-0000-0000-89C2-EAD2BB67C727", 0, 1683117050, null, 1683117050, null, "{ }", "2023-01-30T00:00:00", "30", "Ribera d'Ebre", "430846", "Miravet", "0.00", "0.06", "0.00", "0.06" ]
+, [ "row-qiaf-96am_j2mt", "00000000-0000-0000-A828-C254ED857795", 0, 1683117050, null, 1683117050, null, "{ }", "2023-01-30T00:00:00", "40", "Vallès Occidental", "081878", "Sabadell", "0.00", "0.05", "0.00", "0.05" ]
+, [ "row-hunb-t4sk.vs8h", "00000000-0000-0000-7B95-1A1C4FDBB2BA", 0, 1683117050, null, 1683117050, null, "{ }", "2023-01-31T00:00:00", "10", "Baix Empordà", "171997", "Torroella de Montgrí", "0.03", "0.00", "0.00", "0.03" ]
+, [ "row-nzzx-6hgb_bkjy", "00000000-0000-0000-1C2D-FAC6CC7DDFF9", 0, 1683117050, null, 1683117050, null, "{ }", "2023-01-31T00:00:00", "24", "Osona", "081607", "Perafita", "0.25", "0.00", "0.00", "0.25" ]
+, [ "row-gp9g~9fhn_pyvu", "00000000-0000-0000-6C17-10AC6806CBC4", 0, 1683117050, null, 1683117050, null, "{ }", "2023-02-01T00:00:00", "11", "Baix Llobregat", "080728", "Corbera de Llobregat", "0.00", "0.00", "0.00", "0.00" ]
+, [ "row-xbzb.gktb.qean", "00000000-0000-0000-EC76-93FA8BFF2C51", 0, 1683117050, null, 1683117050, null, "{ }", "2023-02-01T00:00:00", "11", "Baix Llobregat", "081234", "Molins de Rei", "0.00", "0.00", "0.00", "0.00" ]
+, [ "row-e5mm~knkg_jm3x", "00000000-0000-0000-41DB-00DEC904EB45", 0, 1683117050, null, 1683117050, null, "{ }", "2023-02-01T00:00:00", "40", "Vallès Occidental", "081878", "Sabadell", "0.00", "0.03", "0.00", "0.03" ]
+, [ "row-vfnm_ivuq_i9tq", "00000000-0000-0000-5B0F-28920F59E62E", 0, 1683117050, null, 1683117050, null, "{ }", "2023-02-02T00:00:00", "03", "Alt Penedès", "082515", "Santa Margarida i els Monjos", "0.00", "0.03", "0.00", "0.03" ]
+, [ "row-kb7w-8b4w-anvk", "00000000-0000-0000-1EA3-E3B620161DD1", 0, 1683117050, null, 1683117050, null, "{ }", "2023-02-03T00:00:00", "15", "Cerdanya", "170947", "Llívia", "0.00", "0.50", "0.00", "0.50" ]
+, [ "row-p62p-3iqn-5cxt", "00000000-0000-0000-C671-2233AA7D1804", 0, 1683117050, null, 1683117050, null, "{ }", "2023-02-03T00:00:00", "08", "Baix Camp", "430311", "Borges del Camp, les", "0.00", "3.00", "0.00", "3.00" ]
+, [ "row-bfp5.7hip-tbkx", "00000000-0000-0000-0590-6A0EA24CCBF2", 0, 1683117050, null, 1683117050, null, "{ }", "2023-02-03T00:00:00", "08", "Baix Camp", "430094", "Alforja", "0.00", "0.75", "0.00", "0.75" ]
+, [ "row-b9pb-vvf8-aqmn", "00000000-0000-0000-2F2A-1EC5EF66EF08", 0, 1683117050, null, 1683117050, null, "{ }", "2023-02-03T00:00:00", "41", "Vallès Oriental", "080235", "Bigues i Riells", "0.02", "0.00", "0.00", "0.02" ]
+, [ "row-rhhg_eexs_i8wy", "00000000-0000-0000-7EBA-857F3484BF4B", 0, 1683117050, null, 1683117050, null, "{ }", "2023-02-04T00:00:00", "10", "Baix Empordà", "179011", "Cruïlles, Monells i Sant Sadurní de l'Heura", "0.00", "0.03", "0.00", "0.03" ]
+, [ "row-83zg~azzh.9gzm", "00000000-0000-0000-8741-AD25B54C8DEA", 0, 1683117050, null, 1683117050, null, "{ }", "2023-02-04T00:00:00", "09", "Baix Ebre", "431554", "Tortosa", "5.04", "7.89", "13.00", "12.93" ]
+, [ "row-qz68_8rfr.idxy", "00000000-0000-0000-90A8-E2B248153878", 0, 1683117050, null, 1683117050, null, "{ }", "2023-02-04T00:00:00", "28", "Pla de l'Estany", "170561", "Cornellà del Terri", "0.01", "0.05", "0.00", "0.06" ]
+, [ "row-u4r4~r2sh_7t96", "00000000-0000-0000-D625-7C099B32B444", 0, 1683117050, null, 1683117050, null, "{ }", "2023-02-04T00:00:00", "02", "Alt Empordà", "171984", "Torroella de Fluvià", "0.00", "0.02", "0.00", "0.02" ]
+, [ "row-fh9w~264e_hp6m", "00000000-0000-0000-AA0C-09F6957090F5", 0, 1683117050, null, 1683117050, null, "{ }", "2023-02-04T00:00:00", "10", "Baix Empordà", "170681", "Foixà", "1.22", "0.00", "0.00", "1.22" ]
+, [ "row-p2yd_t83m-q53x", "00000000-0000-0000-FBE3-F2E2C2550032", 0, 1683117050, null, 1683117050, null, "{ }", "2023-02-05T00:00:00", "04", "Alt Urgell", "259084", "Fígols i Alinyà", "0.00", "0.20", "0.00", "0.20" ]
+, [ "row-ie5w_yupf~mnai", "00000000-0000-0000-935A-A80C6F8CD0F5", 0, 1683117050, null, 1683117050, null, "{ }", "2023-02-05T00:00:00", "09", "Baix Ebre", "431554", "Tortosa", "0.00", "0.18", "0.00", "0.18" ]
+, [ "row-nvmg~3uhi-q5t9", "00000000-0000-0000-D8C8-E203CA41F45E", 0, 1683117050, null, 1683117050, null, "{ }", "2023-02-05T00:00:00", "10", "Baix Empordà", "170340", "Calonge i Sant Antoni", "0.06", "0.00", "0.00", "0.06" ]
+, [ "row-bf2u.7x6y~b4xg", "00000000-0000-0000-0B90-6144D284B932", 0, 1683117050, null, 1683117050, null, "{ }", "2023-02-05T00:00:00", "24", "Osona", "089019", "Rupit i Pruit", "0.26", "0.00", "0.00", "0.26" ]
+, [ "row-6v2d~q6se-s2fr", "00000000-0000-0000-B7B3-EE1A89BFBA81", 0, 1683117050, null, 1683117050, null, "{ }", "2023-02-05T00:00:00", "34", "Selva", "171595", "Sant Feliu de Buixalleu", "0.87", "0.00", "0.00", "0.87" ]
+, [ "row-mvjy-nhpb.5wyp", "00000000-0000-0000-2BEA-31F0AFF6B148", 0, 1683117050, null, 1683117050, null, "{ }", "2023-02-05T00:00:00", "03", "Alt Penedès", "082270", "Sant Martí Sarroca", "0.00", "0.40", "0.00", "0.40" ]
+, [ "row-xrtq-994n-dy36", "00000000-0000-0000-0059-F563D47E217F", 0, 1683117050, null, 1683117050, null, "{ }", "2023-02-05T00:00:00", "40", "Vallès Occidental", "082384", "Sant Quirze del Vallès", "0.09", "0.00", "0.00", "0.09" ]
+, [ "row-2na2-hbkp~knzd", "00000000-0000-0000-BEF0-852108F1556D", 0, 1683117050, null, 1683117050, null, "{ }", "2023-02-05T00:00:00", "09", "Baix Ebre", "431554", "Tortosa", "0.01", "0.00", "0.00", "0.01" ]
+, [ "row-q42x-eece_h5b2", "00000000-0000-0000-6FE2-4DEFEEAB429A", 0, 1683117050, null, 1683117050, null, "{ }", "2023-02-05T00:00:00", "38", "Urgell", "252173", "Tàrrega", "0.00", "1.72", "0.00", "1.72" ]
+, [ "row-4i99~f3ej-26s2", "00000000-0000-0000-2116-160B7DFADF35", 0, 1683117050, null, 1683117050, null, "{ }", "2023-02-06T00:00:00", "29", "Priorat", "430350", "Cabacés", "0.36", "0.00", "0.00", "0.36" ]
+, [ "row-bpcd.w7kn~7j63", "00000000-0000-0000-1671-0485736F788D", 0, 1683117050, null, 1683117050, null, "{ }", "2023-02-06T00:00:00", "40", "Vallès Occidental", "083008", "Viladecavalls", "0.07", "0.00", "0.00", "0.07" ]
+, [ "row-y2mp.qibd.x9ts", "00000000-0000-0000-4142-28A7B0AEBF7E", 0, 1683117050, null, 1683117050, null, "{ }", "2023-02-06T00:00:00", "01", "Alt Camp", "430363", "Cabra del Camp", "0.00", "0.08", "0.00", "0.08" ]
+, [ "row-zkw3-2sh7.sp27", "00000000-0000-0000-0A7A-84E9C27E0AD5", 0, 1683117050, null, 1683117050, null, "{ }", "2023-02-07T00:00:00", "40", "Vallès Occidental", "081568", "Palau-solità i Plegamans", "0.00", "0.00", "0.00", "0.00" ]
+, [ "row-g9zq-nhjw_rdav", "00000000-0000-0000-90BB-3F45D30E1011", 0, 1683117050, null, 1683117050, null, "{ }", "2023-02-11T00:00:00", "13", "Barcelonès", "080193", "Barcelona", "0.00", "0.00", "0.00", "0.00" ]
+, [ "row-kqtn_xmbx_k8ac", "00000000-0000-0000-1E87-22BE5ED5005D", 0, 1683117050, null, 1683117050, null, "{ }", "2023-02-14T00:00:00", "03", "Alt Penedès", "082227", "Sant Llorenç d'Hortons", "0.00", "0.59", "0.00", "0.59" ]
+, [ "row-hdfi~v3en.msz4", "00000000-0000-0000-9CB2-376FFC91B74B", 0, 1683117050, null, 1683117050, null, "{ }", "2023-02-16T00:00:00", "04", "Alt Urgell", "250772", "Coll de Nargó", "0.00", "0.03", "0.00", "0.03" ]
+, [ "row-zr2k-ar9n-5k23", "00000000-0000-0000-F525-F701CF82BD62", 0, 1683117050, null, 1683117050, null, "{ }", "2023-02-18T00:00:00", "41", "Vallès Oriental", "081810", "Roca del Vallès, la", "0.18", "0.03", "0.00", "0.21" ]
+, [ "row-rphg_474h-xkn6", "00000000-0000-0000-26B9-5E8B0A430543", 0, 1683117050, null, 1683117050, null, "{ }", "2023-02-18T00:00:00", "04", "Alt Urgell", "259062", "Valls d'Aguilar, les", "0.01", "0.00", "0.00", "0.01" ]
+, [ "row-gx8a.hapy.rjav", "00000000-0000-0000-2ED6-1F66B8C97FD4", 0, 1683117050, null, 1683117050, null, "{ }", "2023-02-18T00:00:00", "01", "Alt Camp", "430056", "Alcover", "0.04", "0.00", "0.00", "0.04" ]
+, [ "row-yww8.ituv-3zvc", "00000000-0000-0000-ED2F-37871DBD7C1F", 0, 1683117050, null, 1683117050, null, "{ }", "2023-02-18T00:00:00", "11", "Baix Llobregat", "082634", "Sant Vicenç dels Horts", "0.00", "0.86", "0.00", "0.86" ]
+, [ "row-ne56_k6ea.eap3", "00000000-0000-0000-1F70-105BF37F6509", 0, 1683117050, null, 1683117050, null, "{ }", "2023-02-18T00:00:00", "11", "Baix Llobregat", "080667", "Castellví de Rosanes", "0.24", "0.00", "0.00", "0.24" ]
+, [ "row-z8ih-hb2d-cfr8", "00000000-0000-0000-08A1-FA05345B7D53", 0, 1683117050, null, 1683117050, null, "{ }", "2023-02-18T00:00:00", "41", "Vallès Oriental", "082074", "Sant Esteve de Palautordera", "0.00", "0.02", "0.00", "0.02" ]
+, [ "row-tetf_9gbb.vk9v", "00000000-0000-0000-5CB5-D28C60EA8E76", 0, 1683117050, null, 1683117050, null, "{ }", "2023-02-19T00:00:00", "15", "Cerdanya", "251752", "Prats i Sansor", "0.15", "0.00", "0.00", "0.15" ]
+, [ "row-bf36.kwpd_8jpj", "00000000-0000-0000-27E8-4C1FB4EBD73E", 0, 1683117050, null, 1683117050, null, "{ }", "2023-02-19T00:00:00", "12", "Baix Penedès", "431634", "Vendrell, el", "0.02", "0.00", "0.00", "0.02" ]
+, [ "row-zhhe.ay6z~6429", "00000000-0000-0000-3263-0FB549C34462", 0, 1683117050, null, 1683117050, null, "{ }", "2023-02-19T00:00:00", "19", "Garrotxa", "172082", "Vall de Bianya, la", "0.90", "0.00", "0.00", "0.90" ]
+, [ "row-xsae.5nhy.kf5q", "00000000-0000-0000-5850-EBE098AC02A0", 0, 1683117050, null, 1683117050, null, "{ }", "2023-02-20T00:00:00", "34", "Selva", "171595", "Sant Feliu de Buixalleu", "0.00", "0.00", "0.00", "0.00" ]
+, [ "row-ty7s-t5a8.8r6t", "00000000-0000-0000-EE27-A17AF04EC6D9", 0, 1683117050, null, 1683117050, null, "{ }", "2023-02-20T00:00:00", "30", "Ribera d'Ebre", "431508", "Tivissa", "0.00", "0.24", "0.00", "0.24" ]
+, [ "row-jwm6.2ug6~vygi", "00000000-0000-0000-365C-72B8ED2511FB", 0, 1683117050, null, 1683117050, null, "{ }", "2023-02-20T00:00:00", "36", "Tarragonès", "431482", "Tarragona", "0.00", "0.00", "0.00", "0.00" ]
+, [ "row-qcvf_7i5z.qkw5", "00000000-0000-0000-D0F1-2508D32F4B96", 0, 1683117050, null, 1683117050, null, "{ }", "2023-02-20T00:00:00", "06", "Anoia", "082264", "Sant Martí de Tous", "0.00", "0.35", "0.00", "0.35" ]
+, [ "row-rrj7~mtji~tixw", "00000000-0000-0000-34D9-AD3B9D024B54", 0, 1683117050, null, 1683117050, null, "{ }", "2023-02-21T00:00:00", "40", "Vallès Occidental", "082798", "Terrassa", "0.00", "0.00", "0.00", "0.00" ]
+, [ "row-fdgq_f6uw_tkhz", "00000000-0000-0000-49A0-ED2D1C8000DA", 0, 1683117050, null, 1683117050, null, "{ }", "2023-02-21T00:00:00", "42", "Moianès", "081385", "Moià", "0.02", "0.00", "0.00", "0.02" ]
+, [ "row-fiy5_s9bz-6w4a", "00000000-0000-0000-2558-DEFC3FD14BE6", 0, 1683117050, null, 1683117050, null, "{ }", "2023-02-21T00:00:00", "11", "Baix Llobregat", "080569", "Castelldefels", "0.00", "0.00", "0.00", "0.00" ]
+, [ "row-49f6~7p48_4tmr", "00000000-0000-0000-C740-C40CD362AA5C", 0, 1683117050, null, 1683117050, null, "{ }", "2023-02-25T00:00:00", "20", "Gironès", "170792", "Girona", "0.00", "0.20", "0.00", "0.20" ]
+, [ "row-wtv9.qgiw-6byq", "00000000-0000-0000-0E83-C0A3E92FD19F", 0, 1683117050, null, 1683117050, null, "{ }", "2023-02-27T00:00:00", "06", "Anoia", "082508", "Santa Margarida de Montbui", "0.01", "0.00", "0.00", "0.01" ]
+, [ "row-hu6c~emzp.cf7u", "00000000-0000-0000-D53D-EC5F5023B5BA", 0, 1683117050, null, 1683117050, null, "{ }", "2023-03-01T00:00:00", "09", "Baix Ebre", "431554", "Tortosa", "0.00", "0.04", "0.00", "0.04" ]
+, [ "row-nbfd~2tgu_4ewr", "00000000-0000-0000-7CCE-0E8449434BB6", 0, 1683117050, null, 1683117050, null, "{ }", "2023-03-02T00:00:00", "09", "Baix Ebre", "439060", "Ampolla, l'", "0.00", "0.00", "0.00", "0.00" ]
+, [ "row-f9em-utnw.e4yf", "00000000-0000-0000-5041-85C709382723", 0, 1683117050, null, 1683117050, null, "{ }", "2023-03-02T00:00:00", "20", "Gironès", "170890", "Llagostera", "0.00", "0.05", "0.00", "0.05" ]
+, [ "row-5686~hhgm_uzxe", "00000000-0000-0000-00A1-B3BC88DFDA4D", 0, 1683117050, null, 1683117050, null, "{ }", "2023-03-03T00:00:00", "34", "Selva", "170335", "Caldes de Malavella", "0.13", "0.00", "0.00", "0.13" ]
+, [ "row-zjba~9gbv-8ty8", "00000000-0000-0000-4633-3302465EAB52", 0, 1683117050, null, 1683117050, null, "{ }", "2023-03-03T00:00:00", "09", "Baix Ebre", "431554", "Tortosa", "0.00", "0.39", "0.00", "0.39" ]
+, [ "row-zvpe.uxpq_msuv", "00000000-0000-0000-0305-F44ED28723CC", 0, 1683117050, null, 1683117050, null, "{ }", "2023-03-03T00:00:00", "11", "Baix Llobregat", "080667", "Castellví de Rosanes", "0.00", "0.02", "0.00", "0.02" ]
+, [ "row-vvk6-jvc7-3qvc", "00000000-0000-0000-FE34-03C3C928B260", 0, 1683117050, null, 1683117050, null, "{ }", "2023-03-04T00:00:00", "37", "Terra Alta", "430640", "Gandesa", "0.00", "0.40", "0.00", "0.40" ]
+, [ "row-fq9j_ydjm-4vid", "00000000-0000-0000-3378-2220EB62C1F4", 0, 1683117050, null, 1683117050, null, "{ }", "2023-03-04T00:00:00", "22", "Montsià", "430141", "Amposta", "0.00", "0.01", "0.00", "0.01" ]
+, [ "row-xu3w_hc7w_kdmx", "00000000-0000-0000-902D-61093EE06FD8", 0, 1683117050, null, 1683117050, null, "{ }", "2023-03-04T00:00:00", "37", "Terra Alta", "430419", "Caseres", "0.00", "0.13", "0.00", "0.13" ]
+, [ "row-enir_8fie-tmcx", "00000000-0000-0000-7C77-53A2EFF2FE7F", 0, 1683117050, null, 1683117050, null, "{ }", "2023-03-04T00:00:00", "20", "Gironès", "171557", "Salt", "0.00", "0.00", "0.00", "0.00" ]
+, [ "row-cti6.3qvr-s4f4", "00000000-0000-0000-B027-8EA067C0CA2C", 0, 1683117050, null, 1683117050, null, "{ }", "2023-03-04T00:00:00", "29", "Priorat", "431541", "Torroja del Priorat", "0.00", "0.13", "0.00", "0.13" ]
+, [ "row-sjab-3pfg-hdx6", "00000000-0000-0000-281E-ED36107AB980", 0, 1683117050, null, 1683117050, null, "{ }", "2023-03-04T00:00:00", "09", "Baix Ebre", "431554", "Tortosa", "0.02", "0.00", "0.00", "0.02" ]
+, [ "row-dfbz-gww3.hdci", "00000000-0000-0000-CD64-C6847B72BF40", 0, 1683117050, null, 1683117050, null, "{ }", "2023-03-05T00:00:00", "19", "Garrotxa", "171848", "Santa Pau", "0.00", "0.22", "0.00", "0.22" ]
+, [ "row-f9ck_zqmq~ev8g", "00000000-0000-0000-B6FB-8F9676836BD9", 0, 1683117050, null, 1683117050, null, "{ }", "2023-03-05T00:00:00", "09", "Baix Ebre", "431042", "Perelló, el", "0.00", "0.02", "0.00", "0.02" ]
+, [ "row-ie6x-en6r_d7uu", "00000000-0000-0000-0F2A-0A3B29EE3DB4", 0, 1683117050, null, 1683117050, null, "{ }", "2023-03-05T00:00:00", "10", "Baix Empordà", "171181", "Palamós", "0.38", "0.00", "0.00", "0.38" ]
+, [ "row-ih6p_5t8w~2inm", "00000000-0000-0000-1750-0E3F6ED3F799", 0, 1683117050, null, 1683117050, null, "{ }", "2023-03-06T00:00:00", "11", "Baix Llobregat", "082114", "Sant Feliu de Llobregat", "0.00", "0.00", "0.00", "0.00" ]
+, [ "row-vias~4ywn-br3i", "00000000-0000-0000-F1E9-FD97DB11D91C", 0, 1683117050, null, 1683117050, null, "{ }", "2023-03-07T00:00:00", "37", "Terra Alta", "430640", "Gandesa", "0.00", "0.00", "0.00", "0.00" ]
+, [ "row-3wiy-qj7g~6tyu", "00000000-0000-0000-2406-4C762D338A88", 0, 1683117050, null, 1683117050, null, "{ }", "2023-03-07T00:00:00", "13", "Barcelonès", "082457", "Santa Coloma de Gramenet", "0.00", "0.06", "0.00", "0.06" ]
+, [ "row-spyq_zd7q.22dx", "00000000-0000-0000-926B-9135A57E56BA", 0, 1683117050, null, 1683117050, null, "{ }", "2023-03-07T00:00:00", "02", "Alt Empordà", "171208", "Palau-saverdera", "0.15", "0.00", "0.00", "0.15" ]
+, [ "row-4ui8_izbe~nu36", "00000000-0000-0000-2714-3A23EEBAAEAB", 0, 1683117050, null, 1683117050, null, "{ }", "2023-03-08T00:00:00", "03", "Alt Penedès", "082732", "Subirats", "0.00", "0.05", "0.00", "0.05" ]
+, [ "row-mwqb_n36g.6scu", "00000000-0000-0000-018F-19093920091E", 0, 1683117050, null, 1683117050, null, "{ }", "2023-03-08T00:00:00", "41", "Vallès Oriental", "080863", "Franqueses del Vallès, les", "0.00", "0.19", "0.00", "0.19" ]
+, [ "row-je2w-zu25_kfdp", "00000000-0000-0000-05E3-662281A05473", 0, 1683117050, null, 1683117050, null, "{ }", "2023-03-08T00:00:00", "18", "Garrigues", "251018", "Granadella, la", "0.17", "0.00", "0.00", "0.17" ]
+, [ "row-fytp~6kee.k734", "00000000-0000-0000-58DF-61F0A0D33A87", 0, 1683117050, null, 1683117050, null, "{ }", "2023-03-09T00:00:00", "33", "Segrià", "251425", "Montoliu de Lleida", "0.00", "0.02", "0.00", "0.02" ]
+, [ "row-i8vz.2nbb_8pvd", "00000000-0000-0000-C8EA-393C544416E3", 0, 1683117050, null, 1683117050, null, "{ }", "2023-03-09T00:00:00", "34", "Selva", "171595", "Sant Feliu de Buixalleu", "0.97", "0.00", "0.00", "0.97" ]
+, [ "row-jm4v.uygi-wuma", "00000000-0000-0000-0344-853BCAD84A71", 0, 1683117050, null, 1683117050, null, "{ }", "2023-03-09T00:00:00", "24", "Osona", "081000", "Gurb", "0.05", "0.00", "0.00", "0.05" ]
+, [ "row-pkj8~j7hs_3wcg", "00000000-0000-0000-A0D7-B48D724DB06B", 0, 1683117050, null, 1683117050, null, "{ }", "2023-03-10T00:00:00", "31", "Ripollès", "171674", "Sant Joan de les Abadesses", "1.70", "0.00", "0.00", "1.70" ]
+, [ "row-mv6f.fmua_x88c", "00000000-0000-0000-B589-0DDD5C908B32", 0, 1683117050, null, 1683117050, null, "{ }", "2023-03-10T00:00:00", "38", "Urgell", "259025", "Sant Martí de Riucorb", "0.22", "3.50", "0.00", "3.72" ]
+, [ "row-jqr6.iuxj.ce92", "00000000-0000-0000-2935-4F7DF5AAD5E8", 0, 1683117050, null, 1683117050, null, "{ }", "2023-03-10T00:00:00", "01", "Alt Camp", "431248", "Riba, la", "0.00", "0.00", "0.00", "0.00" ]
+, [ "row-eb4t_iv6a~fmt5", "00000000-0000-0000-E1FA-A8ECC98B225D", 0, 1683117050, null, 1683117050, null, "{ }", "2023-03-10T00:00:00", "42", "Moianès", "082397", "Sant Quirze Safaja", "0.09", "0.00", "0.00", "0.09" ]
+, [ "row-8qs2.hcvd~yitu", "00000000-0000-0000-BB9D-193F521B5DA8", 0, 1683117050, null, 1683117050, null, "{ }", "2023-03-11T00:00:00", "02", "Alt Empordà", "170412", "Cantallops", "0.21", "0.00", "0.00", "0.21" ]
+, [ "row-ypb7-ekvg.9b68", "00000000-0000-0000-552E-1CF2D895A580", 0, 1683117050, null, 1683117050, null, "{ }", "2023-03-11T00:00:00", "17", "Garraf", "080749", "Cubelles", "1.25", "1.12", "1.00", "2.37" ]
+, [ "row-ud5r~s8az.brby", "00000000-0000-0000-BA29-A8D6A8CA46BA", 0, 1683117050, null, 1683117050, null, "{ }", "2023-03-11T00:00:00", "02", "Alt Empordà", "170010", "Agullana", "0.50", "0.00", "0.00", "0.50" ]
+, [ "row-7fq2~ynmc-sptw", "00000000-0000-0000-3AB5-5A69A2DC3A58", 0, 1683117050, null, 1683117050, null, "{ }", "2023-03-11T00:00:00", "40", "Vallès Occidental", "082055", "Sant Cugat del Vallès", "0.00", "0.00", "0.00", "0.00" ]
+, [ "row-rhe6.nx5u.qaz5", "00000000-0000-0000-C71B-3D389D5AB5B2", 0, 1683117050, null, 1683117050, null, "{ }", "2023-03-11T00:00:00", "34", "Selva", "171642", "Sant Hilari Sacalm", "0.06", "0.10", "0.00", "0.16" ]
+, [ "row-8h46_yyru_8g7r", "00000000-0000-0000-E39F-5EF4C4103EDB", 0, 1683117050, null, 1683117050, null, "{ }", "2023-03-11T00:00:00", "34", "Selva", "171595", "Sant Feliu de Buixalleu", "0.03", "0.00", "0.00", "0.03" ]
+, [ "row-k5kg~ihfn~mmrv", "00000000-0000-0000-82EA-76EBD47BBE45", 0, 1683117050, null, 1683117050, null, "{ }", "2023-03-12T00:00:00", "10", "Baix Empordà", "179026", "Forallac", "0.07", "0.00", "0.00", "0.07" ]
+, [ "row-7itk.dibk_h7fb", "00000000-0000-0000-8661-F5301EEE2130", 0, 1683117050, null, 1683117050, null, "{ }", "2023-03-12T00:00:00", "37", "Terra Alta", "430640", "Gandesa", "0.00", "0.04", "0.00", "0.04" ]
+, [ "row-cnej_ftrr_pqbe", "00000000-0000-0000-0218-465959084801", 0, 1683117050, null, 1683117050, null, "{ }", "2023-03-13T00:00:00", "40", "Vallès Occidental", "082917", "Vacarisses", "0.00", "0.00", "0.00", "0.00" ]
+, [ "row-h94w~wq2s~yjjj", "00000000-0000-0000-215D-E0C9824089A6", 0, 1683117050, null, 1683117050, null, "{ }", "2023-03-13T00:00:00", "02", "Alt Empordà", "170643", "Espolla", "0.02", "0.00", "0.00", "0.02" ]
+, [ "row-utnr~8aix~9e5n", "00000000-0000-0000-7824-F572DCE65ECD", 0, 1683117050, null, 1683117050, null, "{ }", "2023-03-13T00:00:00", "28", "Pla de l'Estany", "170353", "Camós", "0.35", "0.00", "0.00", "0.35" ]
+, [ "row-b3f3-heyt_7zkb", "00000000-0000-0000-96FC-D72E805B8E9C", 0, 1683117050, null, 1683117050, null, "{ }", "2023-03-14T00:00:00", "09", "Baix Ebre", "431042", "Perelló, el", "0.80", "0.00", "0.00", "0.80" ]
+, [ "row-rt8y_uhpa-qmfg", "00000000-0000-0000-ECA3-2777551E35B2", 0, 1683117050, null, 1683117050, null, "{ }", "2023-03-14T00:00:00", "02", "Alt Empordà", "170932", "Llers", "0.02", "0.07", "0.00", "0.09" ]
+, [ "row-gv7n~q2me_brnk", "00000000-0000-0000-8D51-129499E84FA8", 0, 1683117050, null, 1683117050, null, "{ }", "2023-03-14T00:00:00", "40", "Vallès Occidental", "082917", "Vacarisses", "0.00", "0.04", "0.00", "0.04" ]
+, [ "row-xcuj~njuw.z6nn", "00000000-0000-0000-B307-899186D4D7BB", 0, 1683117050, null, 1683117050, null, "{ }", "2023-03-14T00:00:00", "11", "Baix Llobregat", "080898", "Gavà", "0.00", "0.08", "0.00", "0.08" ]
+, [ "row-wxku_dbqa.e6bv", "00000000-0000-0000-6641-2CEEFE5A37ED", 0, 1683117050, null, 1683117050, null, "{ }", "2023-03-14T00:00:00", "08", "Baix Camp", "431457", "Selva del Camp, la", "0.46", "11.31", "1.00", "11.77" ]
+, [ "row-k8zn_knx9_gfax", "00000000-0000-0000-6A4E-DB61A6762427", 0, 1683117050, null, 1683117050, null, "{ }", "2023-03-14T00:00:00", "20", "Gironès", "170792", "Girona", "0.00", "0.02", "0.00", "0.02" ]
+, [ "row-xvxg~ipse~3afy", "00000000-0000-0000-358A-8F7E963EB237", 0, 1683117050, null, 1683117050, null, "{ }", "2023-03-14T00:00:00", "12", "Baix Penedès", "430379", "Calafell", "12.03", "6.12", "0.00", "18.15" ]
+, [ "row-3cph.wncf.79m8", "00000000-0000-0000-8C20-722EAE6E896A", 0, 1683117050, null, 1683117050, null, "{ }", "2023-03-15T00:00:00", "10", "Baix Empordà", "170486", "Castell-Platja d'Aro", "0.01", "0.00", "0.00", "0.01" ]
+, [ "row-9vtv.h4f8.v6fc", "00000000-0000-0000-2A08-07D2DBC836DA", 0, 1683117050, null, 1683117050, null, "{ }", "2023-03-15T00:00:00", "06", "Anoia", "081192", "Masquefa", "0.43", "0.00", "0.00", "0.43" ]
+, [ "row-c9ch.8jqq-qqxk", "00000000-0000-0000-B661-A867FD811CA8", 0, 1683117050, null, 1683117050, null, "{ }", "2023-03-16T00:00:00", "20", "Gironès", "170792", "Girona", "0.48", "0.00", "0.00", "0.48" ]
+, [ "row-9uqk.t9mf.r39q", "00000000-0000-0000-A23F-506A914B8EE6", 0, 1683117050, null, 1683117050, null, "{ }", "2023-03-16T00:00:00", "30", "Ribera d'Ebre", "430192", "Ascó", "0.00", "0.11", "0.00", "0.11" ]
+, [ "row-p2yd_p8vt~2d4u", "00000000-0000-0000-670B-7264C6E9CE9E", 0, 1683117050, null, 1683117050, null, "{ }", "2023-03-16T00:00:00", "39", "Aran", "250637", "Canejan", "0.00", "335.00", "0.00", "335.00" ]
+, [ "row-naw2_rqpb-jcri", "00000000-0000-0000-0E65-6CEA44D6D721", 0, 1683117050, null, 1683117050, null, "{ }", "2023-03-18T00:00:00", "04", "Alt Urgell", "251850", "Ribera d'Urgellet", "0.00", "0.01", "0.00", "0.01" ]
+, [ "row-anjz~gbc2~wayx", "00000000-0000-0000-AC1A-18CC9510FCF6", 0, 1683117050, null, 1683117050, null, "{ }", "2023-03-19T00:00:00", "03", "Alt Penedès", "082325", "Sant Pere de Riudebitlles", "0.00", "0.15", "0.00", "0.15" ]
+, [ "row-2yfx~9ua5.pt5s", "00000000-0000-0000-6D85-B752DC3428AA", 0, 1683117050, null, 1683117050, null, "{ }", "2023-03-22T00:00:00", "16", "Conca de Barberà", "431726", "Vilaverd", "1.57", "0.00", "0.00", "1.57" ]
+, [ "row-nxkd-i8tz-v9b5", "00000000-0000-0000-E447-A63349C93A27", 0, 1683117050, null, 1683117050, null, "{ }", "2023-03-22T00:00:00", "40", "Vallès Occidental", "082798", "Terrassa", "0.00", "0.07", "0.00", "0.07" ]
+, [ "row-hkcd_458m_re2u", "00000000-0000-0000-2BE1-448BAA1FF842", 0, 1683117050, null, 1683117050, null, "{ }", "2023-03-22T00:00:00", "40", "Vallès Occidental", "082917", "Vacarisses", "0.00", "0.01", "0.00", "0.01" ]
+, [ "row-7jnn_nih9_7vra", "00000000-0000-0000-2098-38EF6AA8CB9A", 0, 1683117050, null, 1683117050, null, "{ }", "2023-03-25T00:00:00", "20", "Gironès", "170736", "Fornells de la Selva", "0.01", "0.00", "0.00", "0.01" ]
+, [ "row-x2aw_dx6b_a6i4", "00000000-0000-0000-7BB3-C7001CA1DE73", 0, 1683117050, null, 1683117050, null, "{ }", "2023-03-26T00:00:00", "23", "Noguera", "250621", "Camarasa", "0.80", "0.51", "0.00", "1.31" ]
+, [ "row-s5dq_wskb~399t", "00000000-0000-0000-1FC7-628A87A23818", 0, 1683117050, null, 1683117050, null, "{ }", "2023-03-26T00:00:00", "23", "Noguera", "250404", "Balaguer", "0.03", "0.00", "0.00", "0.03" ]
+, [ "row-h28g_jxhs~gp5d", "00000000-0000-0000-6A0E-6399ABD61548", 0, 1683117050, null, 1683117050, null, "{ }", "2023-03-26T00:00:00", "06", "Anoia", "081614", "Piera", "0.00", "0.00", "0.00", "0.00" ]
+, [ "row-8pv5.rfd6-663j", "00000000-0000-0000-2E3C-139CE19CE211", 0, 1683117050, null, 1683117050, null, "{ }", "2023-03-26T00:00:00", "01", "Alt Camp", "431606", "Vallmoll", "0.00", "0.69", "0.00", "0.69" ]
+, [ "row-fg44~dw9f~uxh6", "00000000-0000-0000-5AE0-00233727B2F4", 0, 1683117050, null, 1683117050, null, "{ }", "2023-03-27T00:00:00", "16", "Conca de Barberà", "430862", "Montblanc", "0.10", "0.30", "0.00", "0.40" ]
+, [ "row-5p9q_8cwu.qyu8", "00000000-0000-0000-956F-5DFE43F12E34", 0, 1683117050, null, 1683117050, null, "{ }", "2023-03-28T00:00:00", "18", "Garrigues", "251180", "Juncosa", "0.00", "0.03", "0.00", "0.03" ]
+, [ "row-dxvw-tfcr.p3ze", "00000000-0000-0000-EDBD-A42F0B762252", 0, 1683117050, null, 1683117050, null, "{ }", "2023-03-29T00:00:00", "23", "Noguera", "250220", "Alòs de Balaguer", "0.00", "0.01", "0.00", "0.01" ]
+, [ "row-dipe.52m4.k8b7", "00000000-0000-0000-A3F8-11B92381FE6B", 0, 1683117050, null, 1683117050, null, "{ }", "2023-03-29T00:00:00", "02", "Alt Empordà", "170059", "Far d'Empordà, el", "0.00", "0.02", "0.00", "0.02" ]
+, [ "row-92ib-f2i3~5gy7", "00000000-0000-0000-FBA9-F7D086BF318B", 0, 1683117050, null, 1683117050, null, "{ }", "2023-03-30T00:00:00", "12", "Baix Penedès", "430901", "Montmell, el", "0.33", "0.00", "0.00", "0.33" ]
+, [ "row-ik2e_bzxs~868h", "00000000-0000-0000-9E03-4ADCF6B10CA6", 0, 1683117050, null, 1683117050, null, "{ }", "2023-03-31T00:00:00", "09", "Baix Ebre", "439060", "Ampolla, l'", "0.00", "0.23", "0.00", "0.23" ]
+, [ "row-hmvn-2zty~ai4k", "00000000-0000-0000-6F5B-14BC5373456B", 0, 1683117050, null, 1683117050, null, "{ }", "2023-04-01T00:00:00", "20", "Gironès", "170890", "Llagostera", "0.00", "0.00", "0.00", "0.00" ]
+, [ "row-ixjb.es2s.ssch", "00000000-0000-0000-0146-776D8A0F675E", 0, 1683117050, null, 1683117050, null, "{ }", "2023-04-01T00:00:00", "37", "Terra Alta", "430640", "Gandesa", "2.24", "0.00", "0.00", "2.24" ]
+, [ "row-43fi-8m5j.4fnx", "00000000-0000-0000-AB2D-71F17F50D685", 0, 1683117050, null, 1683117050, null, "{ }", "2023-04-01T00:00:00", "08", "Baix Camp", "430075", "Aleixar, l'", "1.00", "0.00", "0.00", "1.00" ]
+, [ "row-ny4u~s8ds~4zgu", "00000000-0000-0000-C565-D88E0F5E964F", 0, 1683117050, null, 1683117050, null, "{ }", "2023-04-02T00:00:00", "20", "Gironès", "170890", "Llagostera", "0.06", "0.00", "0.00", "0.06" ]
+, [ "row-xt44~suc4.yw5c", "00000000-0000-0000-11CE-310992F1E849", 0, 1683117050, null, 1683117050, null, "{ }", "2023-04-02T00:00:00", "09", "Baix Ebre", "439018", "Deltebre", "0.00", "0.09", "0.00", "0.09" ]
+, [ "row-bzze-h48a-hyms", "00000000-0000-0000-072B-5F03340D19E9", 0, 1683117050, null, 1683117050, null, "{ }", "2023-04-02T00:00:00", "33", "Segrià", "250143", "Alfés", "0.04", "0.05", "0.00", "0.09" ]
+, [ "row-63yd_zb6i-5nkq", "00000000-0000-0000-8AF3-322B6D906958", 0, 1683117050, null, 1683117050, null, "{ }", "2023-04-03T00:00:00", "11", "Baix Llobregat", "082956", "Vallirana", "0.00", "0.09", "0.00", "0.09" ]
+, [ "row-mj43~d2bv_7rw9", "00000000-0000-0000-9543-DBA2B9C2FCD0", 0, 1683117050, null, 1683117050, null, "{ }", "2023-04-03T00:00:00", "19", "Garrotxa", "170216", "Beuda", "0.02", "0.00", "0.00", "0.02" ]
+, [ "row-fijh-28eq_sc9g", "00000000-0000-0000-A313-32140A46F7FA", 0, 1683117050, null, 1683117050, null, "{ }", "2023-04-04T00:00:00", "07", "Bages", "080121", "Avinyó", "0.01", "0.00", "0.00", "0.01" ]
+, [ "row-sw8n-mzma_zjvp", "00000000-0000-0000-D2D1-E93DE976BB50", 0, 1683117050, null, 1683117050, null, "{ }", "2023-04-04T00:00:00", "21", "Maresme", "080305", "Cabrils", "0.00", "0.02", "0.00", "0.02" ]
+, [ "row-pkrv~6w3e-c2p3", "00000000-0000-0000-8359-7D7E73C0DB09", 0, 1683117050, null, 1683117050, null, "{ }", "2023-04-05T00:00:00", "11", "Baix Llobregat", "081234", "Molins de Rei", "0.00", "0.00", "0.00", "0.00" ]
+, [ "row-jmbv_7jk7.ybk4", "00000000-0000-0000-B94A-E18B9B98CC53", 0, 1683117050, null, 1683117050, null, "{ }", "2023-04-05T00:00:00", "08", "Baix Camp", "431299", "Riudoms", "0.00", "2.00", "0.00", "2.00" ]
+, [ "row-59iw~wvet.hxfn", "00000000-0000-0000-17E2-F585B7D2F77A", 0, 1683117050, null, 1683117050, null, "{ }", "2023-04-05T00:00:00", "02", "Alt Empordà", "171387", "Portbou", "0.43", "2.62", "0.00", "3.05" ]
+, [ "row-mh79.aajd_ew9j", "00000000-0000-0000-170E-A38F5A795C16", 0, 1683117050, null, 1683117050, null, "{ }", "2023-04-05T00:00:00", "03", "Alt Penedès", "082883", "Torrelles de Foix", "0.00", "0.03", "0.00", "0.03" ]
+, [ "row-aid5~3evy.ak36", "00000000-0000-0000-E2A9-5E7BBA9B3A60", 0, 1683117050, null, 1683117050, null, "{ }", "2023-04-05T00:00:00", "40", "Vallès Occidental", "081878", "Sabadell", "0.00", "0.01", "0.00", "0.01" ]
+, [ "row-qm3t_985c-zer4", "00000000-0000-0000-F749-47C61FEB7CF3", 0, 1683117050, null, 1683117050, null, "{ }", "2023-04-05T00:00:00", "12", "Baix Penedès", "430901", "Montmell, el", "0.11", "0.00", "0.00", "0.11" ]
+, [ "row-aya8.f83r~4gip", "00000000-0000-0000-3F78-E3C2D6ED3E2F", 0, 1683117050, null, 1683117050, null, "{ }", "2023-04-06T00:00:00", "18", "Garrigues", "250061", "Albagés, l'", "0.00", "0.48", "0.00", "0.48" ]
+, [ "row-ntat-nyc2.c2f5", "00000000-0000-0000-12EC-4568EF05321F", 0, 1683117050, null, 1683117050, null, "{ }", "2023-04-07T00:00:00", "10", "Baix Empordà", "171997", "Torroella de Montgrí", "0.00", "0.04", "0.00", "0.04" ]
+, [ "row-t44a.u6hq~xghj", "00000000-0000-0000-DBF1-6D1A42EFDC0B", 0, 1683117050, null, 1683117050, null, "{ }", "2023-04-07T00:00:00", "03", "Alt Penedès", "082515", "Santa Margarida i els Monjos", "0.00", "0.24", "0.00", "0.24" ]
+, [ "row-7xqq.y55f-riuc", "00000000-0000-0000-62CD-D11E9F3FCE95", 0, 1683117050, null, 1683117050, null, "{ }", "2023-04-07T00:00:00", "23", "Noguera", "250352", "Sentiu de Sió, la", "0.50", "0.60", "0.00", "1.10" ]
+, [ "row-gsw8-dksb-7qfa", "00000000-0000-0000-BE20-8225ADE6403D", 0, 1683117050, null, 1683117050, null, "{ }", "2023-04-07T00:00:00", "21", "Maresme", "082819", "Teià", "0.01", "0.00", "0.00", "0.01" ]
+, [ "row-viev-cknc~x6a6", "00000000-0000-0000-1561-D93B5735D680", 0, 1683117050, null, 1683117050, null, "{ }", "2023-04-07T00:00:00", "04", "Alt Urgell", "251850", "Ribera d'Urgellet", "0.02", "0.00", "0.00", "0.02" ]
+, [ "row-37um-rwmi.9mdt", "00000000-0000-0000-70A4-AF4AD6CC4105", 0, 1683117050, null, 1683117050, null, "{ }", "2023-04-08T00:00:00", "40", "Vallès Occidental", "081206", "Matadepera", "0.03", "0.00", "0.00", "0.03" ]
+, [ "row-4ugy~teti_a3xj", "00000000-0000-0000-F8B7-0F868A8423D3", 0, 1683117050, null, 1683117050, null, "{ }", "2023-04-08T00:00:00", "01", "Alt Camp", "430918", "Mont-ral", "0.00", "0.06", "0.00", "0.06" ]
+, [ "row-p2rv-mb4p_zrc6", "00000000-0000-0000-AECF-C224A8EB9EF6", 0, 1683117050, null, 1683117050, null, "{ }", "2023-04-08T00:00:00", "41", "Vallès Oriental", "082021", "Sant Celoni", "0.02", "0.00", "0.00", "0.02" ]
+, [ "row-v9xr.wky2.ikgh", "00000000-0000-0000-7538-0F56346CDFC3", 0, 1683117050, null, 1683117050, null, "{ }", "2023-04-08T00:00:00", "22", "Montsià", "431362", "Sant Carles de la Ràpita", "0.00", "0.68", "0.00", "0.68" ]
+, [ "row-4mib-fw46.wjwb", "00000000-0000-0000-2764-B265E5C84A4B", 0, 1683117050, null, 1683117050, null, "{ }", "2023-04-09T00:00:00", "11", "Baix Llobregat", "081477", "Olesa de Montserrat", "0.00", "0.40", "0.00", "0.40" ]
+, [ "row-gejs_yw9r~tr99", "00000000-0000-0000-C34F-60AF356BA237", 0, 1683117050, null, 1683117050, null, "{ }", "2023-04-09T00:00:00", "24", "Osona", "172121", "Vidrà", "0.04", "0.00", "0.00", "0.04" ]
+, [ "row-7c79~n82w_dkhy", "00000000-0000-0000-1E95-7AE3C7A6859F", 0, 1683117050, null, 1683117050, null, "{ }", "2023-04-10T00:00:00", "29", "Priorat", "431747", "Vilella Baixa, la", "0.00", "0.02", "0.00", "0.02" ]
+, [ "row-nwb9_g7qk_tjsq", "00000000-0000-0000-D171-F77FECECDF88", 0, 1683117050, null, 1683117050, null, "{ }", "2023-04-11T00:00:00", "15", "Cerdanya", "251272", "Lles de Cerdanya", "0.06", "0.00", "0.00", "0.06" ]
+, [ "row-p7u5-5cwx_x3tt", "00000000-0000-0000-98E4-5C25668466C1", 0, 1683117050, null, 1683117050, null, "{ }", "2023-04-11T00:00:00", "40", "Vallès Occidental", "080543", "Castellbisbal", "0.00", "0.10", "0.00", "0.10" ]
+, [ "row-kfc7-eihi-cpxb", "00000000-0000-0000-7B0A-866E7967A412", 0, 1683117050, null, 1683117050, null, "{ }", "2023-04-12T00:00:00", "05", "Alta Ribagorça", "250432", "Vall de Boí, la", "0.03", "0.05", "0.00", "0.08" ]
+, [ "row-zu2s_a3en~pxsg", "00000000-0000-0000-3E8B-F974B8351FDE", 0, 1683117050, null, 1683117050, null, "{ }", "2023-04-12T00:00:00", "13", "Barcelonès", "080155", "Badalona", "0.00", "0.10", "0.00", "0.10" ]
+, [ "row-d3nv~8std_v63k", "00000000-0000-0000-8B34-C68A8D836E53", 0, 1683117050, null, 1683117050, null, "{ }", "2023-04-12T00:00:00", "40", "Vallès Occidental", "080543", "Castellbisbal", "0.05", "0.00", "0.00", "0.05" ]
+, [ "row-ait2~3mbq-z6nd", "00000000-0000-0000-9368-C72132EFE1F8", 0, 1683117050, null, 1683117050, null, "{ }", "2023-04-12T00:00:00", "13", "Barcelonès", "080193", "Barcelona", "0.00", "0.00", "0.00", "0.00" ]
+, [ "row-zvew~pwdw~53s9", "00000000-0000-0000-8545-E1D907198DE7", 0, 1683117050, null, 1683117050, null, "{ }", "2023-04-13T00:00:00", "21", "Maresme", "080351", "Calella", "0.20", "0.00", "0.00", "0.20" ]
+, [ "row-i98u_dy55-6wq4", "00000000-0000-0000-5B93-BD83EDA706BA", 0, 1683117050, null, 1683117050, null, "{ }", "2023-04-13T00:00:00", "40", "Vallès Occidental", "082606", "Santa Perpètua de Mogoda", "0.00", "0.01", "0.00", "0.01" ]
+, [ "row-9d9c_m69y_9mss", "00000000-0000-0000-ABF5-09BC110ACF0D", 0, 1683117050, null, 1683117050, null, "{ }", "2023-04-13T00:00:00", "40", "Vallès Occidental", "081878", "Sabadell", "0.40", "0.00", "0.00", "0.40" ]
+, [ "row-gbe3~nvr3-77p4", "00000000-0000-0000-56B4-E495B21A1FC9", 0, 1683117050, null, 1683117050, null, "{ }", "2023-04-13T00:00:00", "41", "Vallès Oriental", "081593", "Parets del Vallès", "0.00", "0.40", "0.00", "0.40" ]
+, [ "row-wpbg-mbsu_yyyq", "00000000-0000-0000-1DD9-D419068C6192", 0, 1683117050, null, 1683117050, null, "{ }", "2023-04-13T00:00:00", "08", "Baix Camp", "431628", "Vandellòs i l'Hospitalet de l'Infant", "3.00", "0.00", "0.00", "3.00" ]
+, [ "row-fjs8.ksjw.4vps", "00000000-0000-0000-7DC9-5CFDD825609D", 0, 1683117050, null, 1683117050, null, "{ }", "2023-04-14T00:00:00", "26", "Pallars Sobirà", "250390", "Baix Pallars", "0.00", "0.04", "0.00", "0.04" ]
+, [ "row-jp8g~7ajs.jnst", "00000000-0000-0000-86A3-BD83DD8494CC", 0, 1683117050, null, 1683117050, null, "{ }", "2023-04-14T00:00:00", "08", "Baix Camp", "431628", "Vandellòs i l'Hospitalet de l'Infant", "0.00", "0.05", "0.00", "0.05" ]
+, [ "row-98xj~g5uk_qajf", "00000000-0000-0000-8A2A-CFAD8A4FF3EC", 0, 1683117050, null, 1683117050, null, "{ }", "2023-04-14T00:00:00", "41", "Vallès Oriental", "080057", "Ametlla del Vallès, l'", "0.30", "0.06", "0.00", "0.36" ]
+, [ "row-kd4x-3cz5-w8z2", "00000000-0000-0000-A61C-A53F1F5977F1", 0, 1683117050, null, 1683117050, null, "{ }", "2023-04-15T00:00:00", "33", "Segrià", "251023", "Granja d'Escarp, la", "36.79", "89.41", "12.00", "126.20" ]
+, [ "row-8bqv.dwv9.iykd", "00000000-0000-0000-9BFA-7F4034D35F1E", 0, 1683117050, null, 1683117050, null, "{ }", "2023-04-15T00:00:00", "25", "Pallars Jussà", "251961", "Sant Esteve de la Sarga", "0.00", "0.00", "0.00", "0.00" ]
+, [ "row-teys.uggt-qspe", "00000000-0000-0000-F89A-BB1418290D3A", 0, 1683117050, null, 1683117050, null, "{ }", "2023-04-15T00:00:00", "03", "Alt Penedès", "082883", "Torrelles de Foix", "0.00", "0.03", "0.00", "0.03" ]
+, [ "row-vyy8.w9aa~nk8b", "00000000-0000-0000-F2CA-9285C4A34CDC", 0, 1683117050, null, 1683117050, null, "{ }", "2023-04-15T00:00:00", "34", "Selva", "170950", "Lloret de Mar", "0.04", "0.00", "0.00", "0.04" ]
+, [ "row-2x4z_hsub-s4u2", "00000000-0000-0000-5A0F-123732C8A1F8", 0, 1683117050, null, 1683117050, null, "{ }", "2023-04-15T00:00:00", "01", "Alt Camp", "431613", "Valls", "0.85", "0.00", "0.00", "0.85" ]
+, [ "row-im5v_wgr7-i4yp", "00000000-0000-0000-BC80-BA6EBDC930D1", 0, 1683117050, null, 1683117050, null, "{ }", "2023-04-16T00:00:00", "09", "Baix Ebre", "431554", "Tortosa", "0.03", "0.00", "0.00", "0.03" ]
+, [ "row-kuvi.e4p7.yrqg", "00000000-0000-0000-9CC4-2CA4FD59ECD8", 0, 1683117050, null, 1683117050, null, "{ }", "2023-04-16T00:00:00", "42", "Moianès", "080348", "Calders", "0.18", "0.00", "0.00", "0.18" ]
+, [ "row-kr9t.aegw.hr4h", "00000000-0000-0000-060D-46197515A4E3", 0, 1683117050, null, 1683117050, null, "{ }", "2023-04-16T00:00:00", "02", "Alt Empordà", "171387", "Portbou", "1.96", "133.44", "0.00", "135.40" ]
+, [ "row-ssj3~rske_2bim", "00000000-0000-0000-1506-6B1902911CD1", 0, 1683117050, null, 1683117050, null, "{ }", "2023-04-17T00:00:00", "09", "Baix Ebre", "431554", "Tortosa", "0.00", "0.83", "0.00", "0.83" ]
+, [ "row-j8f8_6g7j-ybft", "00000000-0000-0000-57C3-A1C2639155F8", 0, 1683117050, null, 1683117050, null, "{ }", "2023-04-17T00:00:00", "09", "Baix Ebre", "431554", "Tortosa", "0.27", "0.00", "0.00", "0.27" ]
+, [ "row-2us9.f9mi-dgm5", "00000000-0000-0000-FB6A-6AA8B08FF016", 0, 1683117050, null, 1683117050, null, "{ }", "2023-04-17T00:00:00", "11", "Baix Llobregat", "081141", "Martorell", "0.01", "0.01", "0.00", "0.02" ]
+, [ "row-v88q_uf3c-tzck", "00000000-0000-0000-FA21-31333FE7644C", 0, 1683117050, null, 1683117050, null, "{ }", "2023-04-17T00:00:00", "09", "Baix Ebre", "431554", "Tortosa", "0.00", "0.08", "0.00", "0.08" ]
+, [ "row-qqdc~xdjn~pmn8", "00000000-0000-0000-41D3-85815DB4224C", 0, 1683117050, null, 1683117050, null, "{ }", "2023-04-17T00:00:00", "14", "Berguedà", "080229", "Berga", "0.00", "0.02", "0.00", "0.02" ]
+, [ "row-nt3u~i9x9-2mtt", "00000000-0000-0000-5ED3-0BA60FF4D21E", 0, 1683117050, null, 1683117050, null, "{ }", "2023-04-18T00:00:00", "09", "Baix Ebre", "431331", "Roquetes", "0.00", "0.48", "0.00", "0.48" ]
+, [ "row-unsd-mc74.5wqz", "00000000-0000-0000-61E5-F1FE550CF275", 0, 1683117050, null, 1683117050, null, "{ }", "2023-04-20T00:00:00", "11", "Baix Llobregat", "081691", "Prat de Llobregat, el", "0.00", "1.90", "0.00", "1.90" ]
+, [ "row-yaim~ibxz~97tk", "00000000-0000-0000-7EB7-236558F90432", 0, 1683117050, null, 1683117050, null, "{ }", "2023-04-20T00:00:00", "23", "Noguera", "251500", "Oliola", "0.00", "0.00", "0.00", "0.00" ]
+, [ "row-5s6w~b26w~x3q4", "00000000-0000-0000-628B-509FF832BDC8", 0, 1683117050, null, 1683117050, null, "{ }", "2023-04-21T00:00:00", "35", "Solsonès", "251484", "Odèn", "0.41", "0.00", "0.00", "0.41" ]
+, [ "row-4jy4_f5bk_gk2h", "00000000-0000-0000-B2C5-08B99B1E9057", 0, 1683117050, null, 1683117050, null, "{ }", "2023-04-21T00:00:00", "40", "Vallès Occidental", "081252", "Montcada i Reixac", "0.00", "1.01", "0.00", "1.01" ]
+, [ "row-yex8.6qi5.74cd", "00000000-0000-0000-7FEA-9BA08E73A074", 0, 1683117050, null, 1683117050, null, "{ }", "2023-04-22T00:00:00", "26", "Pallars Sobirà", "250390", "Baix Pallars", "0.00", "0.00", "0.00", "0.00" ]
+, [ "row-x9mh~bjnk-ufam", "00000000-0000-0000-93FA-1B3FFE5D7CDE", 0, 1683117050, null, 1683117050, null, "{ }", "2023-04-22T00:00:00", "13", "Barcelonès", "080193", "Barcelona", "0.00", "0.06", "0.00", "0.06" ]
+, [ "row-di55~hnac.spkc", "00000000-0000-0000-DAFC-F018D6346C5C", 0, 1683117050, null, 1683117050, null, "{ }", "2023-04-23T00:00:00", "03", "Alt Penedès", "082515", "Santa Margarida i els Monjos", "0.51", "0.00", "0.00", "0.51" ]
+, [ "row-figu.ejby_kt2q", "00000000-0000-0000-C817-09A2EEA95700", 0, 1683117050, null, 1683117050, null, "{ }", "2023-04-23T00:00:00", "21", "Maresme", "082845", "Tordera", "0.00", "0.04", "0.00", "0.04" ]
+, [ "row-gmzh-fdfx~s5t4", "00000000-0000-0000-36C7-2672E7085719", 0, 1683117050, null, 1683117050, null, "{ }", "2023-04-23T00:00:00", "06", "Anoia", "083020", "Vilanova del Camí", "0.00", "0.00", "0.00", "0.00" ]
+, [ "row-vy4q-i4vi~4q3s", "00000000-0000-0000-2BCB-59C1995853F3", 0, 1683117050, null, 1683117050, null, "{ }", "2023-04-24T00:00:00", "40", "Vallès Occidental", "082798", "Terrassa", "0.01", "0.00", "0.00", "0.01" ]
+, [ "row-w2k5.n87r-ei98", "00000000-0000-0000-BEEE-4AF254DBD22F", 0, 1683117050, null, 1683117050, null, "{ }", "2023-04-24T00:00:00", "29", "Priorat", "430496", "Cornudella de Montsant", "0.00", "0.15", "0.00", "0.15" ]
+, [ "row-jcek_t4nb-qshv", "00000000-0000-0000-A559-BC5EFABCB202", 0, 1683117050, null, 1683117050, null, "{ }", "2023-04-25T00:00:00", "03", "Alt Penedès", "080654", "Castellví de la Marca", "0.25", "0.00", "0.00", "0.25" ]
+, [ "row-syhx.kgmm_wysd", "00000000-0000-0000-E297-FABB48776398", 0, 1683117050, null, 1683117050, null, "{ }", "2023-04-27T00:00:00", "33", "Segrià", "250788", "Corbins", "0.00", "0.90", "0.00", "0.90" ]
+, [ "row-fxaa_yh3s~me6r", "00000000-0000-0000-6525-DD7A80DF2358", 0, 1683117050, null, 1683117050, null, "{ }", "2023-04-27T00:00:00", "10", "Baix Empordà", "172044", "Ullà", "0.00", "0.12", "0.00", "0.12" ]
+, [ "row-bvxi-t48a.kebu", "00000000-0000-0000-ACF2-ACC382C2BA95", 0, 1683117050, null, 1683117050, null, "{ }", "2023-04-28T00:00:00", "35", "Solsonès", "251116", "Guixers", "0.00", "0.00", "0.00", "0.00" ]
+, [ "row-i3df.j5md.rki5", "00000000-0000-0000-5400-828270F4076B", 0, 1683117050, null, 1683117050, null, "{ }", "2023-04-28T00:00:00", "41", "Vallès Oriental", "082021", "Sant Celoni", "0.06", "0.00", "0.00", "0.06" ]
+, [ "row-dd9n-gzxq.43jx", "00000000-0000-0000-8FA9-6429E25DD59F", 0, 1683117050, null, 1683117050, null, "{ }", "2023-04-29T00:00:00", "11", "Baix Llobregat", "089058", "Palma de Cervelló, la", "1.20", "0.00", "0.00", "1.20" ]
+, [ "row-niz7-gk4f_xpg6", "00000000-0000-0000-6FB0-D08712A027A0", 0, 1683117050, null, 1683117050, null, "{ }", "2023-04-29T00:00:00", "40", "Vallès Occidental", "081878", "Sabadell", "0.00", "0.01", "0.00", "0.01" ]
+, [ "row-bekw.qixa_xnme", "00000000-0000-0000-F66B-2E5F2756FCF6", 0, 1683117050, null, 1683117050, null, "{ }", "2023-04-30T00:00:00", "42", "Moianès", "080641", "Castellterçol", "0.01", "0.00", "0.00", "0.01" ]
+, [ "row-xf4t~p8bk_u5tg", "00000000-0000-0000-8EAC-E3B62B353581", 0, 1683117050, null, 1683117050, null, "{ }", "2023-04-30T00:00:00", "09", "Baix Ebre", "430069", "Aldover", "0.00", "0.00", "0.00", "0.00" ]
+, [ "row-37r7_r397_8awh", "00000000-0000-0000-4FD2-1C99C4F9EB11", 0, 1683117050, null, 1683117050, null, "{ }", "2023-04-30T00:00:00", "23", "Noguera", "250156", "Algerri", "0.15", "0.06", "0.00", "0.21" ]
+, [ "row-cyq7.2fpk.eej2", "00000000-0000-0000-19A2-123AFAF2C577", 0, 1683117050, null, 1683117050, null, "{ }", "2023-05-01T00:00:00", "23", "Noguera", "250156", "Algerri", "20.00", "0.00", "1.00", "20.00" ]
+ ]
+}
