@@ -1,0 +1,7508 @@
+{
+ "circunscripciones": {
+  "16078": {
+   "votos_nulos": 349, 
+   "code": "078", 
+   "porcentaje_censo_escrutado": 100.0, 
+   "porcentaje_votos_blanco": 1.65, 
+   "abstencion": 13744, 
+   "porcentaje_total_votantes": 66.21, 
+   "mesas_totales": 64, 
+   "total_votantes": 26942, 
+   "year": 2023, 
+   "porcentaje_abstencion": 33.78, 
+   "provincia_code": "16", 
+   "result_prov": "elecciones/elecciones-municipales/resultados/2023/07/16/p99.html", 
+   "typeMun": "capital", 
+   "censo": 40686, 
+   "code_muni_prov": "16078", 
+   "ccaa_code": "07", 
+   "votos_blanco": 440, 
+   "type": "municipales_localidades", 
+   "censo_escrutado": 40682, 
+   "ccaaName": "Castilla - La Mancha", 
+   "diputados": 25, 
+   "porcentaje_votos_nulos": 1.29, 
+   "partidos": [
+    {
+     "color": "#dc1222", 
+     "diputados": 10, 
+     "votos": 9293, 
+     "porcentaje_votos": 34.94, 
+     "siglas": "PSOE", 
+     "id": "0030"
+    }, 
+    {
+     "color": "#30a6df", 
+     "diputados": 9, 
+     "votos": 8435, 
+     "porcentaje_votos": 31.71, 
+     "siglas": "PP", 
+     "id": "0006"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 2, 
+     "votos": 2244, 
+     "porcentaje_votos": 8.43, 
+     "siglas": "CNU", 
+     "id": "1917"
+    }, 
+    {
+     "color": "#801e75", 
+     "diputados": 2, 
+     "votos": 2124, 
+     "porcentaje_votos": 7.98, 
+     "siglas": "UNIDAS - PODEMOS - IU", 
+     "id": "0369"
+    }, 
+    {
+     "color": "#8abb50", 
+     "diputados": 2, 
+     "votos": 2117, 
+     "porcentaje_votos": 7.96, 
+     "siglas": "VOX", 
+     "id": "0007"
+    }, 
+    {
+     "color": "#292929", 
+     "diputados": 0, 
+     "votos": 962, 
+     "porcentaje_votos": 3.61, 
+     "siglas": "+CU-EV", 
+     "id": "1910"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 495, 
+     "porcentaje_votos": 1.86, 
+     "siglas": "TÚPATRIA", 
+     "id": "0037"
+    }, 
+    {
+     "color": "#ef833a", 
+     "diputados": 0, 
+     "votos": 483, 
+     "porcentaje_votos": 1.81, 
+     "siglas": "Cs", 
+     "id": "0027"
+    }
+   ], 
+   "result_ccaa": "elecciones/elecciones-castilla-la-mancha/resultados/2023/07/99/p99.html", 
+   "slug": "cuenca", 
+   "result_muni": "elecciones/elecciones-municipales/resultados/2023/07/16/p078.html", 
+   "name": "Cuenca", 
+   "codigo_distritos": "99"
+  }, 
+  "07040": {
+   "votos_nulos": 1786, 
+   "code": "040", 
+   "porcentaje_censo_escrutado": 100.0, 
+   "porcentaje_votos_blanco": 1.44, 
+   "abstencion": 134616, 
+   "porcentaje_total_votantes": 54.45, 
+   "mesas_totales": 433, 
+   "total_votantes": 160947, 
+   "year": 2023, 
+   "porcentaje_abstencion": 45.54, 
+   "provincia_code": "07", 
+   "result_prov": "elecciones/elecciones-municipales/resultados/2023/04/07/p99.html", 
+   "typeMun": "capital", 
+   "censo": 295563, 
+   "code_muni_prov": "07040", 
+   "ccaa_code": "04", 
+   "votos_blanco": 2292, 
+   "type": "municipales_localidades", 
+   "censo_escrutado": 295016, 
+   "ccaaName": "Islas Baleares", 
+   "diputados": 29, 
+   "porcentaje_votos_nulos": 1.1, 
+   "partidos": [
+    {
+     "color": "#30a6df", 
+     "diputados": 11, 
+     "votos": 51228, 
+     "porcentaje_votos": 32.18, 
+     "siglas": "PP", 
+     "id": "0006"
+    }, 
+    {
+     "color": "#dc1222", 
+     "diputados": 8, 
+     "votos": 39585, 
+     "porcentaje_votos": 24.87, 
+     "siglas": "PSOE", 
+     "id": "0030"
+    }, 
+    {
+     "color": "#8abb50", 
+     "diputados": 6, 
+     "votos": 32586, 
+     "porcentaje_votos": 20.47, 
+     "siglas": "VOX", 
+     "id": "0007"
+    }, 
+    {
+     "color": "#bfc91e", 
+     "diputados": 3, 
+     "votos": 14865, 
+     "porcentaje_votos": 9.33, 
+     "siglas": "MÉS", 
+     "id": "0422"
+    }, 
+    {
+     "color": "#801e75", 
+     "diputados": 1, 
+     "votos": 8105, 
+     "porcentaje_votos": 5.09, 
+     "siglas": "UNIDAS - PODEMOS - IU", 
+     "id": "0369"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 3647, 
+     "porcentaje_votos": 2.29, 
+     "siglas": "EL PI", 
+     "id": "0427"
+    }, 
+    {
+     "color": "#ef833a", 
+     "diputados": 0, 
+     "votos": 2987, 
+     "porcentaje_votos": 1.87, 
+     "siglas": "Cs", 
+     "id": "0027"
+    }, 
+    {
+     "color": "#93a607", 
+     "diputados": 0, 
+     "votos": 1938, 
+     "porcentaje_votos": 1.21, 
+     "siglas": "PROGRESO EN VERDE PACMA", 
+     "id": "0489"
+    }, 
+    {
+     "color": "#333333", 
+     "diputados": 0, 
+     "votos": 901, 
+     "porcentaje_votos": 0.56, 
+     "siglas": "CUP - CXP - AMUNT", 
+     "id": "0488"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 518, 
+     "porcentaje_votos": 0.32, 
+     "siglas": "CPERB", 
+     "id": "0428"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 296, 
+     "porcentaje_votos": 0.18, 
+     "siglas": "PLIE", 
+     "id": "0430"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 213, 
+     "porcentaje_votos": 0.13, 
+     "siglas": "RESET", 
+     "id": "0426"
+    }
+   ], 
+   "result_ccaa": "elecciones/elecciones-baleares/resultados/2023/04/99/p99.html", 
+   "slug": "palma", 
+   "result_muni": "elecciones/elecciones-municipales/resultados/2023/04/07/p040.html", 
+   "name": "Palma", 
+   "codigo_distritos": "99"
+  }, 
+  "21041": {
+   "votos_nulos": 595, 
+   "code": "041", 
+   "porcentaje_censo_escrutado": 100.0, 
+   "porcentaje_votos_blanco": 1.07, 
+   "abstencion": 50882, 
+   "porcentaje_total_votantes": 54.4, 
+   "mesas_totales": 181, 
+   "total_votantes": 60712, 
+   "year": 2023, 
+   "porcentaje_abstencion": 45.59, 
+   "provincia_code": "21", 
+   "result_prov": "elecciones/elecciones-municipales/resultados/2023/01/21/p99.html", 
+   "typeMun": "capital", 
+   "censo": 111594, 
+   "code_muni_prov": "21041", 
+   "ccaa_code": "01", 
+   "votos_blanco": 648, 
+   "type": "municipales_localidades", 
+   "censo_escrutado": 111577, 
+   "ccaaName": "Andalucía", 
+   "diputados": 27, 
+   "porcentaje_votos_nulos": 0.98, 
+   "partidos": [
+    {
+     "color": "#30a6df", 
+     "diputados": 13, 
+     "votos": 24703, 
+     "porcentaje_votos": 41.09, 
+     "siglas": "PP", 
+     "id": "0006"
+    }, 
+    {
+     "color": "#dc1222", 
+     "diputados": 11, 
+     "votos": 20043, 
+     "porcentaje_votos": 33.33, 
+     "siglas": "PSOE", 
+     "id": "0030"
+    }, 
+    {
+     "color": "#8abb50", 
+     "diputados": 2, 
+     "votos": 4771, 
+     "porcentaje_votos": 7.93, 
+     "siglas": "VOX", 
+     "id": "0007"
+    }, 
+    {
+     "color": "#801e75", 
+     "diputados": 1, 
+     "votos": 3512, 
+     "porcentaje_votos": 5.84, 
+     "siglas": "CON ANDALUCÍA", 
+     "id": "5774"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 2182, 
+     "porcentaje_votos": 3.62, 
+     "siglas": "MRH", 
+     "id": "2631"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 1784, 
+     "porcentaje_votos": 2.96, 
+     "siglas": "XH", 
+     "id": "2623"
+    }, 
+    {
+     "color": "#ef833a", 
+     "diputados": 0, 
+     "votos": 1376, 
+     "porcentaje_votos": 2.28, 
+     "siglas": "Cs", 
+     "id": "0027"
+    }, 
+    {
+     "color": "#5ea878", 
+     "diputados": 0, 
+     "votos": 746, 
+     "porcentaje_votos": 1.24, 
+     "siglas": "ADELANTE", 
+     "id": "1599"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 169, 
+     "porcentaje_votos": 0.28, 
+     "siglas": "UA", 
+     "id": "6005"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 118, 
+     "porcentaje_votos": 0.19, 
+     "siglas": "DSO", 
+     "id": "2630"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 65, 
+     "porcentaje_votos": 0.1, 
+     "siglas": "N.A.", 
+     "id": "1784"
+    }
+   ], 
+   "result_ccaa": "elecciones/elecciones-andalucia/resultados/2023/01/99/p99.html", 
+   "slug": "huelva", 
+   "result_muni": "elecciones/elecciones-municipales/resultados/2023/01/21/p041.html", 
+   "name": "Huelva", 
+   "codigo_distritos": "99"
+  }, 
+  "46250": {
+   "votos_nulos": 3161, 
+   "code": "250", 
+   "porcentaje_censo_escrutado": 99.9, 
+   "porcentaje_votos_blanco": 0.94, 
+   "abstencion": 161915, 
+   "porcentaje_total_votantes": 72.01, 
+   "mesas_totales": 955, 
+   "total_votantes": 416753, 
+   "year": 2023, 
+   "porcentaje_abstencion": 27.98, 
+   "provincia_code": "46", 
+   "result_prov": "elecciones/elecciones-municipales/resultados/2023/17/46/p99.html", 
+   "typeMun": "capital", 
+   "censo": 579205, 
+   "code_muni_prov": "46250", 
+   "ccaa_code": "17", 
+   "votos_blanco": 3902, 
+   "type": "municipales_localidades", 
+   "censo_escrutado": 578555, 
+   "ccaaName": "Comunidad Valenciana", 
+   "diputados": 33, 
+   "porcentaje_votos_nulos": 0.75, 
+   "partidos": [
+    {
+     "color": "#30a6df", 
+     "diputados": 13, 
+     "votos": 151482, 
+     "porcentaje_votos": 36.62, 
+     "siglas": "PP", 
+     "id": "0006"
+    }, 
+    {
+     "color": "#ff5614", 
+     "diputados": 9, 
+     "votos": 99122, 
+     "porcentaje_votos": 23.96, 
+     "siglas": "COMPROMIS", 
+     "id": "6063"
+    }, 
+    {
+     "color": "#dc1222", 
+     "diputados": 7, 
+     "votos": 78499, 
+     "porcentaje_votos": 18.97, 
+     "siglas": "PSOE", 
+     "id": "0030"
+    }, 
+    {
+     "color": "#8abb50", 
+     "diputados": 4, 
+     "votos": 52695, 
+     "porcentaje_votos": 12.74, 
+     "siglas": "VOX", 
+     "id": "0007"
+    }, 
+    {
+     "color": "#801e75", 
+     "diputados": 0, 
+     "votos": 9677, 
+     "porcentaje_votos": 2.33, 
+     "siglas": "UNIDAS - PODEMOS - IU", 
+     "id": "0369"
+    }, 
+    {
+     "color": "#ef833a", 
+     "diputados": 0, 
+     "votos": 9588, 
+     "porcentaje_votos": 2.31, 
+     "siglas": "Cs", 
+     "id": "0027"
+    }, 
+    {
+     "color": "#93a607", 
+     "diputados": 0, 
+     "votos": 3664, 
+     "porcentaje_votos": 0.88, 
+     "siglas": "PACMA", 
+     "id": "0031"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 1755, 
+     "porcentaje_votos": 0.42, 
+     "siglas": "VLC", 
+     "id": "0145"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 863, 
+     "porcentaje_votos": 0.2, 
+     "siglas": "EB-AZ", 
+     "id": "0270"
+    }, 
+    {
+     "color": "#f9d3b6", 
+     "diputados": 0, 
+     "votos": 540, 
+     "porcentaje_votos": 0.13, 
+     "siglas": "PUM+J", 
+     "id": "0026"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 497, 
+     "porcentaje_votos": 0.12, 
+     "siglas": "DECIDIX", 
+     "id": "0089"
+    }, 
+    {
+     "color": "#494949", 
+     "diputados": 0, 
+     "votos": 446, 
+     "porcentaje_votos": 0.1, 
+     "siglas": "P.C.P.E.", 
+     "id": "0086"
+    }, 
+    {
+     "color": "#ffb85c", 
+     "diputados": 0, 
+     "votos": 363, 
+     "porcentaje_votos": 0.08, 
+     "siglas": "ERC", 
+     "id": "5783"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 330, 
+     "porcentaje_votos": 0.07, 
+     "siglas": "ACPS", 
+     "id": "5290"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 169, 
+     "porcentaje_votos": 0.04, 
+     "siglas": "FE DE LAS JONS", 
+     "id": "0113"
+    }
+   ], 
+   "result_ccaa": "elecciones/elecciones-comunidad-valenciana/resultados/2023/17/99/p99.html", 
+   "slug": "valencia", 
+   "result_muni": "elecciones/elecciones-municipales/resultados/2023/17/46/p250.html", 
+   "name": "València", 
+   "codigo_distritos": "99"
+  }, 
+  "37274": {
+   "votos_nulos": 787, 
+   "code": "274", 
+   "porcentaje_censo_escrutado": 100.0, 
+   "porcentaje_votos_blanco": 1.36, 
+   "abstencion": 45660, 
+   "porcentaje_total_votantes": 60.41, 
+   "mesas_totales": 171, 
+   "total_votantes": 69694, 
+   "year": 2023, 
+   "porcentaje_abstencion": 39.58, 
+   "provincia_code": "37", 
+   "result_prov": "elecciones/elecciones-municipales/resultados/2023/08/37/p99.html", 
+   "typeMun": "capital", 
+   "censo": 115354, 
+   "code_muni_prov": "37274", 
+   "ccaa_code": "08", 
+   "votos_blanco": 942, 
+   "type": "municipales_localidades", 
+   "censo_escrutado": 115351, 
+   "ccaaName": "Castilla y León", 
+   "diputados": 27, 
+   "porcentaje_votos_nulos": 1.12, 
+   "partidos": [
+    {
+     "color": "#30a6df", 
+     "diputados": 14, 
+     "votos": 30306, 
+     "porcentaje_votos": 43.98, 
+     "siglas": "PP", 
+     "id": "0006"
+    }, 
+    {
+     "color": "#dc1222", 
+     "diputados": 10, 
+     "votos": 20767, 
+     "porcentaje_votos": 30.13, 
+     "siglas": "PSOE", 
+     "id": "0030"
+    }, 
+    {
+     "color": "#8abb50", 
+     "diputados": 3, 
+     "votos": 7593, 
+     "porcentaje_votos": 11.01, 
+     "siglas": "VOX", 
+     "id": "0007"
+    }, 
+    {
+     "color": "#801e75", 
+     "diputados": 0, 
+     "votos": 3321, 
+     "porcentaje_votos": 4.81, 
+     "siglas": "PODEMOS-IU-AV", 
+     "id": "1456"
+    }, 
+    {
+     "color": "#ef833a", 
+     "diputados": 0, 
+     "votos": 2468, 
+     "porcentaje_votos": 3.58, 
+     "siglas": "Cs", 
+     "id": "0027"
+    }, 
+    {
+     "color": "#f36856", 
+     "diputados": 0, 
+     "votos": 917, 
+     "porcentaje_votos": 1.33, 
+     "siglas": "ESPAÑA VACIADA", 
+     "id": "4251"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 740, 
+     "porcentaje_votos": 1.07, 
+     "siglas": "POR SALAMANCA", 
+     "id": "4250"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 571, 
+     "porcentaje_votos": 0.82, 
+     "siglas": "SALAMANCA VALIENTE", 
+     "id": "4249"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 474, 
+     "porcentaje_votos": 0.68, 
+     "siglas": "U.P.L.", 
+     "id": "2744"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 314, 
+     "porcentaje_votos": 0.45, 
+     "siglas": "SALAMANCA SÍ", 
+     "id": "4234"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 229, 
+     "porcentaje_votos": 0.33, 
+     "siglas": "CONTIGO", 
+     "id": "0154"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 145, 
+     "porcentaje_votos": 0.21, 
+     "siglas": "PCTC", 
+     "id": "1469"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 120, 
+     "porcentaje_votos": 0.17, 
+     "siglas": "PREPAL", 
+     "id": "2753"
+    }
+   ], 
+   "result_ccaa": "elecciones/elecciones-castilla-y-leon/resultados/2023/08/99/p99.html", 
+   "slug": "salamanca", 
+   "result_muni": "elecciones/elecciones-municipales/resultados/2023/08/37/p274.html", 
+   "name": "Salamanca", 
+   "codigo_distritos": "99"
+  }, 
+  "47186": {
+   "votos_nulos": 1319, 
+   "code": "186", 
+   "porcentaje_censo_escrutado": 100.0, 
+   "porcentaje_votos_blanco": 1.02, 
+   "abstencion": 78832, 
+   "porcentaje_total_votantes": 67.24, 
+   "mesas_totales": 366, 
+   "total_votantes": 161819, 
+   "year": 2023, 
+   "porcentaje_abstencion": 32.75, 
+   "provincia_code": "47", 
+   "result_prov": "elecciones/elecciones-municipales/resultados/2023/08/47/p99.html", 
+   "typeMun": "capital", 
+   "censo": 240651, 
+   "code_muni_prov": "47186", 
+   "ccaa_code": "08", 
+   "votos_blanco": 1653, 
+   "type": "municipales_localidades", 
+   "censo_escrutado": 240621, 
+   "ccaaName": "Castilla y León", 
+   "diputados": 27, 
+   "porcentaje_votos_nulos": 0.81, 
+   "partidos": [
+    {
+     "color": "#dc1222", 
+     "diputados": 11, 
+     "votos": 58900, 
+     "porcentaje_votos": 36.69, 
+     "siglas": "PSOE", 
+     "id": "0030"
+    }, 
+    {
+     "color": "#30a6df", 
+     "diputados": 11, 
+     "votos": 58142, 
+     "porcentaje_votos": 36.22, 
+     "siglas": "PP", 
+     "id": "0006"
+    }, 
+    {
+     "color": "#8abb50", 
+     "diputados": 3, 
+     "votos": 18738, 
+     "porcentaje_votos": 11.67, 
+     "siglas": "VOX", 
+     "id": "0007"
+    }, 
+    {
+     "color": "#801e75", 
+     "diputados": 2, 
+     "votos": 14448, 
+     "porcentaje_votos": 9.0, 
+     "siglas": "TLP", 
+     "id": "6072"
+    }, 
+    {
+     "color": "#ef833a", 
+     "diputados": 0, 
+     "votos": 3226, 
+     "porcentaje_votos": 2.0, 
+     "siglas": "Cs", 
+     "id": "0027"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 2794, 
+     "porcentaje_votos": 1.74, 
+     "siglas": "CONTIGO AVANZAMOS", 
+     "id": "5317"
+    }, 
+    {
+     "color": "#93a607", 
+     "diputados": 0, 
+     "votos": 737, 
+     "porcentaje_votos": 0.45, 
+     "siglas": "PACMA", 
+     "id": "0031"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 391, 
+     "porcentaje_votos": 0.24, 
+     "siglas": "ESPAÑA VACIADA", 
+     "id": "0266"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 270, 
+     "porcentaje_votos": 0.16, 
+     "siglas": "EB-AZ", 
+     "id": "0270"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 253, 
+     "porcentaje_votos": 0.15, 
+     "siglas": "PCTC", 
+     "id": "1469"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 219, 
+     "porcentaje_votos": 0.13, 
+     "siglas": "3E", 
+     "id": "0105"
+    }, 
+    {
+     "color": "#f9d3b6", 
+     "diputados": 0, 
+     "votos": 174, 
+     "porcentaje_votos": 0.1, 
+     "siglas": "PUM+J", 
+     "id": "0026"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 156, 
+     "porcentaje_votos": 0.09, 
+     "siglas": "PCAS-TC", 
+     "id": "3301"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 145, 
+     "porcentaje_votos": 0.09, 
+     "siglas": "FE DE LAS JONS", 
+     "id": "0113"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 112, 
+     "porcentaje_votos": 0.06, 
+     "siglas": "UD.CA", 
+     "id": "1751"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 72, 
+     "porcentaje_votos": 0.04, 
+     "siglas": "FUERZA CÍVICA", 
+     "id": "5350"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 70, 
+     "porcentaje_votos": 0.04, 
+     "siglas": "AHORA DECIDE", 
+     "id": "5351"
+    }
+   ], 
+   "result_ccaa": "elecciones/elecciones-castilla-y-leon/resultados/2023/08/99/p99.html", 
+   "slug": "valladolid", 
+   "result_muni": "elecciones/elecciones-municipales/resultados/2023/08/47/p186.html", 
+   "name": "Valladolid", 
+   "codigo_distritos": "99"
+  }, 
+  "24089": {
+   "votos_nulos": 1431, 
+   "code": "089", 
+   "porcentaje_censo_escrutado": 100.0, 
+   "porcentaje_votos_blanco": 1.18, 
+   "abstencion": 38788, 
+   "porcentaje_total_votantes": 60.63, 
+   "mesas_totales": 156, 
+   "total_votantes": 59740, 
+   "year": 2023, 
+   "porcentaje_abstencion": 39.36, 
+   "provincia_code": "24", 
+   "result_prov": "elecciones/elecciones-municipales/resultados/2023/08/24/p99.html", 
+   "typeMun": "capital", 
+   "censo": 98528, 
+   "code_muni_prov": "24089", 
+   "ccaa_code": "08", 
+   "votos_blanco": 692, 
+   "type": "municipales_localidades", 
+   "censo_escrutado": 98520, 
+   "ccaaName": "Castilla y León", 
+   "diputados": 27, 
+   "porcentaje_votos_nulos": 2.39, 
+   "partidos": [
+    {
+     "color": "#dc1222", 
+     "diputados": 11, 
+     "votos": 20553, 
+     "porcentaje_votos": 35.24, 
+     "siglas": "PSOE", 
+     "id": "0030"
+    }, 
+    {
+     "color": "#30a6df", 
+     "diputados": 9, 
+     "votos": 16938, 
+     "porcentaje_votos": 29.04, 
+     "siglas": "PP", 
+     "id": "0006"
+    }, 
+    {
+     "color": "#ff6ec3", 
+     "diputados": 5, 
+     "votos": 11137, 
+     "porcentaje_votos": 19.09, 
+     "siglas": "U.P.L.", 
+     "id": "2744"
+    }, 
+    {
+     "color": "#8abb50", 
+     "diputados": 2, 
+     "votos": 5206, 
+     "porcentaje_votos": 8.92, 
+     "siglas": "VOX", 
+     "id": "0007"
+    }, 
+    {
+     "color": "#801e75", 
+     "diputados": 0, 
+     "votos": 2010, 
+     "porcentaje_votos": 3.44, 
+     "siglas": "IU-PODEMOS", 
+     "id": "1455"
+    }, 
+    {
+     "color": "#ef833a", 
+     "diputados": 0, 
+     "votos": 1057, 
+     "porcentaje_votos": 1.81, 
+     "siglas": "Cs", 
+     "id": "0027"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 315, 
+     "porcentaje_votos": 0.54, 
+     "siglas": "ALANTRE VERDES EQUO", 
+     "id": "2745"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 210, 
+     "porcentaje_votos": 0.36, 
+     "siglas": "PCTC", 
+     "id": "1469"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 155, 
+     "porcentaje_votos": 0.26, 
+     "siglas": "PREPAL", 
+     "id": "2753"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 36, 
+     "porcentaje_votos": 0.06, 
+     "siglas": "FE DE LAS JONS", 
+     "id": "0113"
+    }
+   ], 
+   "result_ccaa": "elecciones/elecciones-castilla-y-leon/resultados/2023/08/99/p99.html", 
+   "slug": "leon", 
+   "result_muni": "elecciones/elecciones-municipales/resultados/2023/08/24/p089.html", 
+   "name": "León", 
+   "codigo_distritos": "99"
+  }, 
+  "30030": {
+   "votos_nulos": 2345, 
+   "code": "030", 
+   "porcentaje_censo_escrutado": 100.0, 
+   "porcentaje_votos_blanco": 1.02, 
+   "abstencion": 112896, 
+   "porcentaje_total_votantes": 66.12, 
+   "mesas_totales": 524, 
+   "total_votantes": 220388, 
+   "year": 2023, 
+   "porcentaje_abstencion": 33.87, 
+   "provincia_code": "30", 
+   "result_prov": "elecciones/elecciones-municipales/resultados/2023/15/30/p99.html", 
+   "typeMun": "capital", 
+   "censo": 333284, 
+   "code_muni_prov": "30030", 
+   "ccaa_code": "15", 
+   "votos_blanco": 2225, 
+   "type": "municipales_localidades", 
+   "censo_escrutado": 333263, 
+   "ccaaName": "Región de Murcia", 
+   "diputados": 29, 
+   "porcentaje_votos_nulos": 1.06, 
+   "partidos": [
+    {
+     "color": "#30a6df", 
+     "diputados": 15, 
+     "votos": 98904, 
+     "porcentaje_votos": 45.35, 
+     "siglas": "PP", 
+     "id": "0006"
+    }, 
+    {
+     "color": "#dc1222", 
+     "diputados": 8, 
+     "votos": 53037, 
+     "porcentaje_votos": 24.32, 
+     "siglas": "PSOE", 
+     "id": "0030"
+    }, 
+    {
+     "color": "#8abb50", 
+     "diputados": 6, 
+     "votos": 40879, 
+     "porcentaje_votos": 18.74, 
+     "siglas": "VOX", 
+     "id": "0007"
+    }, 
+    {
+     "color": "#801e75", 
+     "diputados": 0, 
+     "votos": 9907, 
+     "porcentaje_votos": 4.54, 
+     "siglas": "PODEMOS+IU-VERDES+AV", 
+     "id": "3675"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 3889, 
+     "porcentaje_votos": 1.78, 
+     "siglas": "MR-VE", 
+     "id": "3676"
+    }, 
+    {
+     "color": "#ef833a", 
+     "diputados": 0, 
+     "votos": 3759, 
+     "porcentaje_votos": 1.72, 
+     "siglas": "Cs", 
+     "id": "0027"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 2392, 
+     "porcentaje_votos": 1.09, 
+     "siglas": "H.O.P.E.", 
+     "id": "3677"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 941, 
+     "porcentaje_votos": 0.43, 
+     "siglas": "POR MI REGIÓN", 
+     "id": "3642"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 613, 
+     "porcentaje_votos": 0.28, 
+     "siglas": "ML", 
+     "id": "3636"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 595, 
+     "porcentaje_votos": 0.27, 
+     "siglas": "3E", 
+     "id": "0105"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 501, 
+     "porcentaje_votos": 0.22, 
+     "siglas": "VALORES", 
+     "id": "3641"
+    }, 
+    {
+     "color": "#404040", 
+     "diputados": 0, 
+     "votos": 401, 
+     "porcentaje_votos": 0.18, 
+     "siglas": "P.C.P.E.", 
+     "id": "0086"
+    }
+   ], 
+   "result_ccaa": "elecciones/elecciones-murcia/resultados/2023/15/99/p99.html", 
+   "slug": "murcia", 
+   "result_muni": "elecciones/elecciones-municipales/resultados/2023/15/30/p030.html", 
+   "name": "Murcia", 
+   "codigo_distritos": "99"
+  }, 
+  "06015": {
+   "votos_nulos": 1030, 
+   "code": "015", 
+   "porcentaje_censo_escrutado": 100.0, 
+   "porcentaje_votos_blanco": 1.47, 
+   "abstencion": 43784, 
+   "porcentaje_total_votantes": 63.19, 
+   "mesas_totales": 195, 
+   "total_votantes": 75176, 
+   "year": 2023, 
+   "porcentaje_abstencion": 36.8, 
+   "provincia_code": "06", 
+   "result_prov": "elecciones/elecciones-municipales/resultados/2023/10/06/p99.html", 
+   "typeMun": "capital", 
+   "censo": 118960, 
+   "code_muni_prov": "06015", 
+   "ccaa_code": "10", 
+   "votos_blanco": 1094, 
+   "type": "municipales_localidades", 
+   "censo_escrutado": 118924, 
+   "ccaaName": "Extremadura", 
+   "diputados": 27, 
+   "porcentaje_votos_nulos": 1.37, 
+   "partidos": [
+    {
+     "color": "#30a6df", 
+     "diputados": 14, 
+     "votos": 32880, 
+     "porcentaje_votos": 44.34, 
+     "siglas": "PP", 
+     "id": "0006"
+    }, 
+    {
+     "color": "#dc1222", 
+     "diputados": 10, 
+     "votos": 23517, 
+     "porcentaje_votos": 31.71, 
+     "siglas": "PSOE", 
+     "id": "0030"
+    }, 
+    {
+     "color": "#8abb50", 
+     "diputados": 3, 
+     "votos": 7559, 
+     "porcentaje_votos": 10.19, 
+     "siglas": "VOX", 
+     "id": "0007"
+    }, 
+    {
+     "color": "#801e75", 
+     "diputados": 0, 
+     "votos": 3030, 
+     "porcentaje_votos": 4.08, 
+     "siglas": "UNIDAS - PODEMOS - IU", 
+     "id": "0369"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 2274, 
+     "porcentaje_votos": 3.06, 
+     "siglas": "J.U.E.X.", 
+     "id": "0348"
+    }, 
+    {
+     "color": "#5ea878", 
+     "diputados": 0, 
+     "votos": 1468, 
+     "porcentaje_votos": 1.97, 
+     "siglas": "ADELANTE", 
+     "id": "0359"
+    }, 
+    {
+     "color": "#ef833a", 
+     "diputados": 0, 
+     "votos": 1027, 
+     "porcentaje_votos": 1.38, 
+     "siglas": "Cs", 
+     "id": "0027"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 854, 
+     "porcentaje_votos": 1.15, 
+     "siglas": "BADAJOZ 5 ESTRELLAS", 
+     "id": "0360"
+    }, 
+    {
+     "color": "#111111", 
+     "diputados": 0, 
+     "votos": 244, 
+     "porcentaje_votos": 0.32, 
+     "siglas": "LEVANTA", 
+     "id": "0362"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 199, 
+     "porcentaje_votos": 0.26, 
+     "siglas": "(PEX)-(EXT)", 
+     "id": "0352"
+    }
+   ], 
+   "result_ccaa": "elecciones/elecciones-extremadura/resultados/2023/10/99/p99.html", 
+   "slug": "badajoz", 
+   "result_muni": "elecciones/elecciones-municipales/resultados/2023/10/06/p015.html", 
+   "name": "Badajoz", 
+   "codigo_distritos": "99"
+  }, 
+  "04013": {
+   "votos_nulos": 626, 
+   "code": "013", 
+   "porcentaje_censo_escrutado": 100.0, 
+   "porcentaje_votos_blanco": 1.19, 
+   "abstencion": 67599, 
+   "porcentaje_total_votantes": 53.46, 
+   "mesas_totales": 236, 
+   "total_votantes": 77674, 
+   "year": 2023, 
+   "porcentaje_abstencion": 46.53, 
+   "provincia_code": "04", 
+   "result_prov": "elecciones/elecciones-municipales/resultados/2023/01/04/p99.html", 
+   "typeMun": "capital", 
+   "censo": 145273, 
+   "code_muni_prov": "04013", 
+   "ccaa_code": "01", 
+   "votos_blanco": 921, 
+   "type": "municipales_localidades", 
+   "censo_escrutado": 145233, 
+   "ccaaName": "Andalucía", 
+   "diputados": 27, 
+   "porcentaje_votos_nulos": 0.8, 
+   "partidos": [
+    {
+     "color": "#30a6df", 
+     "diputados": 15, 
+     "votos": 37577, 
+     "porcentaje_votos": 48.77, 
+     "siglas": "PP", 
+     "id": "0006"
+    }, 
+    {
+     "color": "#dc1222", 
+     "diputados": 7, 
+     "votos": 18156, 
+     "porcentaje_votos": 23.56, 
+     "siglas": "PSOE", 
+     "id": "0030"
+    }, 
+    {
+     "color": "#8abb50", 
+     "diputados": 4, 
+     "votos": 10131, 
+     "porcentaje_votos": 13.14, 
+     "siglas": "VOX", 
+     "id": "0007"
+    }, 
+    {
+     "color": "#801e75", 
+     "diputados": 1, 
+     "votos": 3996, 
+     "porcentaje_votos": 5.18, 
+     "siglas": "CON ANDALUCÍA", 
+     "id": "5774"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 1463, 
+     "porcentaje_votos": 1.89, 
+     "siglas": "ALMERÍA AVANZA", 
+     "id": "0272"
+    }, 
+    {
+     "color": "#ef833a", 
+     "diputados": 0, 
+     "votos": 1286, 
+     "porcentaje_votos": 1.66, 
+     "siglas": "Cs", 
+     "id": "0027"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 1273, 
+     "porcentaje_votos": 1.65, 
+     "siglas": "ALMERIA SUMA +", 
+     "id": "0269"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 1069, 
+     "porcentaje_votos": 1.38, 
+     "siglas": "ALM", 
+     "id": "0268"
+    }, 
+    {
+     "color": "#93a607", 
+     "diputados": 0, 
+     "votos": 919, 
+     "porcentaje_votos": 1.19, 
+     "siglas": "PACMA", 
+     "id": "0031"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 257, 
+     "porcentaje_votos": 0.33, 
+     "siglas": "EB-AZ", 
+     "id": "0270"
+    }
+   ], 
+   "result_ccaa": "elecciones/elecciones-andalucia/resultados/2023/01/99/p99.html", 
+   "slug": "almeria", 
+   "result_muni": "elecciones/elecciones-municipales/resultados/2023/01/04/p013.html", 
+   "name": "Almería", 
+   "codigo_distritos": "99"
+  }, 
+  "08187": {
+   "votos_nulos": 1092, 
+   "code": "187", 
+   "porcentaje_censo_escrutado": 100.0, 
+   "porcentaje_votos_blanco": 1.52, 
+   "abstencion": 77750, 
+   "porcentaje_total_votantes": 50.33, 
+   "mesas_totales": 247, 
+   "total_votantes": 78796, 
+   "year": 2023, 
+   "porcentaje_abstencion": 49.66, 
+   "provincia_code": "08", 
+   "result_prov": "elecciones/elecciones-municipales/resultados/2023/09/08/p99.html", 
+   "typeMun": "region", 
+   "censo": 156546, 
+   "code_muni_prov": "08187", 
+   "ccaa_code": "09", 
+   "votos_blanco": 1184, 
+   "type": "municipales_localidades", 
+   "censo_escrutado": 156526, 
+   "ccaaName": "Cataluña", 
+   "diputados": 27, 
+   "porcentaje_votos_nulos": 1.38, 
+   "partidos": [
+    {
+     "color": "#dc1222", 
+     "diputados": 14, 
+     "votos": 35799, 
+     "porcentaje_votos": 46.07, 
+     "siglas": "PSOE", 
+     "id": "0030"
+    }, 
+    {
+     "color": "#ffb85c", 
+     "diputados": 3, 
+     "votos": 8592, 
+     "porcentaje_votos": 11.05, 
+     "siglas": "ERC", 
+     "id": "5783"
+    }, 
+    {
+     "color": "#ffcc42", 
+     "diputados": 3, 
+     "votos": 8018, 
+     "porcentaje_votos": 10.31, 
+     "siglas": "CUP", 
+     "id": "6060"
+    }, 
+    {
+     "color": "#00c3b2", 
+     "diputados": 2, 
+     "votos": 6319, 
+     "porcentaje_votos": 8.13, 
+     "siglas": "JUNTS", 
+     "id": "1277"
+    }, 
+    {
+     "color": "#801e75", 
+     "diputados": 2, 
+     "votos": 5636, 
+     "porcentaje_votos": 7.25, 
+     "siglas": "EN COMÚ", 
+     "id": "5782"
+    }, 
+    {
+     "color": "#8abb50", 
+     "diputados": 2, 
+     "votos": 5087, 
+     "porcentaje_votos": 6.54, 
+     "siglas": "VOX", 
+     "id": "0007"
+    }, 
+    {
+     "color": "#30a6df", 
+     "diputados": 1, 
+     "votos": 4557, 
+     "porcentaje_votos": 5.86, 
+     "siglas": "PP", 
+     "id": "0006"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 939, 
+     "porcentaje_votos": 1.2, 
+     "siglas": "SSBD", 
+     "id": "1073"
+    }, 
+    {
+     "color": "#ef833a", 
+     "diputados": 0, 
+     "votos": 884, 
+     "porcentaje_votos": 1.13, 
+     "siglas": "Cs", 
+     "id": "0027"
+    }, 
+    {
+     "color": "#213b9a", 
+     "diputados": 0, 
+     "votos": 400, 
+     "porcentaje_votos": 0.51, 
+     "siglas": "PDECAT", 
+     "id": "0552"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 289, 
+     "porcentaje_votos": 0.37, 
+     "siglas": "VALENTS", 
+     "id": "0530"
+    }
+   ], 
+   "result_ccaa": "elecciones/elecciones-cataluna/resultados/2023/09/99/p99.html", 
+   "slug": "sabadell", 
+   "result_muni": "elecciones/elecciones-municipales/resultados/2023/09/08/p187.html", 
+   "name": "Sabadell", 
+   "codigo_distritos": "99"
+  }, 
+  "27028": {
+   "votos_nulos": 680, 
+   "code": "028", 
+   "porcentaje_censo_escrutado": 100.0, 
+   "porcentaje_votos_blanco": 1.17, 
+   "abstencion": 27676, 
+   "porcentaje_total_votantes": 64.32, 
+   "mesas_totales": 125, 
+   "total_votantes": 49896, 
+   "year": 2023, 
+   "porcentaje_abstencion": 35.67, 
+   "provincia_code": "27", 
+   "result_prov": "elecciones/elecciones-municipales/resultados/2023/11/27/p99.html", 
+   "typeMun": "capital", 
+   "censo": 77572, 
+   "code_muni_prov": "27028", 
+   "ccaa_code": "11", 
+   "votos_blanco": 576, 
+   "type": "municipales_localidades", 
+   "censo_escrutado": 77571, 
+   "ccaaName": "Galicia", 
+   "diputados": 25, 
+   "porcentaje_votos_nulos": 1.36, 
+   "partidos": [
+    {
+     "color": "#30a6df", 
+     "diputados": 12, 
+     "votos": 21447, 
+     "porcentaje_votos": 43.57, 
+     "siglas": "PP", 
+     "id": "0006"
+    }, 
+    {
+     "color": "#dc1222", 
+     "diputados": 8, 
+     "votos": 13578, 
+     "porcentaje_votos": 27.58, 
+     "siglas": "PSOE", 
+     "id": "0030"
+    }, 
+    {
+     "color": "#78cbeb", 
+     "diputados": 5, 
+     "votos": 9861, 
+     "porcentaje_votos": 20.03, 
+     "siglas": "B.N.G.", 
+     "id": "1839"
+    }, 
+    {
+     "color": "#ef833a", 
+     "diputados": 0, 
+     "votos": 1357, 
+     "porcentaje_votos": 2.75, 
+     "siglas": "Cs", 
+     "id": "0027"
+    }, 
+    {
+     "color": "#8abb50", 
+     "diputados": 0, 
+     "votos": 1127, 
+     "porcentaje_votos": 2.28, 
+     "siglas": "VOX", 
+     "id": "0007"
+    }, 
+    {
+     "color": "#801e75", 
+     "diputados": 0, 
+     "votos": 710, 
+     "porcentaje_votos": 1.44, 
+     "siglas": "PODEMOS-AV", 
+     "id": "0325"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 397, 
+     "porcentaje_votos": 0.8, 
+     "siglas": "CONTAMOS GA.S GLG", 
+     "id": "6069"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 163, 
+     "porcentaje_votos": 0.33, 
+     "siglas": "UCIN", 
+     "id": "0036"
+    }
+   ], 
+   "result_ccaa": "elecciones/elecciones-galicia/resultados/2023/11/99/p99.html", 
+   "slug": "lugo", 
+   "result_muni": "elecciones/elecciones-municipales/resultados/2023/11/27/p028.html", 
+   "name": "Lugo", 
+   "codigo_distritos": "99"
+  }, 
+  "03014": {
+   "votos_nulos": 1347, 
+   "code": "014", 
+   "porcentaje_censo_escrutado": 100.0, 
+   "porcentaje_votos_blanco": 1.16, 
+   "abstencion": 95635, 
+   "porcentaje_total_votantes": 60.8, 
+   "mesas_totales": 422, 
+   "total_votantes": 148377, 
+   "year": 2023, 
+   "porcentaje_abstencion": 39.19, 
+   "provincia_code": "03", 
+   "result_prov": "elecciones/elecciones-municipales/resultados/2023/17/03/p99.html", 
+   "typeMun": "capital", 
+   "censo": 244012, 
+   "code_muni_prov": "03014", 
+   "ccaa_code": "17", 
+   "votos_blanco": 1710, 
+   "type": "municipales_localidades", 
+   "censo_escrutado": 242735, 
+   "ccaaName": "Comunidad Valenciana", 
+   "diputados": 29, 
+   "porcentaje_votos_nulos": 0.9, 
+   "partidos": [
+    {
+     "color": "#30a6df", 
+     "diputados": 14, 
+     "votos": 59896, 
+     "porcentaje_votos": 40.73, 
+     "siglas": "PP", 
+     "id": "0006"
+    }, 
+    {
+     "color": "#dc1222", 
+     "diputados": 8, 
+     "votos": 38154, 
+     "porcentaje_votos": 25.94, 
+     "siglas": "PSOE", 
+     "id": "0030"
+    }, 
+    {
+     "color": "#8abb50", 
+     "diputados": 4, 
+     "votos": 21083, 
+     "porcentaje_votos": 14.33, 
+     "siglas": "VOX", 
+     "id": "0007"
+    }, 
+    {
+     "color": "#ff5614", 
+     "diputados": 2, 
+     "votos": 10838, 
+     "porcentaje_votos": 7.37, 
+     "siglas": "COMPROMIS", 
+     "id": "6063"
+    }, 
+    {
+     "color": "#801e75", 
+     "diputados": 1, 
+     "votos": 7388, 
+     "porcentaje_votos": 5.02, 
+     "siglas": "UNIDAS - PODEMOS - IU", 
+     "id": "0369"
+    }, 
+    {
+     "color": "#ef833a", 
+     "diputados": 0, 
+     "votos": 4713, 
+     "porcentaje_votos": 3.2, 
+     "siglas": "Cs", 
+     "id": "0027"
+    }, 
+    {
+     "color": "#93a607", 
+     "diputados": 0, 
+     "votos": 1881, 
+     "porcentaje_votos": 1.27, 
+     "siglas": "PACMA", 
+     "id": "0031"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 509, 
+     "porcentaje_votos": 0.34, 
+     "siglas": "A.G.", 
+     "id": "0114"
+    }, 
+    {
+     "color": "#171717", 
+     "diputados": 0, 
+     "votos": 363, 
+     "porcentaje_votos": 0.24, 
+     "siglas": "P.C.P.E.", 
+     "id": "0086"
+    }, 
+    {
+     "color": "#f9d3b6", 
+     "diputados": 0, 
+     "votos": 202, 
+     "porcentaje_votos": 0.13, 
+     "siglas": "PUM+J", 
+     "id": "0026"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 173, 
+     "porcentaje_votos": 0.11, 
+     "siglas": "A.R.AL.", 
+     "id": "0115"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 120, 
+     "porcentaje_votos": 0.08, 
+     "siglas": "FE DE LAS JONS", 
+     "id": "0113"
+    }
+   ], 
+   "result_ccaa": "elecciones/elecciones-comunidad-valenciana/resultados/2023/17/99/p99.html", 
+   "slug": "alicante/alacant", 
+   "result_muni": "elecciones/elecciones-municipales/resultados/2023/17/03/p014.html", 
+   "name": "Alicante/Alacant", 
+   "codigo_distritos": "99"
+  }, 
+  "02003": {
+   "votos_nulos": 1230, 
+   "code": "003", 
+   "porcentaje_censo_escrutado": 100.0, 
+   "porcentaje_votos_blanco": 1.73, 
+   "abstencion": 45298, 
+   "porcentaje_total_votantes": 66.15, 
+   "mesas_totales": 221, 
+   "total_votantes": 88561, 
+   "year": 2023, 
+   "porcentaje_abstencion": 33.84, 
+   "provincia_code": "02", 
+   "result_prov": "elecciones/elecciones-municipales/resultados/2023/07/02/p99.html", 
+   "typeMun": "capital", 
+   "censo": 133859, 
+   "code_muni_prov": "02003", 
+   "ccaa_code": "07", 
+   "votos_blanco": 1518, 
+   "type": "municipales_localidades", 
+   "censo_escrutado": 133845, 
+   "ccaaName": "Castilla - La Mancha", 
+   "diputados": 27, 
+   "porcentaje_votos_nulos": 1.38, 
+   "partidos": [
+    {
+     "color": "#30a6df", 
+     "diputados": 12, 
+     "votos": 33343, 
+     "porcentaje_votos": 38.18, 
+     "siglas": "PP", 
+     "id": "0006"
+    }, 
+    {
+     "color": "#dc1222", 
+     "diputados": 10, 
+     "votos": 29677, 
+     "porcentaje_votos": 33.98, 
+     "siglas": "PSOE", 
+     "id": "0030"
+    }, 
+    {
+     "color": "#8abb50", 
+     "diputados": 4, 
+     "votos": 13440, 
+     "porcentaje_votos": 15.38, 
+     "siglas": "VOX", 
+     "id": "0007"
+    }, 
+    {
+     "color": "#801e75", 
+     "diputados": 1, 
+     "votos": 5242, 
+     "porcentaje_votos": 6.0, 
+     "siglas": "UNIDAS - PODEMOS - IU", 
+     "id": "0039"
+    }, 
+    {
+     "color": "#ef833a", 
+     "diputados": 0, 
+     "votos": 2941, 
+     "porcentaje_votos": 3.36, 
+     "siglas": "Cs", 
+     "id": "0027"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 566, 
+     "porcentaje_votos": 0.64, 
+     "siglas": "UCIN", 
+     "id": "0036"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 364, 
+     "porcentaje_votos": 0.41, 
+     "siglas": "TÚPATRIA", 
+     "id": "0037"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 240, 
+     "porcentaje_votos": 0.27, 
+     "siglas": "U.N.I.S.O", 
+     "id": "0038"
+    }
+   ], 
+   "result_ccaa": "elecciones/elecciones-castilla-la-mancha/resultados/2023/07/99/p99.html", 
+   "slug": "albacete", 
+   "result_muni": "elecciones/elecciones-municipales/resultados/2023/07/02/p003.html", 
+   "name": "Albacete", 
+   "codigo_distritos": "99"
+  }, 
+  "38038": {
+   "votos_nulos": 1056, 
+   "code": "038", 
+   "porcentaje_censo_escrutado": 100.0, 
+   "porcentaje_votos_blanco": 1.56, 
+   "abstencion": 76484, 
+   "porcentaje_total_votantes": 54.34, 
+   "mesas_totales": 291, 
+   "total_votantes": 91048, 
+   "year": 2023, 
+   "porcentaje_abstencion": 45.65, 
+   "provincia_code": "38", 
+   "result_prov": "elecciones/elecciones-municipales/resultados/2023/05/38/p99.html", 
+   "typeMun": "capital", 
+   "censo": 167532, 
+   "code_muni_prov": "38038", 
+   "ccaa_code": "05", 
+   "votos_blanco": 1410, 
+   "type": "municipales_localidades", 
+   "censo_escrutado": 167527, 
+   "ccaaName": "Canarias", 
+   "diputados": 27, 
+   "porcentaje_votos_nulos": 1.15, 
+   "partidos": [
+    {
+     "color": "#dc1222", 
+     "diputados": 10, 
+     "votos": 27105, 
+     "porcentaje_votos": 30.11, 
+     "siglas": "PSOE", 
+     "id": "0030"
+    }, 
+    {
+     "color": "#ffcc42", 
+     "diputados": 9, 
+     "votos": 25992, 
+     "porcentaje_votos": 28.88, 
+     "siglas": "CCA", 
+     "id": "4118"
+    }, 
+    {
+     "color": "#30a6df", 
+     "diputados": 5, 
+     "votos": 14527, 
+     "porcentaje_votos": 16.14, 
+     "siglas": "PP", 
+     "id": "0006"
+    }, 
+    {
+     "color": "#8abb50", 
+     "diputados": 3, 
+     "votos": 7873, 
+     "porcentaje_votos": 8.74, 
+     "siglas": "VOX", 
+     "id": "0007"
+    }, 
+    {
+     "color": "#801e75", 
+     "diputados": 0, 
+     "votos": 4054, 
+     "porcentaje_votos": 4.5, 
+     "siglas": "USP", 
+     "id": "4140"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 3236, 
+     "porcentaje_votos": 3.59, 
+     "siglas": "DVC", 
+     "id": "4145"
+    }, 
+    {
+     "color": "#93a607", 
+     "diputados": 0, 
+     "votos": 2414, 
+     "porcentaje_votos": 2.68, 
+     "siglas": "PACMA", 
+     "id": "0031"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 1460, 
+     "porcentaje_votos": 1.62, 
+     "siglas": "BNR-NC", 
+     "id": "4143"
+    }, 
+    {
+     "color": "#ef833a", 
+     "diputados": 0, 
+     "votos": 1059, 
+     "porcentaje_votos": 1.17, 
+     "siglas": "Cs", 
+     "id": "0027"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 235, 
+     "porcentaje_votos": 0.26, 
+     "siglas": "REUNIR CANARIAS SOSTENIBLE", 
+     "id": "4151"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 233, 
+     "porcentaje_votos": 0.25, 
+     "siglas": "AHORA CANARIAS-PCPC", 
+     "id": "4139"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 218, 
+     "porcentaje_votos": 0.24, 
+     "siglas": "P.N.C.", 
+     "id": "4125"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 176, 
+     "porcentaje_votos": 0.19, 
+     "siglas": "RESET", 
+     "id": "0426"
+    }
+   ], 
+   "result_ccaa": "elecciones/elecciones-canarias/resultados/2023/05/99/p99.html", 
+   "slug": "santa-cruz-de-tenerife", 
+   "result_muni": "elecciones/elecciones-municipales/resultados/2023/05/38/p038.html", 
+   "name": "Santa Cruz de Tenerife", 
+   "codigo_distritos": "99"
+  }, 
+  "36038": {
+   "votos_nulos": 492, 
+   "code": "038", 
+   "porcentaje_censo_escrutado": 100.0, 
+   "porcentaje_votos_blanco": 1.3, 
+   "abstencion": 24698, 
+   "porcentaje_total_votantes": 62.92, 
+   "mesas_totales": 106, 
+   "total_votantes": 41922, 
+   "year": 2023, 
+   "porcentaje_abstencion": 37.07, 
+   "provincia_code": "36", 
+   "result_prov": "elecciones/elecciones-municipales/resultados/2023/11/36/p99.html", 
+   "typeMun": "capital", 
+   "censo": 66620, 
+   "code_muni_prov": "36038", 
+   "ccaa_code": "11", 
+   "votos_blanco": 539, 
+   "type": "municipales_localidades", 
+   "censo_escrutado": 66613, 
+   "ccaaName": "Galicia", 
+   "diputados": 25, 
+   "porcentaje_votos_nulos": 1.17, 
+   "partidos": [
+    {
+     "color": "#30a6df", 
+     "diputados": 11, 
+     "votos": 16096, 
+     "porcentaje_votos": 38.85, 
+     "siglas": "PP", 
+     "id": "0006"
+    }, 
+    {
+     "color": "#78cbeb", 
+     "diputados": 9, 
+     "votos": 13000, 
+     "porcentaje_votos": 31.37, 
+     "siglas": "B.N.G.", 
+     "id": "1839"
+    }, 
+    {
+     "color": "#dc1222", 
+     "diputados": 5, 
+     "votos": 7340, 
+     "porcentaje_votos": 17.71, 
+     "siglas": "PSOE", 
+     "id": "0030"
+    }, 
+    {
+     "color": "#8abb50", 
+     "diputados": 0, 
+     "votos": 1455, 
+     "porcentaje_votos": 3.51, 
+     "siglas": "VOX", 
+     "id": "0007"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 952, 
+     "porcentaje_votos": 2.29, 
+     "siglas": "POAL", 
+     "id": "4213"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 592, 
+     "porcentaje_votos": 1.42, 
+     "siglas": "ESCO", 
+     "id": "1841"
+    }, 
+    {
+     "color": "#801e75", 
+     "diputados": 0, 
+     "votos": 580, 
+     "porcentaje_votos": 1.39, 
+     "siglas": "PODEMOS-AV", 
+     "id": "0325"
+    }, 
+    {
+     "color": "#93a607", 
+     "diputados": 0, 
+     "votos": 480, 
+     "porcentaje_votos": 1.15, 
+     "siglas": "PACMA", 
+     "id": "0031"
+    }, 
+    {
+     "color": "#ef833a", 
+     "diputados": 0, 
+     "votos": 396, 
+     "porcentaje_votos": 0.95, 
+     "siglas": "Cs", 
+     "id": "0027"
+    }
+   ], 
+   "result_ccaa": "elecciones/elecciones-galicia/resultados/2023/11/99/p99.html", 
+   "slug": "pontevedra", 
+   "result_muni": "elecciones/elecciones-municipales/resultados/2023/11/36/p038.html", 
+   "name": "Pontevedra", 
+   "codigo_distritos": "99"
+  }, 
+  "48020": {
+   "votos_nulos": 1657, 
+   "code": "020", 
+   "porcentaje_censo_escrutado": 100.0, 
+   "porcentaje_votos_blanco": 1.8, 
+   "abstencion": 117504, 
+   "porcentaje_total_votantes": 56.15, 
+   "mesas_totales": 358, 
+   "total_votantes": 150478, 
+   "year": 2023, 
+   "porcentaje_abstencion": 43.84, 
+   "provincia_code": "48", 
+   "result_prov": "elecciones/elecciones-municipales/resultados/2023/14/48/p99.html", 
+   "typeMun": "capital", 
+   "censo": 267982, 
+   "code_muni_prov": "48020", 
+   "ccaa_code": "14", 
+   "votos_blanco": 2682, 
+   "type": "municipales_localidades", 
+   "censo_escrutado": 267899, 
+   "ccaaName": "País Vasco", 
+   "diputados": 29, 
+   "porcentaje_votos_nulos": 1.1, 
+   "partidos": [
+    {
+     "color": "#008c35", 
+     "diputados": 12, 
+     "votos": 54445, 
+     "porcentaje_votos": 36.58, 
+     "siglas": "PNV", 
+     "id": "0001"
+    }, 
+    {
+     "color": "#bddc75", 
+     "diputados": 6, 
+     "votos": 28124, 
+     "porcentaje_votos": 18.89, 
+     "siglas": "EH-BILDU", 
+     "id": "0002"
+    }, 
+    {
+     "color": "#dc1222", 
+     "diputados": 5, 
+     "votos": 24356, 
+     "porcentaje_votos": 16.36, 
+     "siglas": "PSOE", 
+     "id": "0003"
+    }, 
+    {
+     "color": "#30a6df", 
+     "diputados": 4, 
+     "votos": 17950, 
+     "porcentaje_votos": 12.06, 
+     "siglas": "PP", 
+     "id": "0006"
+    }, 
+    {
+     "color": "#801e75", 
+     "diputados": 2, 
+     "votos": 11871, 
+     "porcentaje_votos": 7.97, 
+     "siglas": "PODEMOS, EZKER ANITZA / IU, ALIANZA VERDE", 
+     "id": "0010"
+    }, 
+    {
+     "color": "#8abb50", 
+     "diputados": 0, 
+     "votos": 5040, 
+     "porcentaje_votos": 3.38, 
+     "siglas": "VOX", 
+     "id": "0007"
+    }, 
+    {
+     "color": "#93a607", 
+     "diputados": 0, 
+     "votos": 1597, 
+     "porcentaje_votos": 1.07, 
+     "siglas": "PACMA", 
+     "id": "0031"
+    }, 
+    {
+     "color": "#262626", 
+     "diputados": 0, 
+     "votos": 871, 
+     "porcentaje_votos": 0.58, 
+     "siglas": "EB-AZ", 
+     "id": "0024"
+    }, 
+    {
+     "color": "#f9d3b6", 
+     "diputados": 0, 
+     "votos": 613, 
+     "porcentaje_votos": 0.41, 
+     "siglas": "PUM+J", 
+     "id": "0026"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 458, 
+     "porcentaje_votos": 0.3, 
+     "siglas": "STOP", 
+     "id": "2594"
+    }, 
+    {
+     "color": "#ef833a", 
+     "diputados": 0, 
+     "votos": 342, 
+     "porcentaje_votos": 0.22, 
+     "siglas": "Cs", 
+     "id": "0027"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 315, 
+     "porcentaje_votos": 0.21, 
+     "siglas": "PCTC", 
+     "id": "1469"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 157, 
+     "porcentaje_votos": 0.1, 
+     "siglas": "PH", 
+     "id": "3295"
+    }
+   ], 
+   "result_ccaa": "elecciones/elecciones-pais-vasco/resultados/2023/14/99/p99.html", 
+   "slug": "bilbao", 
+   "result_muni": "elecciones/elecciones-municipales/resultados/2023/14/48/p020.html", 
+   "name": "Bilbao", 
+   "codigo_distritos": "99"
+  }, 
+  "32054": {
+   "votos_nulos": 663, 
+   "code": "054", 
+   "porcentaje_censo_escrutado": 100.0, 
+   "porcentaje_votos_blanco": 1.43, 
+   "abstencion": 29154, 
+   "porcentaje_total_votantes": 65.43, 
+   "mesas_totales": 142, 
+   "total_votantes": 55196, 
+   "year": 2023, 
+   "porcentaje_abstencion": 34.56, 
+   "provincia_code": "32", 
+   "result_prov": "elecciones/elecciones-municipales/resultados/2023/11/32/p99.html", 
+   "typeMun": "capital", 
+   "censo": 84350, 
+   "code_muni_prov": "32054", 
+   "ccaa_code": "11", 
+   "votos_blanco": 785, 
+   "type": "municipales_localidades", 
+   "censo_escrutado": 83888, 
+   "ccaaName": "Galicia", 
+   "diputados": 27, 
+   "porcentaje_votos_nulos": 1.2, 
+   "partidos": [
+    {
+     "color": "#5E6D6D", 
+     "diputados": 10, 
+     "votos": 18450, 
+     "porcentaje_votos": 33.83, 
+     "siglas": "D.O.", 
+     "id": "3955"
+    }, 
+    {
+     "color": "#30a6df", 
+     "diputados": 7, 
+     "votos": 13609, 
+     "porcentaje_votos": 24.95, 
+     "siglas": "PP", 
+     "id": "0006"
+    }, 
+    {
+     "color": "#dc1222", 
+     "diputados": 6, 
+     "votos": 10514, 
+     "porcentaje_votos": 19.28, 
+     "siglas": "PSOE", 
+     "id": "0030"
+    }, 
+    {
+     "color": "#78cbeb", 
+     "diputados": 4, 
+     "votos": 8576, 
+     "porcentaje_votos": 15.72, 
+     "siglas": "B.N.G.", 
+     "id": "1839"
+    }, 
+    {
+     "color": "#8abb50", 
+     "diputados": 0, 
+     "votos": 1004, 
+     "porcentaje_votos": 1.84, 
+     "siglas": "VOX", 
+     "id": "0007"
+    }, 
+    {
+     "color": "#801e75", 
+     "diputados": 0, 
+     "votos": 781, 
+     "porcentaje_votos": 1.43, 
+     "siglas": "PODEMOS - ESQUERDA UNIDA -ALIANZA VERDE", 
+     "id": "6040"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 283, 
+     "porcentaje_votos": 0.51, 
+     "siglas": "CONTIGO", 
+     "id": "0154"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 229, 
+     "porcentaje_votos": 0.41, 
+     "siglas": "CCD", 
+     "id": "1712"
+    }, 
+    {
+     "color": "#ef833a", 
+     "diputados": 0, 
+     "votos": 171, 
+     "porcentaje_votos": 0.31, 
+     "siglas": "Cs", 
+     "id": "0027"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 131, 
+     "porcentaje_votos": 0.24, 
+     "siglas": "VOU", 
+     "id": "3970"
+    }
+   ], 
+   "result_ccaa": "elecciones/elecciones-galicia/resultados/2023/11/99/p99.html", 
+   "slug": "ourense", 
+   "result_muni": "elecciones/elecciones-municipales/resultados/2023/11/32/p054.html", 
+   "name": "Ourense", 
+   "codigo_distritos": "99"
+  }, 
+  "11012": {
+   "votos_nulos": 724, 
+   "code": "012", 
+   "porcentaje_censo_escrutado": 100.0, 
+   "porcentaje_votos_blanco": 1.49, 
+   "abstencion": 36380, 
+   "porcentaje_total_votantes": 61.68, 
+   "mesas_totales": 149, 
+   "total_votantes": 58564, 
+   "year": 2023, 
+   "porcentaje_abstencion": 38.31, 
+   "provincia_code": "11", 
+   "result_prov": "elecciones/elecciones-municipales/resultados/2023/01/11/p99.html", 
+   "typeMun": "capital", 
+   "censo": 94944, 
+   "code_muni_prov": "11012", 
+   "ccaa_code": "01", 
+   "votos_blanco": 862, 
+   "type": "municipales_localidades", 
+   "censo_escrutado": 94926, 
+   "ccaaName": "Andalucía", 
+   "diputados": 27, 
+   "porcentaje_votos_nulos": 1.23, 
+   "partidos": [
+    {
+     "color": "#30a6df", 
+     "diputados": 14, 
+     "votos": 23198, 
+     "porcentaje_votos": 40.1, 
+     "siglas": "PP", 
+     "id": "0006"
+    }, 
+    {
+     "color": "#dc1222", 
+     "diputados": 7, 
+     "votos": 11558, 
+     "porcentaje_votos": 19.98, 
+     "siglas": "PSOE", 
+     "id": "0030"
+    }, 
+    {
+     "color": "#5ea878", 
+     "diputados": 6, 
+     "votos": 11320, 
+     "porcentaje_votos": 19.57, 
+     "siglas": "ADELANTE", 
+     "id": "1612"
+    }, 
+    {
+     "color": "#8abb50", 
+     "diputados": 0, 
+     "votos": 2678, 
+     "porcentaje_votos": 4.63, 
+     "siglas": "VOX", 
+     "id": "0007"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 2169, 
+     "porcentaje_votos": 3.75, 
+     "siglas": "AHORACÁDIZ", 
+     "id": "1611"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 1442, 
+     "porcentaje_votos": 2.49, 
+     "siglas": "JUSTICIA SOCIAL", 
+     "id": "1614"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 1349, 
+     "porcentaje_votos": 2.33, 
+     "siglas": "UA", 
+     "id": "6005"
+    }, 
+    {
+     "color": "#93a607", 
+     "diputados": 0, 
+     "votos": 1045, 
+     "porcentaje_votos": 1.8, 
+     "siglas": "PACMA", 
+     "id": "0031"
+    }, 
+    {
+     "color": "#ef833a", 
+     "diputados": 0, 
+     "votos": 1001, 
+     "porcentaje_votos": 1.73, 
+     "siglas": "Cs", 
+     "id": "0027"
+    }, 
+    {
+     "color": "#801e75", 
+     "diputados": 0, 
+     "votos": 999, 
+     "porcentaje_votos": 1.72, 
+     "siglas": "PODEMOS", 
+     "id": "0193"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 219, 
+     "porcentaje_votos": 0.37, 
+     "siglas": "EB-AZ", 
+     "id": "0270"
+    }
+   ], 
+   "result_ccaa": "elecciones/elecciones-andalucia/resultados/2023/01/99/p99.html", 
+   "slug": "cadiz", 
+   "result_muni": "elecciones/elecciones-municipales/resultados/2023/01/11/p012.html", 
+   "name": "Cádiz", 
+   "codigo_distritos": "99"
+  }, 
+  "19130": {
+   "votos_nulos": 530, 
+   "code": "130", 
+   "porcentaje_censo_escrutado": 100.0, 
+   "porcentaje_votos_blanco": 1.26, 
+   "abstencion": 19859, 
+   "porcentaje_total_votantes": 68.07, 
+   "mesas_totales": 110, 
+   "total_votantes": 42337, 
+   "year": 2023, 
+   "porcentaje_abstencion": 31.92, 
+   "provincia_code": "19", 
+   "result_prov": "elecciones/elecciones-municipales/resultados/2023/07/19/p99.html", 
+   "typeMun": "capital", 
+   "censo": 62196, 
+   "code_muni_prov": "19130", 
+   "ccaa_code": "07", 
+   "votos_blanco": 528, 
+   "type": "municipales_localidades", 
+   "censo_escrutado": 62194, 
+   "ccaaName": "Castilla - La Mancha", 
+   "diputados": 25, 
+   "porcentaje_votos_nulos": 1.25, 
+   "partidos": [
+    {
+     "color": "#dc1222", 
+     "diputados": 11, 
+     "votos": 16877, 
+     "porcentaje_votos": 40.36, 
+     "siglas": "PSOE", 
+     "id": "0030"
+    }, 
+    {
+     "color": "#30a6df", 
+     "diputados": 9, 
+     "votos": 13169, 
+     "porcentaje_votos": 31.49, 
+     "siglas": "PP", 
+     "id": "0006"
+    }, 
+    {
+     "color": "#8abb50", 
+     "diputados": 4, 
+     "votos": 6600, 
+     "porcentaje_votos": 15.78, 
+     "siglas": "VOX", 
+     "id": "0007"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 1, 
+     "votos": 2185, 
+     "porcentaje_votos": 5.22, 
+     "siglas": "A GUADALAJARA HAY QUE QUERERLA", 
+     "id": "2521"
+    }, 
+    {
+     "color": "#801e75", 
+     "diputados": 0, 
+     "votos": 1401, 
+     "porcentaje_votos": 3.35, 
+     "siglas": "UNIDAS - PODEMOS - IU", 
+     "id": "0369"
+    }, 
+    {
+     "color": "#ef833a", 
+     "diputados": 0, 
+     "votos": 743, 
+     "porcentaje_votos": 1.77, 
+     "siglas": "Cs", 
+     "id": "0027"
+    }, 
+    {
+     "color": "#93a607", 
+     "diputados": 0, 
+     "votos": 304, 
+     "porcentaje_votos": 0.72, 
+     "siglas": "PACMA", 
+     "id": "0031"
+    }
+   ], 
+   "result_ccaa": "elecciones/elecciones-castilla-la-mancha/resultados/2023/07/99/p99.html", 
+   "slug": "guadalajara", 
+   "result_muni": "elecciones/elecciones-municipales/resultados/2023/07/19/p130.html", 
+   "name": "Guadalajara", 
+   "codigo_distritos": "99"
+  }, 
+  "40194": {
+   "votos_nulos": 361, 
+   "code": "194", 
+   "porcentaje_censo_escrutado": 100.0, 
+   "porcentaje_votos_blanco": 1.28, 
+   "abstencion": 12988, 
+   "porcentaje_total_votantes": 65.98, 
+   "mesas_totales": 63, 
+   "total_votantes": 25196, 
+   "year": 2023, 
+   "porcentaje_abstencion": 34.01, 
+   "provincia_code": "40", 
+   "result_prov": "elecciones/elecciones-municipales/resultados/2023/08/40/p99.html", 
+   "typeMun": "capital", 
+   "censo": 38184, 
+   "code_muni_prov": "40194", 
+   "ccaa_code": "08", 
+   "votos_blanco": 318, 
+   "type": "municipales_localidades", 
+   "censo_escrutado": 38182, 
+   "ccaaName": "Castilla y León", 
+   "diputados": 25, 
+   "porcentaje_votos_nulos": 1.43, 
+   "partidos": [
+    {
+     "color": "#30a6df", 
+     "diputados": 12, 
+     "votos": 11071, 
+     "porcentaje_votos": 44.57, 
+     "siglas": "PP", 
+     "id": "0006"
+    }, 
+    {
+     "color": "#dc1222", 
+     "diputados": 7, 
+     "votos": 6636, 
+     "porcentaje_votos": 26.72, 
+     "siglas": "PSOE", 
+     "id": "0030"
+    }, 
+    {
+     "color": "#8abb50", 
+     "diputados": 2, 
+     "votos": 2203, 
+     "porcentaje_votos": 8.87, 
+     "siglas": "VOX", 
+     "id": "0007"
+    }, 
+    {
+     "color": "#a70000", 
+     "diputados": 2, 
+     "votos": 1904, 
+     "porcentaje_votos": 7.66, 
+     "siglas": "IU", 
+     "id": "0040"
+    }, 
+    {
+     "color": "#801e75", 
+     "diputados": 1, 
+     "votos": 1362, 
+     "porcentaje_votos": 5.48, 
+     "siglas": "PODEMOS-AV", 
+     "id": "0325"
+    }, 
+    {
+     "color": "#ef833a", 
+     "diputados": 1, 
+     "votos": 1341, 
+     "porcentaje_votos": 5.39, 
+     "siglas": "Cs", 
+     "id": "0027"
+    }
+   ], 
+   "result_ccaa": "elecciones/elecciones-castilla-y-leon/resultados/2023/08/99/p99.html", 
+   "slug": "segovia", 
+   "result_muni": "elecciones/elecciones-municipales/resultados/2023/08/40/p194.html", 
+   "name": "Segovia", 
+   "codigo_distritos": "99"
+  }, 
+  "28092": {
+   "votos_nulos": 1565, 
+   "code": "092", 
+   "porcentaje_censo_escrutado": 100.0, 
+   "porcentaje_votos_blanco": 1.18, 
+   "abstencion": 52090, 
+   "porcentaje_total_votantes": 66.58, 
+   "mesas_totales": 224, 
+   "total_votantes": 103786, 
+   "year": 2023, 
+   "porcentaje_abstencion": 33.41, 
+   "provincia_code": "28", 
+   "result_prov": "elecciones/elecciones-municipales/resultados/2023/12/28/p99.html", 
+   "typeMun": "region", 
+   "censo": 155876, 
+   "code_muni_prov": "28092", 
+   "ccaa_code": "12", 
+   "votos_blanco": 1216, 
+   "type": "municipales_localidades", 
+   "censo_escrutado": 155872, 
+   "ccaaName": "Comunidad de Madrid", 
+   "diputados": 27, 
+   "porcentaje_votos_nulos": 1.5, 
+   "partidos": [
+    {
+     "color": "#30a6df", 
+     "diputados": 12, 
+     "votos": 38201, 
+     "porcentaje_votos": 37.37, 
+     "siglas": "PP", 
+     "id": "0006"
+    }, 
+    {
+     "color": "#dc1222", 
+     "diputados": 7, 
+     "votos": 22844, 
+     "porcentaje_votos": 22.34, 
+     "siglas": "PSOE", 
+     "id": "0030"
+    }, 
+    {
+     "color": "#78d599", 
+     "diputados": 4, 
+     "votos": 15907, 
+     "porcentaje_votos": 15.56, 
+     "siglas": "MAS_MADRID", 
+     "id": "3433"
+    }, 
+    {
+     "color": "#8abb50", 
+     "diputados": 3, 
+     "votos": 10696, 
+     "porcentaje_votos": 10.46, 
+     "siglas": "VOX", 
+     "id": "0007"
+    }, 
+    {
+     "color": "#801e75", 
+     "diputados": 1, 
+     "votos": 5409, 
+     "porcentaje_votos": 5.29, 
+     "siglas": "PODEMOS-IU-AV", 
+     "id": "1456"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 3136, 
+     "porcentaje_votos": 3.06, 
+     "siglas": "MXF", 
+     "id": "3432"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 2777, 
+     "porcentaje_votos": 2.71, 
+     "siglas": "SOMOSMAS", 
+     "id": "3434"
+    }, 
+    {
+     "color": "#ef833a", 
+     "diputados": 0, 
+     "votos": 1494, 
+     "porcentaje_votos": 1.46, 
+     "siglas": "Cs", 
+     "id": "0027"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 446, 
+     "porcentaje_votos": 0.43, 
+     "siglas": "ATM", 
+     "id": "3435"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 95, 
+     "porcentaje_votos": 0.09, 
+     "siglas": "FE DE LAS JONS", 
+     "id": "0113"
+    }
+   ], 
+   "result_ccaa": "elecciones/elecciones-madrid/resultados/2023/12/99/p99.html", 
+   "slug": "mostoles", 
+   "result_muni": "elecciones/elecciones-municipales/resultados/2023/12/28/p092.html", 
+   "name": "Móstoles", 
+   "codigo_distritos": "99"
+  }, 
+  "18087": {
+   "votos_nulos": 2953, 
+   "code": "087", 
+   "porcentaje_censo_escrutado": 100.0, 
+   "porcentaje_votos_blanco": 0.91, 
+   "abstencion": 68834, 
+   "porcentaje_total_votantes": 61.62, 
+   "mesas_totales": 282, 
+   "total_votantes": 110548, 
+   "year": 2023, 
+   "porcentaje_abstencion": 38.37, 
+   "provincia_code": "18", 
+   "result_prov": "elecciones/elecciones-municipales/resultados/2023/01/18/p99.html", 
+   "typeMun": "capital", 
+   "censo": 179382, 
+   "code_muni_prov": "18087", 
+   "ccaa_code": "01", 
+   "votos_blanco": 988, 
+   "type": "municipales_localidades", 
+   "censo_escrutado": 179379, 
+   "ccaaName": "Andalucía", 
+   "diputados": 27, 
+   "porcentaje_votos_nulos": 2.67, 
+   "partidos": [
+    {
+     "color": "#30a6df", 
+     "diputados": 15, 
+     "votos": 48742, 
+     "porcentaje_votos": 45.3, 
+     "siglas": "PP", 
+     "id": "0006"
+    }, 
+    {
+     "color": "#dc1222", 
+     "diputados": 10, 
+     "votos": 35650, 
+     "porcentaje_votos": 33.13, 
+     "siglas": "PSOE", 
+     "id": "0030"
+    }, 
+    {
+     "color": "#8abb50", 
+     "diputados": 2, 
+     "votos": 9082, 
+     "porcentaje_votos": 8.44, 
+     "siglas": "VOX", 
+     "id": "0007"
+    }, 
+    {
+     "color": "#a70000", 
+     "diputados": 0, 
+     "votos": 4831, 
+     "porcentaje_votos": 4.48, 
+     "siglas": "IU_ALIADOS", 
+     "id": "5844"
+    }, 
+    {
+     "color": "#801e75", 
+     "diputados": 0, 
+     "votos": 3168, 
+     "porcentaje_votos": 2.94, 
+     "siglas": "PODEMOS-AV", 
+     "id": "0325"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 1410, 
+     "porcentaje_votos": 1.31, 
+     "siglas": "JXG", 
+     "id": "2444"
+    }, 
+    {
+     "color": "#ef833a", 
+     "diputados": 0, 
+     "votos": 1092, 
+     "porcentaje_votos": 1.01, 
+     "siglas": "Cs", 
+     "id": "0027"
+    }, 
+    {
+     "color": "#5ea878", 
+     "diputados": 0, 
+     "votos": 813, 
+     "porcentaje_votos": 0.75, 
+     "siglas": "ADELANTE", 
+     "id": "1599"
+    }, 
+    {
+     "color": "#f9d3b6", 
+     "diputados": 0, 
+     "votos": 789, 
+     "porcentaje_votos": 0.73, 
+     "siglas": "PUM+J", 
+     "id": "0026"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 620, 
+     "porcentaje_votos": 0.57, 
+     "siglas": "IZQP", 
+     "id": "2442"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 295, 
+     "porcentaje_votos": 0.27, 
+     "siglas": "EB-AZ", 
+     "id": "0270"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 115, 
+     "porcentaje_votos": 0.1, 
+     "siglas": "N.A.", 
+     "id": "1784"
+    }
+   ], 
+   "result_ccaa": "elecciones/elecciones-andalucia/resultados/2023/01/99/p99.html", 
+   "slug": "granada", 
+   "result_muni": "elecciones/elecciones-municipales/resultados/2023/01/18/p087.html", 
+   "name": "Granada", 
+   "codigo_distritos": "99"
+  }, 
+  "35016": {
+   "votos_nulos": 2140, 
+   "code": "016", 
+   "porcentaje_censo_escrutado": 100.0, 
+   "porcentaje_votos_blanco": 1.63, 
+   "abstencion": 150582, 
+   "porcentaje_total_votantes": 50.69, 
+   "mesas_totales": 546, 
+   "total_votantes": 154839, 
+   "year": 2023, 
+   "porcentaje_abstencion": 49.3, 
+   "provincia_code": "35", 
+   "result_prov": "elecciones/elecciones-municipales/resultados/2023/05/35/p99.html", 
+   "typeMun": "capital", 
+   "censo": 305421, 
+   "code_muni_prov": "35016", 
+   "ccaa_code": "05", 
+   "votos_blanco": 2504, 
+   "type": "municipales_localidades", 
+   "censo_escrutado": 304962, 
+   "ccaaName": "Canarias", 
+   "diputados": 29, 
+   "porcentaje_votos_nulos": 1.38, 
+   "partidos": [
+    {
+     "color": "#dc1222", 
+     "diputados": 12, 
+     "votos": 50512, 
+     "porcentaje_votos": 33.07, 
+     "siglas": "PSOE", 
+     "id": "0030"
+    }, 
+    {
+     "color": "#30a6df", 
+     "diputados": 9, 
+     "votos": 41530, 
+     "porcentaje_votos": 27.19, 
+     "siglas": "PP", 
+     "id": "0006"
+    }, 
+    {
+     "color": "#8abb50", 
+     "diputados": 4, 
+     "votos": 17249, 
+     "porcentaje_votos": 11.29, 
+     "siglas": "VOX", 
+     "id": "0007"
+    }, 
+    {
+     "color": "#bfc91e", 
+     "diputados": 2, 
+     "votos": 9355, 
+     "porcentaje_votos": 6.12, 
+     "siglas": "BNR-NC", 
+     "id": "4143"
+    }, 
+    {
+     "color": "#801e75", 
+     "diputados": 1, 
+     "votos": 8190, 
+     "porcentaje_votos": 5.36, 
+     "siglas": "USP", 
+     "id": "4140"
+    }, 
+    {
+     "color": "#ffcc42", 
+     "diputados": 1, 
+     "votos": 7940, 
+     "porcentaje_votos": 5.19, 
+     "siglas": "CCA", 
+     "id": "4118"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 5066, 
+     "porcentaje_votos": 3.31, 
+     "siglas": "UXGC", 
+     "id": "4117"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 2876, 
+     "porcentaje_votos": 1.88, 
+     "siglas": "DVC", 
+     "id": "4145"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 2598, 
+     "porcentaje_votos": 1.7, 
+     "siglas": "HABLEMOS AHORA", 
+     "id": "4122"
+    }, 
+    {
+     "color": "#93a607", 
+     "diputados": 0, 
+     "votos": 1972, 
+     "porcentaje_votos": 1.29, 
+     "siglas": "PACMA", 
+     "id": "0031"
+    }, 
+    {
+     "color": "#ef833a", 
+     "diputados": 0, 
+     "votos": 643, 
+     "porcentaje_votos": 0.42, 
+     "siglas": "Cs", 
+     "id": "0027"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 536, 
+     "porcentaje_votos": 0.35, 
+     "siglas": "3E", 
+     "id": "0105"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 527, 
+     "porcentaje_votos": 0.34, 
+     "siglas": "P.N.C.", 
+     "id": "4125"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 515, 
+     "porcentaje_votos": 0.33, 
+     "siglas": "AHORA CANARIAS-PCPC", 
+     "id": "4139"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 490, 
+     "porcentaje_votos": 0.32, 
+     "siglas": "REUNIR CANARIAS SOSTENIBLE", 
+     "id": "4151"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 196, 
+     "porcentaje_votos": 0.12, 
+     "siglas": "CONTIGO", 
+     "id": "0154"
+    }
+   ], 
+   "result_ccaa": "elecciones/elecciones-canarias/resultados/2023/05/99/p99.html", 
+   "slug": "las-palmas-de-gran-canaria", 
+   "result_muni": "elecciones/elecciones-municipales/resultados/2023/05/35/p016.html", 
+   "name": "Las Palmas de Gran Canaria", 
+   "codigo_distritos": "99"
+  }, 
+  "28079": {
+   "votos_nulos": 12349, 
+   "code": "079", 
+   "porcentaje_censo_escrutado": 100.0, 
+   "porcentaje_votos_blanco": 0.86, 
+   "abstencion": 735268, 
+   "porcentaje_total_votantes": 69.18, 
+   "mesas_totales": 3478, 
+   "total_votantes": 1651025, 
+   "year": 2023, 
+   "porcentaje_abstencion": 30.81, 
+   "provincia_code": "28", 
+   "result_prov": "elecciones/elecciones-municipales/resultados/2023/12/28/p99.html", 
+   "typeMun": "capital", 
+   "censo": 2386293, 
+   "code_muni_prov": "28079", 
+   "ccaa_code": "12", 
+   "votos_blanco": 14093, 
+   "type": "municipales_localidades", 
+   "censo_escrutado": 2386159, 
+   "ccaaName": "Comunidad de Madrid", 
+   "diputados": 57, 
+   "porcentaje_votos_nulos": 0.74, 
+   "partidos": [
+    {
+     "color": "#30a6df", 
+     "diputados": 29, 
+     "votos": 729302, 
+     "porcentaje_votos": 44.5, 
+     "siglas": "PP", 
+     "id": "0006"
+    }, 
+    {
+     "color": "#78d599", 
+     "diputados": 12, 
+     "votos": 313205, 
+     "porcentaje_votos": 19.11, 
+     "siglas": "MAS_MADRID", 
+     "id": "3414"
+    }, 
+    {
+     "color": "#dc1222", 
+     "diputados": 11, 
+     "votos": 274564, 
+     "porcentaje_votos": 16.75, 
+     "siglas": "PSOE", 
+     "id": "0030"
+    }, 
+    {
+     "color": "#8abb50", 
+     "diputados": 5, 
+     "votos": 148658, 
+     "porcentaje_votos": 9.07, 
+     "siglas": "VOX", 
+     "id": "0007"
+    }, 
+    {
+     "color": "#801e75", 
+     "diputados": 0, 
+     "votos": 79874, 
+     "porcentaje_votos": 4.87, 
+     "siglas": "PODEMOS-IU-AV", 
+     "id": "3417"
+    }, 
+    {
+     "color": "#ef833a", 
+     "diputados": 0, 
+     "votos": 47510, 
+     "porcentaje_votos": 2.89, 
+     "siglas": "Cs", 
+     "id": "0027"
+    }, 
+    {
+     "color": "#93a607", 
+     "diputados": 0, 
+     "votos": 8512, 
+     "porcentaje_votos": 0.51, 
+     "siglas": "PACMA", 
+     "id": "0031"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 6436, 
+     "porcentaje_votos": 0.39, 
+     "siglas": "PROFESIONALES", 
+     "id": "3416"
+    }, 
+    {
+     "color": "#f9d3b6", 
+     "diputados": 0, 
+     "votos": 2919, 
+     "porcentaje_votos": 0.17, 
+     "siglas": "PUM+J", 
+     "id": "0026"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 2492, 
+     "porcentaje_votos": 0.15, 
+     "siglas": "EB-AZ", 
+     "id": "0270"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 2074, 
+     "porcentaje_votos": 0.12, 
+     "siglas": "PFE", 
+     "id": "3298"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 1608, 
+     "porcentaje_votos": 0.09, 
+     "siglas": "3E", 
+     "id": "0105"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 1442, 
+     "porcentaje_votos": 0.08, 
+     "siglas": "PC-LV", 
+     "id": "0598"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 1192, 
+     "porcentaje_votos": 0.07, 
+     "siglas": "PCTC", 
+     "id": "1469"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 972, 
+     "porcentaje_votos": 0.05, 
+     "siglas": "FE DE LAS JONS", 
+     "id": "0113"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 949, 
+     "porcentaje_votos": 0.05, 
+     "siglas": "PH", 
+     "id": "3295"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 932, 
+     "porcentaje_votos": 0.05, 
+     "siglas": "P.C.P.E.", 
+     "id": "3410"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 737, 
+     "porcentaje_votos": 0.04, 
+     "siglas": "PCAS-TC", 
+     "id": "3301"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 452, 
+     "porcentaje_votos": 0.02, 
+     "siglas": "CMC", 
+     "id": "3418"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 446, 
+     "porcentaje_votos": 0.02, 
+     "siglas": "ULEG", 
+     "id": "3294"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 307, 
+     "porcentaje_votos": 0.01, 
+     "siglas": "PROGRESO DE CIUDADES", 
+     "id": "3415"
+    }
+   ], 
+   "result_ccaa": "elecciones/elecciones-madrid/resultados/2023/12/99/p99.html", 
+   "slug": "madrid", 
+   "result_muni": "elecciones/elecciones-municipales/resultados/2023/12/28/p079.html", 
+   "name": "Madrid", 
+   "codigo_distritos": "99"
+  }, 
+  "05019": {
+   "votos_nulos": 388, 
+   "code": "019", 
+   "porcentaje_censo_escrutado": 100.0, 
+   "porcentaje_votos_blanco": 1.19, 
+   "abstencion": 15588, 
+   "porcentaje_total_votantes": 65.23, 
+   "mesas_totales": 57, 
+   "total_votantes": 29248, 
+   "year": 2023, 
+   "porcentaje_abstencion": 34.76, 
+   "provincia_code": "05", 
+   "result_prov": "elecciones/elecciones-municipales/resultados/2023/08/05/p99.html", 
+   "typeMun": "capital", 
+   "censo": 44836, 
+   "code_muni_prov": "05019", 
+   "ccaa_code": "08", 
+   "votos_blanco": 344, 
+   "type": "municipales_localidades", 
+   "censo_escrutado": 44836, 
+   "ccaaName": "Castilla y León", 
+   "diputados": 25, 
+   "porcentaje_votos_nulos": 1.32, 
+   "partidos": [
+    {
+     "color": "#CC9B16", 
+     "diputados": 11, 
+     "votos": 11075, 
+     "porcentaje_votos": 38.37, 
+     "siglas": "XAV", 
+     "id": "0322"
+    }, 
+    {
+     "color": "#30a6df", 
+     "diputados": 7, 
+     "votos": 7525, 
+     "porcentaje_votos": 26.07, 
+     "siglas": "PP", 
+     "id": "0006"
+    }, 
+    {
+     "color": "#dc1222", 
+     "diputados": 4, 
+     "votos": 4459, 
+     "porcentaje_votos": 15.45, 
+     "siglas": "PSOE", 
+     "id": "0030"
+    }, 
+    {
+     "color": "#8abb50", 
+     "diputados": 3, 
+     "votos": 2869, 
+     "porcentaje_votos": 9.94, 
+     "siglas": "VOX", 
+     "id": "0007"
+    }, 
+    {
+     "color": "#474747", 
+     "diputados": 0, 
+     "votos": 1398, 
+     "porcentaje_votos": 4.84, 
+     "siglas": "IU-PODEMOS", 
+     "id": "0328"
+    }, 
+    {
+     "color": "#ef833a", 
+     "diputados": 0, 
+     "votos": 654, 
+     "porcentaje_votos": 2.26, 
+     "siglas": "Cs", 
+     "id": "0027"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 536, 
+     "porcentaje_votos": 1.85, 
+     "siglas": "PNTAV", 
+     "id": "0324"
+    }
+   ], 
+   "result_ccaa": "elecciones/elecciones-castilla-y-leon/resultados/2023/08/99/p99.html", 
+   "slug": "avila", 
+   "result_muni": "elecciones/elecciones-municipales/resultados/2023/08/05/p019.html", 
+   "name": "Ávila", 
+   "codigo_distritos": "99"
+  }, 
+  "08279": {
+   "votos_nulos": 821, 
+   "code": "279", 
+   "porcentaje_censo_escrutado": 100.0, 
+   "porcentaje_votos_blanco": 1.42, 
+   "abstencion": 78000, 
+   "porcentaje_total_votantes": 50.85, 
+   "mesas_totales": 261, 
+   "total_votantes": 80703, 
+   "year": 2023, 
+   "porcentaje_abstencion": 49.14, 
+   "provincia_code": "08", 
+   "result_prov": "elecciones/elecciones-municipales/resultados/2023/09/08/p99.html", 
+   "typeMun": "region", 
+   "censo": 158703, 
+   "code_muni_prov": "08279", 
+   "ccaa_code": "09", 
+   "votos_blanco": 1135, 
+   "type": "municipales_localidades", 
+   "censo_escrutado": 158689, 
+   "ccaaName": "Cataluña", 
+   "diputados": 27, 
+   "porcentaje_votos_nulos": 1.01, 
+   "partidos": [
+    {
+     "color": "#5E6D6D", 
+     "diputados": 11, 
+     "votos": 26732, 
+     "porcentaje_votos": 33.46, 
+     "siglas": "TXT", 
+     "id": "1354"
+    }, 
+    {
+     "color": "#dc1222", 
+     "diputados": 7, 
+     "votos": 16711, 
+     "porcentaje_votos": 20.91, 
+     "siglas": "PSOE", 
+     "id": "0030"
+    }, 
+    {
+     "color": "#8abb50", 
+     "diputados": 3, 
+     "votos": 8380, 
+     "porcentaje_votos": 10.49, 
+     "siglas": "VOX", 
+     "id": "0007"
+    }, 
+    {
+     "color": "#ffb85c", 
+     "diputados": 2, 
+     "votos": 6047, 
+     "porcentaje_votos": 7.56, 
+     "siglas": "ERC", 
+     "id": "5783"
+    }, 
+    {
+     "color": "#00c3b2", 
+     "diputados": 2, 
+     "votos": 5723, 
+     "porcentaje_votos": 7.16, 
+     "siglas": "JUNTS", 
+     "id": "1277"
+    }, 
+    {
+     "color": "#30a6df", 
+     "diputados": 2, 
+     "votos": 5242, 
+     "porcentaje_votos": 6.56, 
+     "siglas": "PP", 
+     "id": "0006"
+    }, 
+    {
+     "color": "#801e75", 
+     "diputados": 0, 
+     "votos": 3643, 
+     "porcentaje_votos": 4.56, 
+     "siglas": "EN COMÚ", 
+     "id": "5782"
+    }, 
+    {
+     "color": "#ffcc42", 
+     "diputados": 0, 
+     "votos": 2696, 
+     "porcentaje_votos": 3.37, 
+     "siglas": "CUP", 
+     "id": "6060"
+    }, 
+    {
+     "color": "#ef833a", 
+     "diputados": 0, 
+     "votos": 1273, 
+     "porcentaje_votos": 1.59, 
+     "siglas": "Cs", 
+     "id": "0027"
+    }, 
+    {
+     "color": "#93a607", 
+     "diputados": 0, 
+     "votos": 1234, 
+     "porcentaje_votos": 1.54, 
+     "siglas": "PACMA", 
+     "id": "0031"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 450, 
+     "porcentaje_votos": 0.56, 
+     "siglas": "PFIV", 
+     "id": "0592"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 280, 
+     "porcentaje_votos": 0.35, 
+     "siglas": "VALENTS", 
+     "id": "0530"
+    }, 
+    {
+     "color": "#767676", 
+     "diputados": 0, 
+     "votos": 212, 
+     "porcentaje_votos": 0.26, 
+     "siglas": "PCTC", 
+     "id": "0597"
+    }, 
+    {
+     "color": "#213b9a", 
+     "diputados": 0, 
+     "votos": 124, 
+     "porcentaje_votos": 0.15, 
+     "siglas": "PDECAT", 
+     "id": "0552"
+    }
+   ], 
+   "result_ccaa": "elecciones/elecciones-cataluna/resultados/2023/09/99/p99.html", 
+   "slug": "terrassa", 
+   "result_muni": "elecciones/elecciones-municipales/resultados/2023/09/08/p279.html", 
+   "name": "Terrassa", 
+   "codigo_distritos": "99"
+  }, 
+  "28074": {
+   "votos_nulos": 1126, 
+   "code": "074", 
+   "porcentaje_censo_escrutado": 100.0, 
+   "porcentaje_votos_blanco": 1.17, 
+   "abstencion": 43012, 
+   "porcentaje_total_votantes": 69.42, 
+   "mesas_totales": 207, 
+   "total_votantes": 97663, 
+   "year": 2023, 
+   "porcentaje_abstencion": 30.57, 
+   "provincia_code": "28", 
+   "result_prov": "elecciones/elecciones-municipales/resultados/2023/12/28/p99.html", 
+   "typeMun": "region", 
+   "censo": 140675, 
+   "code_muni_prov": "28074", 
+   "ccaa_code": "12", 
+   "votos_blanco": 1131, 
+   "type": "municipales_localidades", 
+   "censo_escrutado": 140671, 
+   "ccaaName": "Comunidad de Madrid", 
+   "diputados": 27, 
+   "porcentaje_votos_nulos": 1.15, 
+   "partidos": [
+    {
+     "color": "#30a6df", 
+     "diputados": 9, 
+     "votos": 30611, 
+     "porcentaje_votos": 31.7, 
+     "siglas": "PP", 
+     "id": "0006"
+    }, 
+    {
+     "color": "#dc1222", 
+     "diputados": 8, 
+     "votos": 26470, 
+     "porcentaje_votos": 27.41, 
+     "siglas": "PSOE", 
+     "id": "0030"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 3, 
+     "votos": 11073, 
+     "porcentaje_votos": 11.47, 
+     "siglas": "ULEG", 
+     "id": "3294"
+    }, 
+    {
+     "color": "#78d599", 
+     "diputados": 3, 
+     "votos": 10234, 
+     "porcentaje_votos": 10.6, 
+     "siglas": "MAS_MADRID", 
+     "id": "3414"
+    }, 
+    {
+     "color": "#8abb50", 
+     "diputados": 2, 
+     "votos": 7608, 
+     "porcentaje_votos": 7.88, 
+     "siglas": "VOX", 
+     "id": "0007"
+    }, 
+    {
+     "color": "#801e75", 
+     "diputados": 2, 
+     "votos": 6345, 
+     "porcentaje_votos": 6.57, 
+     "siglas": "PODEMOS", 
+     "id": "0193"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 1557, 
+     "porcentaje_votos": 1.61, 
+     "siglas": "LEGANEMOS", 
+     "id": "3411"
+    }, 
+    {
+     "color": "#ef833a", 
+     "diputados": 0, 
+     "votos": 1119, 
+     "porcentaje_votos": 1.15, 
+     "siglas": "Cs", 
+     "id": "0027"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 294, 
+     "porcentaje_votos": 0.3, 
+     "siglas": "P.C.P.E.", 
+     "id": "3410"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 95, 
+     "porcentaje_votos": 0.09, 
+     "siglas": "UNIDOS-DEF", 
+     "id": "3409"
+    }
+   ], 
+   "result_ccaa": "elecciones/elecciones-madrid/resultados/2023/12/99/p99.html", 
+   "slug": "leganes", 
+   "result_muni": "elecciones/elecciones-municipales/resultados/2023/12/28/p074.html", 
+   "name": "Leganés", 
+   "codigo_distritos": "99"
+  }, 
+  "31201": {
+   "votos_nulos": 833, 
+   "code": "201", 
+   "porcentaje_censo_escrutado": 100.0, 
+   "porcentaje_votos_blanco": 1.15, 
+   "abstencion": 51164, 
+   "porcentaje_total_votantes": 66.61, 
+   "mesas_totales": 279, 
+   "total_votantes": 102111, 
+   "year": 2023, 
+   "porcentaje_abstencion": 33.38, 
+   "provincia_code": "31", 
+   "result_prov": "elecciones/elecciones-municipales/resultados/2023/13/31/p99.html", 
+   "typeMun": "capital", 
+   "censo": 153275, 
+   "code_muni_prov": "31201", 
+   "ccaa_code": "13", 
+   "votos_blanco": 1167, 
+   "type": "municipales_localidades", 
+   "censo_escrutado": 153256, 
+   "ccaaName": "Navarra", 
+   "diputados": 27, 
+   "porcentaje_votos_nulos": 0.81, 
+   "partidos": [
+    {
+     "color": "#213b9a", 
+     "diputados": 9, 
+     "votos": 30691, 
+     "porcentaje_votos": 30.3, 
+     "siglas": "UPN", 
+     "id": "3697"
+    }, 
+    {
+     "color": "#bddc75", 
+     "diputados": 8, 
+     "votos": 27752, 
+     "porcentaje_votos": 27.4, 
+     "siglas": "EH-BILDU", 
+     "id": "0002"
+    }, 
+    {
+     "color": "#dc1222", 
+     "diputados": 5, 
+     "votos": 15850, 
+     "porcentaje_votos": 15.64, 
+     "siglas": "PSOE", 
+     "id": "0030"
+    }, 
+    {
+     "color": "#30a6df", 
+     "diputados": 2, 
+     "votos": 8526, 
+     "porcentaje_votos": 8.41, 
+     "siglas": "PP", 
+     "id": "0006"
+    }, 
+    {
+     "color": "#f36856", 
+     "diputados": 2, 
+     "votos": 7654, 
+     "porcentaje_votos": 7.55, 
+     "siglas": "GBAI", 
+     "id": "3713"
+    }, 
+    {
+     "color": "#801e75", 
+     "diputados": 1, 
+     "votos": 5228, 
+     "porcentaje_votos": 5.16, 
+     "siglas": "CONTIGO ZUREKIN", 
+     "id": "6045"
+    }, 
+    {
+     "color": "#8abb50", 
+     "diputados": 0, 
+     "votos": 2938, 
+     "porcentaje_votos": 2.9, 
+     "siglas": "VOX", 
+     "id": "0007"
+    }, 
+    {
+     "color": "#f9d3b6", 
+     "diputados": 0, 
+     "votos": 710, 
+     "porcentaje_votos": 0.7, 
+     "siglas": "PUM+J", 
+     "id": "0026"
+    }, 
+    {
+     "color": "#ef833a", 
+     "diputados": 0, 
+     "votos": 431, 
+     "porcentaje_votos": 0.42, 
+     "siglas": "Cs", 
+     "id": "0027"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 282, 
+     "porcentaje_votos": 0.27, 
+     "siglas": "EB-AZ", 
+     "id": "0270"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 49, 
+     "porcentaje_votos": 0.04, 
+     "siglas": "FE DE LAS JONS", 
+     "id": "0113"
+    }
+   ], 
+   "result_ccaa": "elecciones/elecciones-navarra/resultados/2023/13/99/p99.html", 
+   "slug": "pamplona/iruna", 
+   "result_muni": "elecciones/elecciones-municipales/resultados/2023/13/31/p201.html", 
+   "name": "Pamplona/Iruña", 
+   "codigo_distritos": "99"
+  }, 
+  "08101": {
+   "votos_nulos": 1015, 
+   "code": "101", 
+   "porcentaje_censo_escrutado": 100.0, 
+   "porcentaje_votos_blanco": 1.56, 
+   "abstencion": 92635, 
+   "porcentaje_total_votantes": 47.46, 
+   "mesas_totales": 283, 
+   "total_votantes": 83689, 
+   "year": 2023, 
+   "porcentaje_abstencion": 52.53, 
+   "provincia_code": "08", 
+   "result_prov": "elecciones/elecciones-municipales/resultados/2023/09/08/p99.html", 
+   "typeMun": "region", 
+   "censo": 176324, 
+   "code_muni_prov": "08101", 
+   "ccaa_code": "09", 
+   "votos_blanco": 1291, 
+   "type": "municipales_localidades", 
+   "censo_escrutado": 176240, 
+   "ccaaName": "Cataluña", 
+   "diputados": 27, 
+   "porcentaje_votos_nulos": 1.21, 
+   "partidos": [
+    {
+     "color": "#dc1222", 
+     "diputados": 13, 
+     "votos": 31744, 
+     "porcentaje_votos": 38.39, 
+     "siglas": "PSOE", 
+     "id": "0030"
+    }, 
+    {
+     "color": "#ffb85c", 
+     "diputados": 4, 
+     "votos": 10561, 
+     "porcentaje_votos": 12.77, 
+     "siglas": "ERC", 
+     "id": "5783"
+    }, 
+    {
+     "color": "#30a6df", 
+     "diputados": 4, 
+     "votos": 9939, 
+     "porcentaje_votos": 12.02, 
+     "siglas": "PP", 
+     "id": "0006"
+    }, 
+    {
+     "color": "#8abb50", 
+     "diputados": 3, 
+     "votos": 8496, 
+     "porcentaje_votos": 10.27, 
+     "siglas": "VOX", 
+     "id": "0007"
+    }, 
+    {
+     "color": "#801e75", 
+     "diputados": 3, 
+     "votos": 8125, 
+     "porcentaje_votos": 9.82, 
+     "siglas": "EN COMÚ", 
+     "id": "5782"
+    }, 
+    {
+     "color": "#00c3b2", 
+     "diputados": 0, 
+     "votos": 3082, 
+     "porcentaje_votos": 3.72, 
+     "siglas": "JUNTS", 
+     "id": "1277"
+    }, 
+    {
+     "color": "#ef833a", 
+     "diputados": 0, 
+     "votos": 1988, 
+     "porcentaje_votos": 2.4, 
+     "siglas": "Cs", 
+     "id": "0027"
+    }, 
+    {
+     "color": "#ffcc42", 
+     "diputados": 0, 
+     "votos": 1880, 
+     "porcentaje_votos": 2.27, 
+     "siglas": "CUP", 
+     "id": "6060"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 1764, 
+     "porcentaje_votos": 2.13, 
+     "siglas": "V..L'H", 
+     "id": "0825"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 1256, 
+     "porcentaje_votos": 1.51, 
+     "siglas": "VALENTS", 
+     "id": "0530"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 835, 
+     "porcentaje_votos": 1.0, 
+     "siglas": "AEL'H", 
+     "id": "0823"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 490, 
+     "porcentaje_votos": 0.59, 
+     "siglas": "DECIDEIX L'H", 
+     "id": "0819"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 364, 
+     "porcentaje_votos": 0.44, 
+     "siglas": "UEP", 
+     "id": "0821"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 352, 
+     "porcentaje_votos": 0.42, 
+     "siglas": "RECORTES CERO", 
+     "id": "0827"
+    }, 
+    {
+     "color": "#213b9a", 
+     "diputados": 0, 
+     "votos": 249, 
+     "porcentaje_votos": 0.3, 
+     "siglas": "PDECAT", 
+     "id": "0552"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 141, 
+     "porcentaje_votos": 0.17, 
+     "siglas": "PROPONEMOS XM", 
+     "id": "0826"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 117, 
+     "porcentaje_votos": 0.14, 
+     "siglas": "PTDCERV", 
+     "id": "2340"
+    }
+   ], 
+   "result_ccaa": "elecciones/elecciones-cataluna/resultados/2023/09/99/p99.html", 
+   "slug": "l-hospitalet-de-llobregat", 
+   "result_muni": "elecciones/elecciones-municipales/resultados/2023/09/08/p101.html", 
+   "name": "L'Hospitalet de Llobregat", 
+   "codigo_distritos": "99"
+  }, 
+  "09059": {
+   "votos_nulos": 1294, 
+   "code": "059", 
+   "porcentaje_censo_escrutado": 100.0, 
+   "porcentaje_votos_blanco": 1.48, 
+   "abstencion": 48922, 
+   "porcentaje_total_votantes": 63.71, 
+   "mesas_totales": 231, 
+   "total_votantes": 85904, 
+   "year": 2023, 
+   "porcentaje_abstencion": 36.28, 
+   "provincia_code": "09", 
+   "result_prov": "elecciones/elecciones-municipales/resultados/2023/08/09/p99.html", 
+   "typeMun": "capital", 
+   "censo": 134826, 
+   "code_muni_prov": "09059", 
+   "ccaa_code": "08", 
+   "votos_blanco": 1259, 
+   "type": "municipales_localidades", 
+   "censo_escrutado": 134800, 
+   "ccaaName": "Castilla y León", 
+   "diputados": 27, 
+   "porcentaje_votos_nulos": 1.5, 
+   "partidos": [
+    {
+     "color": "#dc1222", 
+     "diputados": 12, 
+     "votos": 29626, 
+     "porcentaje_votos": 35.01, 
+     "siglas": "PSOE", 
+     "id": "0030"
+    }, 
+    {
+     "color": "#30a6df", 
+     "diputados": 11, 
+     "votos": 27555, 
+     "porcentaje_votos": 32.56, 
+     "siglas": "PP", 
+     "id": "0006"
+    }, 
+    {
+     "color": "#8abb50", 
+     "diputados": 4, 
+     "votos": 10786, 
+     "porcentaje_votos": 12.74, 
+     "siglas": "VOX", 
+     "id": "0007"
+    }, 
+    {
+     "color": "#801e75", 
+     "diputados": 0, 
+     "votos": 4196, 
+     "porcentaje_votos": 4.95, 
+     "siglas": "PODEMOS-IU-AV", 
+     "id": "1456"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 3364, 
+     "porcentaje_votos": 3.97, 
+     "siglas": "DCD", 
+     "id": "1471"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 2393, 
+     "porcentaje_votos": 2.82, 
+     "siglas": "VB", 
+     "id": "1461"
+    }, 
+    {
+     "color": "#ef833a", 
+     "diputados": 0, 
+     "votos": 1957, 
+     "porcentaje_votos": 2.31, 
+     "siglas": "Cs", 
+     "id": "0027"
+    }, 
+    {
+     "color": "#f36856", 
+     "diputados": 0, 
+     "votos": 1092, 
+     "porcentaje_votos": 1.29, 
+     "siglas": "ESPAÑA VACIADA", 
+     "id": "1450"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 1063, 
+     "porcentaje_votos": 1.25, 
+     "siglas": "3E", 
+     "id": "0105"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 576, 
+     "porcentaje_votos": 0.68, 
+     "siglas": "EQUO", 
+     "id": "1462"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 293, 
+     "porcentaje_votos": 0.34, 
+     "siglas": "EB-AZ", 
+     "id": "0270"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 239, 
+     "porcentaje_votos": 0.28, 
+     "siglas": "PCTC", 
+     "id": "1469"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 211, 
+     "porcentaje_votos": 0.24, 
+     "siglas": "P.S.L.F.", 
+     "id": "1470"
+    }
+   ], 
+   "result_ccaa": "elecciones/elecciones-castilla-y-leon/resultados/2023/08/99/p99.html", 
+   "slug": "burgos", 
+   "result_muni": "elecciones/elecciones-municipales/resultados/2023/08/09/p059.html", 
+   "name": "Burgos", 
+   "codigo_distritos": "99"
+  }, 
+  "14021": {
+   "votos_nulos": 1902, 
+   "code": "021", 
+   "porcentaje_censo_escrutado": 100.0, 
+   "porcentaje_votos_blanco": 1.53, 
+   "abstencion": 109292, 
+   "porcentaje_total_votantes": 58.24, 
+   "mesas_totales": 381, 
+   "total_votantes": 152457, 
+   "year": 2023, 
+   "porcentaje_abstencion": 41.75, 
+   "provincia_code": "14", 
+   "result_prov": "elecciones/elecciones-municipales/resultados/2023/01/14/p99.html", 
+   "typeMun": "capital", 
+   "censo": 261749, 
+   "code_muni_prov": "14021", 
+   "ccaa_code": "01", 
+   "votos_blanco": 2305, 
+   "type": "municipales_localidades", 
+   "censo_escrutado": 261741, 
+   "ccaaName": "Andalucía", 
+   "diputados": 29, 
+   "porcentaje_votos_nulos": 1.24, 
+   "partidos": [
+    {
+     "color": "#30a6df", 
+     "diputados": 15, 
+     "votos": 69681, 
+     "porcentaje_votos": 46.28, 
+     "siglas": "PP", 
+     "id": "0006"
+    }, 
+    {
+     "color": "#dc1222", 
+     "diputados": 7, 
+     "votos": 32891, 
+     "porcentaje_votos": 21.84, 
+     "siglas": "PSOE", 
+     "id": "0030"
+    }, 
+    {
+     "color": "#801e75", 
+     "diputados": 4, 
+     "votos": 19512, 
+     "porcentaje_votos": 12.96, 
+     "siglas": "CON ANDALUCÍA", 
+     "id": "5774"
+    }, 
+    {
+     "color": "#8abb50", 
+     "diputados": 3, 
+     "votos": 17987, 
+     "porcentaje_votos": 11.94, 
+     "siglas": "VOX", 
+     "id": "0007"
+    }, 
+    {
+     "color": "#ef833a", 
+     "diputados": 0, 
+     "votos": 2198, 
+     "porcentaje_votos": 1.45, 
+     "siglas": "Cs", 
+     "id": "0027"
+    }, 
+    {
+     "color": "#93a607", 
+     "diputados": 0, 
+     "votos": 1979, 
+     "porcentaje_votos": 1.31, 
+     "siglas": "PACMA", 
+     "id": "0031"
+    }, 
+    {
+     "color": "#5ea878", 
+     "diputados": 0, 
+     "votos": 1453, 
+     "porcentaje_votos": 0.96, 
+     "siglas": "ADELANTE", 
+     "id": "1599"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 981, 
+     "porcentaje_votos": 0.65, 
+     "siglas": "COC", 
+     "id": "1783"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 526, 
+     "porcentaje_votos": 0.34, 
+     "siglas": "EB-AZ", 
+     "id": "0270"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 371, 
+     "porcentaje_votos": 0.24, 
+     "siglas": "UA", 
+     "id": "6005"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 256, 
+     "porcentaje_votos": 0.17, 
+     "siglas": "LB", 
+     "id": "0070"
+    }, 
+    {
+     "color": "#f9d3b6", 
+     "diputados": 0, 
+     "votos": 254, 
+     "porcentaje_votos": 0.16, 
+     "siglas": "PUM+J", 
+     "id": "0026"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 161, 
+     "porcentaje_votos": 0.1, 
+     "siglas": "N.A.", 
+     "id": "1784"
+    }
+   ], 
+   "result_ccaa": "elecciones/elecciones-andalucia/resultados/2023/01/99/p99.html", 
+   "slug": "cordoba", 
+   "result_muni": "elecciones/elecciones-municipales/resultados/2023/01/14/p021.html", 
+   "name": "Córdoba", 
+   "codigo_distritos": "99"
+  }, 
+  "45168": {
+   "votos_nulos": 612, 
+   "code": "168", 
+   "porcentaje_censo_escrutado": 100.0, 
+   "porcentaje_votos_blanco": 1.35, 
+   "abstencion": 18895, 
+   "porcentaje_total_votantes": 70.02, 
+   "mesas_totales": 99, 
+   "total_votantes": 44133, 
+   "year": 2023, 
+   "porcentaje_abstencion": 29.97, 
+   "provincia_code": "45", 
+   "result_prov": "elecciones/elecciones-municipales/resultados/2023/07/45/p99.html", 
+   "typeMun": "capital", 
+   "censo": 63028, 
+   "code_muni_prov": "45168", 
+   "ccaa_code": "07", 
+   "votos_blanco": 590, 
+   "type": "municipales_localidades", 
+   "censo_escrutado": 63025, 
+   "ccaaName": "Castilla - La Mancha", 
+   "diputados": 25, 
+   "porcentaje_votos_nulos": 1.38, 
+   "partidos": [
+    {
+     "color": "#dc1222", 
+     "diputados": 11, 
+     "votos": 16864, 
+     "porcentaje_votos": 38.74, 
+     "siglas": "PSOE", 
+     "id": "0030"
+    }, 
+    {
+     "color": "#30a6df", 
+     "diputados": 9, 
+     "votos": 13893, 
+     "porcentaje_votos": 31.92, 
+     "siglas": "PP", 
+     "id": "0006"
+    }, 
+    {
+     "color": "#8abb50", 
+     "diputados": 4, 
+     "votos": 5945, 
+     "porcentaje_votos": 13.66, 
+     "siglas": "VOX", 
+     "id": "0007"
+    }, 
+    {
+     "color": "#801e75", 
+     "diputados": 1, 
+     "votos": 2749, 
+     "porcentaje_votos": 6.31, 
+     "siglas": "UNIDAS - PODEMOS - IU", 
+     "id": "0369"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 1980, 
+     "porcentaje_votos": 4.54, 
+     "siglas": "PRIMERO TOLEDO", 
+     "id": "4991"
+    }, 
+    {
+     "color": "#ef833a", 
+     "diputados": 0, 
+     "votos": 1433, 
+     "porcentaje_votos": 3.29, 
+     "siglas": "Cs", 
+     "id": "0027"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 67, 
+     "porcentaje_votos": 0.15, 
+     "siglas": "FE DE LAS JONS", 
+     "id": "0113"
+    }
+   ], 
+   "result_ccaa": "elecciones/elecciones-castilla-la-mancha/resultados/2023/07/99/p99.html", 
+   "slug": "toledo", 
+   "result_muni": "elecciones/elecciones-municipales/resultados/2023/07/45/p168.html", 
+   "name": "Toledo", 
+   "codigo_distritos": "99"
+  }, 
+  "08019": {
+   "votos_nulos": 6402, 
+   "code": "019", 
+   "porcentaje_censo_escrutado": 100.0, 
+   "porcentaje_votos_blanco": 1.01, 
+   "abstencion": 437278, 
+   "porcentaje_total_votantes": 60.57, 
+   "mesas_totales": 1688, 
+   "total_votantes": 671880, 
+   "year": 2023, 
+   "porcentaje_abstencion": 39.42, 
+   "provincia_code": "08", 
+   "result_prov": "elecciones/elecciones-municipales/resultados/2023/09/08/p99.html", 
+   "typeMun": "capital", 
+   "censo": 1109158, 
+   "code_muni_prov": "08019", 
+   "ccaa_code": "09", 
+   "votos_blanco": 6777, 
+   "type": "municipales_localidades", 
+   "censo_escrutado": 1108175, 
+   "ccaaName": "Cataluña", 
+   "diputados": 41, 
+   "porcentaje_votos_nulos": 0.95, 
+   "partidos": [
+    {
+     "color": "#00c3b2", 
+     "diputados": 11, 
+     "votos": 149235, 
+     "porcentaje_votos": 22.42, 
+     "siglas": "JUNTS", 
+     "id": "1277"
+    }, 
+    {
+     "color": "#dc1222", 
+     "diputados": 10, 
+     "votos": 131735, 
+     "porcentaje_votos": 19.79, 
+     "siglas": "PSOE", 
+     "id": "0030"
+    }, 
+    {
+     "color": "#801e75", 
+     "diputados": 9, 
+     "votos": 131594, 
+     "porcentaje_votos": 19.77, 
+     "siglas": "EN COMÚ", 
+     "id": "5782"
+    }, 
+    {
+     "color": "#ffb85c", 
+     "diputados": 5, 
+     "votos": 74720, 
+     "porcentaje_votos": 11.22, 
+     "siglas": "ERC", 
+     "id": "5783"
+    }, 
+    {
+     "color": "#30a6df", 
+     "diputados": 4, 
+     "votos": 61355, 
+     "porcentaje_votos": 9.21, 
+     "siglas": "PP", 
+     "id": "0006"
+    }, 
+    {
+     "color": "#8abb50", 
+     "diputados": 2, 
+     "votos": 37937, 
+     "porcentaje_votos": 5.7, 
+     "siglas": "VOX", 
+     "id": "0007"
+    }, 
+    {
+     "color": "#ffcc42", 
+     "diputados": 0, 
+     "votos": 25341, 
+     "porcentaje_votos": 3.8, 
+     "siglas": "CUP", 
+     "id": "6060"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 15411, 
+     "porcentaje_votos": 2.31, 
+     "siglas": "VALENTS", 
+     "id": "0530"
+    }, 
+    {
+     "color": "#ef833a", 
+     "diputados": 0, 
+     "votos": 7366, 
+     "porcentaje_votos": 1.1, 
+     "siglas": "Cs", 
+     "id": "0027"
+    }, 
+    {
+     "color": "#93a607", 
+     "diputados": 0, 
+     "votos": 7219, 
+     "porcentaje_votos": 1.08, 
+     "siglas": "PACMA", 
+     "id": "0031"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 7197, 
+     "porcentaje_votos": 1.08, 
+     "siglas": "BCNETSTU", 
+     "id": "0582"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 2257, 
+     "porcentaje_votos": 0.33, 
+     "siglas": "EV-AV", 
+     "id": "0593"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 1695, 
+     "porcentaje_votos": 0.25, 
+     "siglas": "EB-AZ", 
+     "id": "0270"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 1415, 
+     "porcentaje_votos": 0.21, 
+     "siglas": "NOVAPRIMÀRIES", 
+     "id": "0594"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 932, 
+     "porcentaje_votos": 0.14, 
+     "siglas": "PC-LV", 
+     "id": "0598"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 930, 
+     "porcentaje_votos": 0.13, 
+     "siglas": "FNC", 
+     "id": "0570"
+    }, 
+    {
+     "color": "#313131", 
+     "diputados": 0, 
+     "votos": 727, 
+     "porcentaje_votos": 0.1, 
+     "siglas": "PCTC", 
+     "id": "0597"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 390, 
+     "porcentaje_votos": 0.05, 
+     "siglas": "AIRES-LA IZQUIERDA", 
+     "id": "0591"
+    }, 
+    {
+     "color": "#808080", 
+     "diputados": 0, 
+     "votos": 314, 
+     "porcentaje_votos": 0.04, 
+     "siglas": "PH", 
+     "id": "0599"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 250, 
+     "porcentaje_votos": 0.03, 
+     "siglas": "PFIV", 
+     "id": "0592"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 227, 
+     "porcentaje_votos": 0.03, 
+     "siglas": "UNIDOS SI", 
+     "id": "0600"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 206, 
+     "porcentaje_votos": 0.03, 
+     "siglas": "SOMI", 
+     "id": "0590"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 153, 
+     "porcentaje_votos": 0.02, 
+     "siglas": "JES-UEP", 
+     "id": "0589"
+    }, 
+    {
+     "color": "#111111", 
+     "diputados": 0, 
+     "votos": 95, 
+     "porcentaje_votos": 0.01, 
+     "siglas": "PTDCERV", 
+     "id": "0595"
+    }
+   ], 
+   "result_ccaa": "elecciones/elecciones-cataluna/resultados/2023/09/99/p99.html", 
+   "slug": "barcelona", 
+   "result_muni": "elecciones/elecciones-municipales/resultados/2023/09/08/p019.html", 
+   "name": "Barcelona", 
+   "codigo_distritos": "99"
+  }, 
+  "28005": {
+   "votos_nulos": 1026, 
+   "code": "005", 
+   "porcentaje_censo_escrutado": 100.0, 
+   "porcentaje_votos_blanco": 1.15, 
+   "abstencion": 45522, 
+   "porcentaje_total_votantes": 67.65, 
+   "mesas_totales": 205, 
+   "total_votantes": 95223, 
+   "year": 2023, 
+   "porcentaje_abstencion": 32.34, 
+   "provincia_code": "28", 
+   "result_prov": "elecciones/elecciones-municipales/resultados/2023/12/28/p99.html", 
+   "typeMun": "region", 
+   "censo": 140745, 
+   "code_muni_prov": "28005", 
+   "ccaa_code": "12", 
+   "votos_blanco": 1085, 
+   "type": "municipales_localidades", 
+   "censo_escrutado": 140728, 
+   "ccaaName": "Comunidad de Madrid", 
+   "diputados": 27, 
+   "porcentaje_votos_nulos": 1.07, 
+   "partidos": [
+    {
+     "color": "#dc1222", 
+     "diputados": 11, 
+     "votos": 35014, 
+     "porcentaje_votos": 37.17, 
+     "siglas": "PSOE", 
+     "id": "0030"
+    }, 
+    {
+     "color": "#30a6df", 
+     "diputados": 11, 
+     "votos": 33485, 
+     "porcentaje_votos": 35.54, 
+     "siglas": "PP", 
+     "id": "0006"
+    }, 
+    {
+     "color": "#8abb50", 
+     "diputados": 3, 
+     "votos": 10929, 
+     "porcentaje_votos": 11.6, 
+     "siglas": "VOX", 
+     "id": "0007"
+    }, 
+    {
+     "color": "#78d599", 
+     "diputados": 2, 
+     "votos": 6086, 
+     "porcentaje_votos": 6.46, 
+     "siglas": "MAS_MADRID", 
+     "id": "3414"
+    }, 
+    {
+     "color": "#a70000", 
+     "diputados": 0, 
+     "votos": 2674, 
+     "porcentaje_votos": 2.83, 
+     "siglas": "IU", 
+     "id": "0040"
+    }, 
+    {
+     "color": "#ef833a", 
+     "diputados": 0, 
+     "votos": 2328, 
+     "porcentaje_votos": 2.47, 
+     "siglas": "Cs", 
+     "id": "0027"
+    }, 
+    {
+     "color": "#801e75", 
+     "diputados": 0, 
+     "votos": 2171, 
+     "porcentaje_votos": 2.3, 
+     "siglas": "PODEMOS-AV", 
+     "id": "0325"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 279, 
+     "porcentaje_votos": 0.29, 
+     "siglas": "PH", 
+     "id": "3295"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 146, 
+     "porcentaje_votos": 0.15, 
+     "siglas": "FE DE LAS JONS", 
+     "id": "0113"
+    }
+   ], 
+   "result_ccaa": "elecciones/elecciones-madrid/resultados/2023/12/99/p99.html", 
+   "slug": "alcala-de-henares", 
+   "result_muni": "elecciones/elecciones-municipales/resultados/2023/12/28/p005.html", 
+   "name": "Alcalá de Henares", 
+   "codigo_distritos": "99"
+  }, 
+  "08015": {
+   "votos_nulos": 770, 
+   "code": "015", 
+   "porcentaje_censo_escrutado": 100.0, 
+   "porcentaje_votos_blanco": 1.28, 
+   "abstencion": 65618, 
+   "porcentaje_total_votantes": 58.05, 
+   "mesas_totales": 256, 
+   "total_votantes": 90805, 
+   "year": 2023, 
+   "porcentaje_abstencion": 41.94, 
+   "provincia_code": "08", 
+   "result_prov": "elecciones/elecciones-municipales/resultados/2023/09/08/p99.html", 
+   "typeMun": "region", 
+   "censo": 156423, 
+   "code_muni_prov": "08015", 
+   "ccaa_code": "09", 
+   "votos_blanco": 1153, 
+   "type": "municipales_localidades", 
+   "censo_escrutado": 156393, 
+   "ccaaName": "Cataluña", 
+   "diputados": 27, 
+   "porcentaje_votos_nulos": 0.84, 
+   "partidos": [
+    {
+     "color": "#30a6df", 
+     "diputados": 18, 
+     "votos": 50185, 
+     "porcentaje_votos": 55.73, 
+     "siglas": "PP", 
+     "id": "0006"
+    }, 
+    {
+     "color": "#dc1222", 
+     "diputados": 4, 
+     "votos": 13167, 
+     "porcentaje_votos": 14.62, 
+     "siglas": "PSOE", 
+     "id": "0030"
+    }, 
+    {
+     "color": "#ffb85c", 
+     "diputados": 2, 
+     "votos": 6855, 
+     "porcentaje_votos": 7.61, 
+     "siglas": "ERC", 
+     "id": "5783"
+    }, 
+    {
+     "color": "#801e75", 
+     "diputados": 2, 
+     "votos": 6270, 
+     "porcentaje_votos": 6.96, 
+     "siglas": "EN COMÚ", 
+     "id": "5782"
+    }, 
+    {
+     "color": "#181818", 
+     "diputados": 1, 
+     "votos": 5476, 
+     "porcentaje_votos": 6.08, 
+     "siglas": "GBEC-MCAT", 
+     "id": "0568"
+    }, 
+    {
+     "color": "#00c3b2", 
+     "diputados": 0, 
+     "votos": 4314, 
+     "porcentaje_votos": 4.79, 
+     "siglas": "JUNTS", 
+     "id": "1277"
+    }, 
+    {
+     "color": "#8abb50", 
+     "diputados": 0, 
+     "votos": 1223, 
+     "porcentaje_votos": 1.35, 
+     "siglas": "VOX", 
+     "id": "0007"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 521, 
+     "porcentaje_votos": 0.57, 
+     "siglas": "VALENTS", 
+     "id": "0530"
+    }, 
+    {
+     "color": "#213b9a", 
+     "diputados": 0, 
+     "votos": 428, 
+     "porcentaje_votos": 0.47, 
+     "siglas": "PDECAT", 
+     "id": "0552"
+    }, 
+    {
+     "color": "#ef833a", 
+     "diputados": 0, 
+     "votos": 265, 
+     "porcentaje_votos": 0.29, 
+     "siglas": "Cs", 
+     "id": "0027"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 178, 
+     "porcentaje_votos": 0.19, 
+     "siglas": "FNC", 
+     "id": "0570"
+    }
+   ], 
+   "result_ccaa": "elecciones/elecciones-cataluna/resultados/2023/09/99/p99.html", 
+   "slug": "badalona", 
+   "result_muni": "elecciones/elecciones-municipales/resultados/2023/09/08/p015.html", 
+   "name": "Badalona", 
+   "codigo_distritos": "99"
+  }, 
+  "06083": {
+   "votos_nulos": 489, 
+   "code": "083", 
+   "porcentaje_censo_escrutado": 100.0, 
+   "porcentaje_votos_blanco": 1.63, 
+   "abstencion": 17181, 
+   "porcentaje_total_votantes": 63.39, 
+   "mesas_totales": 73, 
+   "total_votantes": 29754, 
+   "year": 2023, 
+   "porcentaje_abstencion": 36.6, 
+   "provincia_code": "06", 
+   "result_prov": "elecciones/elecciones-municipales/resultados/2023/10/06/p99.html", 
+   "typeMun": "region", 
+   "censo": 46935, 
+   "code_muni_prov": "06083", 
+   "ccaa_code": "10", 
+   "votos_blanco": 478, 
+   "type": "municipales_localidades", 
+   "censo_escrutado": 46929, 
+   "ccaaName": "Extremadura", 
+   "diputados": 25, 
+   "porcentaje_votos_nulos": 1.64, 
+   "partidos": [
+    {
+     "color": "#dc1222", 
+     "diputados": 14, 
+     "votos": 14208, 
+     "porcentaje_votos": 48.54, 
+     "siglas": "PSOE", 
+     "id": "0030"
+    }, 
+    {
+     "color": "#30a6df", 
+     "diputados": 6, 
+     "votos": 7044, 
+     "porcentaje_votos": 24.06, 
+     "siglas": "PP", 
+     "id": "0006"
+    }, 
+    {
+     "color": "#8abb50", 
+     "diputados": 2, 
+     "votos": 2584, 
+     "porcentaje_votos": 8.82, 
+     "siglas": "VOX", 
+     "id": "0007"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 2, 
+     "votos": 2103, 
+     "porcentaje_votos": 7.18, 
+     "siglas": "XMÉRIDA", 
+     "id": "0396"
+    }, 
+    {
+     "color": "#801e75", 
+     "diputados": 1, 
+     "votos": 1905, 
+     "porcentaje_votos": 6.5, 
+     "siglas": "UNIDAS - PODEMOS - IU", 
+     "id": "0369"
+    }, 
+    {
+     "color": "#ef833a", 
+     "diputados": 0, 
+     "votos": 451, 
+     "porcentaje_votos": 1.54, 
+     "siglas": "Cs", 
+     "id": "0027"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 337, 
+     "porcentaje_votos": 1.15, 
+     "siglas": "J.U.E.X.", 
+     "id": "0348"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 155, 
+     "porcentaje_votos": 0.52, 
+     "siglas": "UED", 
+     "id": "0349"
+    }
+   ], 
+   "result_ccaa": "elecciones/elecciones-extremadura/resultados/2023/10/99/p99.html", 
+   "slug": "merida", 
+   "result_muni": "elecciones/elecciones-municipales/resultados/2023/10/06/p083.html", 
+   "name": "Mérida", 
+   "codigo_distritos": "99"
+  }, 
+  "23050": {
+   "votos_nulos": 475, 
+   "code": "050", 
+   "porcentaje_censo_escrutado": 100.0, 
+   "porcentaje_votos_blanco": 0.72, 
+   "abstencion": 33125, 
+   "porcentaje_total_votantes": 63.18, 
+   "mesas_totales": 151, 
+   "total_votantes": 56852, 
+   "year": 2023, 
+   "porcentaje_abstencion": 36.81, 
+   "provincia_code": "23", 
+   "result_prov": "elecciones/elecciones-municipales/resultados/2023/01/23/p99.html", 
+   "typeMun": "capital", 
+   "censo": 89977, 
+   "code_muni_prov": "23050", 
+   "ccaa_code": "01", 
+   "votos_blanco": 410, 
+   "type": "municipales_localidades", 
+   "censo_escrutado": 89974, 
+   "ccaaName": "Andalucía", 
+   "diputados": 27, 
+   "porcentaje_votos_nulos": 0.83, 
+   "partidos": [
+    {
+     "color": "#dc1222", 
+     "diputados": 11, 
+     "votos": 20732, 
+     "porcentaje_votos": 36.77, 
+     "siglas": "PSOE", 
+     "id": "0030"
+    }, 
+    {
+     "color": "#30a6df", 
+     "diputados": 11, 
+     "votos": 20435, 
+     "porcentaje_votos": 36.24, 
+     "siglas": "PP", 
+     "id": "0006"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 3, 
+     "votos": 7064, 
+     "porcentaje_votos": 12.52, 
+     "siglas": "JM+", 
+     "id": "2705"
+    }, 
+    {
+     "color": "#8abb50", 
+     "diputados": 2, 
+     "votos": 4858, 
+     "porcentaje_votos": 8.61, 
+     "siglas": "VOX", 
+     "id": "0007"
+    }, 
+    {
+     "color": "#a70000", 
+     "diputados": 0, 
+     "votos": 956, 
+     "porcentaje_votos": 1.69, 
+     "siglas": "IU_ALIADOS", 
+     "id": "5844"
+    }, 
+    {
+     "color": "#801e75", 
+     "diputados": 0, 
+     "votos": 932, 
+     "porcentaje_votos": 1.65, 
+     "siglas": "PODEMOS-JAEN SENTIDO Y COMÚN", 
+     "id": "2723"
+    }, 
+    {
+     "color": "#93a607", 
+     "diputados": 0, 
+     "votos": 368, 
+     "porcentaje_votos": 0.65, 
+     "siglas": "PACMA", 
+     "id": "0031"
+    }, 
+    {
+     "color": "#ef833a", 
+     "diputados": 0, 
+     "votos": 351, 
+     "porcentaje_votos": 0.62, 
+     "siglas": "Cs", 
+     "id": "0027"
+    }, 
+    {
+     "color": "#818181", 
+     "diputados": 0, 
+     "votos": 271, 
+     "porcentaje_votos": 0.48, 
+     "siglas": "H.N.", 
+     "id": "0047"
+    }
+   ], 
+   "result_ccaa": "elecciones/elecciones-andalucia/resultados/2023/01/99/p99.html", 
+   "slug": "jaen", 
+   "result_muni": "elecciones/elecciones-municipales/resultados/2023/01/23/p050.html", 
+   "name": "Jaén", 
+   "codigo_distritos": "99"
+  }, 
+  "28058": {
+   "votos_nulos": 1006, 
+   "code": "058", 
+   "porcentaje_censo_escrutado": 100.0, 
+   "porcentaje_votos_blanco": 0.8, 
+   "abstencion": 44605, 
+   "porcentaje_total_votantes": 68.38, 
+   "mesas_totales": 204, 
+   "total_votantes": 96497, 
+   "year": 2023, 
+   "porcentaje_abstencion": 31.61, 
+   "provincia_code": "28", 
+   "result_prov": "elecciones/elecciones-municipales/resultados/2023/12/28/p99.html", 
+   "typeMun": "region", 
+   "censo": 141102, 
+   "code_muni_prov": "28058", 
+   "ccaa_code": "12", 
+   "votos_blanco": 766, 
+   "type": "municipales_localidades", 
+   "censo_escrutado": 141084, 
+   "ccaaName": "Comunidad de Madrid", 
+   "diputados": 27, 
+   "porcentaje_votos_nulos": 1.04, 
+   "partidos": [
+    {
+     "color": "#dc1222", 
+     "diputados": 16, 
+     "votos": 51908, 
+     "porcentaje_votos": 54.35, 
+     "siglas": "PSOE", 
+     "id": "0030"
+    }, 
+    {
+     "color": "#30a6df", 
+     "diputados": 7, 
+     "votos": 23278, 
+     "porcentaje_votos": 24.37, 
+     "siglas": "PP", 
+     "id": "0006"
+    }, 
+    {
+     "color": "#8abb50", 
+     "diputados": 3, 
+     "votos": 10630, 
+     "porcentaje_votos": 11.13, 
+     "siglas": "VOX", 
+     "id": "0007"
+    }, 
+    {
+     "color": "#78d599", 
+     "diputados": 1, 
+     "votos": 5178, 
+     "porcentaje_votos": 5.42, 
+     "siglas": "MAS_MADRID", 
+     "id": "3414"
+    }, 
+    {
+     "color": "#801e75", 
+     "diputados": 0, 
+     "votos": 2851, 
+     "porcentaje_votos": 2.98, 
+     "siglas": "IU-PODEMOS", 
+     "id": "1455"
+    }, 
+    {
+     "color": "#ef833a", 
+     "diputados": 0, 
+     "votos": 880, 
+     "porcentaje_votos": 0.92, 
+     "siglas": "Cs", 
+     "id": "0027"
+    }
+   ], 
+   "result_ccaa": "elecciones/elecciones-madrid/resultados/2023/12/99/p99.html", 
+   "slug": "fuenlabrada", 
+   "result_muni": "elecciones/elecciones-municipales/resultados/2023/12/28/p058.html", 
+   "name": "Fuenlabrada", 
+   "codigo_distritos": "99"
+  }, 
+  "49275": {
+   "votos_nulos": 229, 
+   "code": "275", 
+   "porcentaje_censo_escrutado": 100.0, 
+   "porcentaje_votos_blanco": 0.98, 
+   "abstencion": 19755, 
+   "porcentaje_total_votantes": 59.97, 
+   "mesas_totales": 74, 
+   "total_votantes": 29606, 
+   "year": 2023, 
+   "porcentaje_abstencion": 40.02, 
+   "provincia_code": "49", 
+   "result_prov": "elecciones/elecciones-municipales/resultados/2023/08/49/p99.html", 
+   "typeMun": "capital", 
+   "censo": 49361, 
+   "code_muni_prov": "49275", 
+   "ccaa_code": "08", 
+   "votos_blanco": 289, 
+   "type": "municipales_localidades", 
+   "censo_escrutado": 49357, 
+   "ccaaName": "Castilla y León", 
+   "diputados": 25, 
+   "porcentaje_votos_nulos": 0.77, 
+   "partidos": [
+    {
+     "color": "#a70000", 
+     "diputados": 10, 
+     "votos": 11027, 
+     "porcentaje_votos": 37.53, 
+     "siglas": "IU", 
+     "id": "0040"
+    }, 
+    {
+     "color": "#30a6df", 
+     "diputados": 8, 
+     "votos": 8406, 
+     "porcentaje_votos": 28.61, 
+     "siglas": "PP", 
+     "id": "0006"
+    }, 
+    {
+     "color": "#dc1222", 
+     "diputados": 3, 
+     "votos": 3872, 
+     "porcentaje_votos": 13.18, 
+     "siglas": "PSOE", 
+     "id": "0030"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 2, 
+     "votos": 2930, 
+     "porcentaje_votos": 9.97, 
+     "siglas": "ZSI", 
+     "id": "5401"
+    }, 
+    {
+     "color": "#8abb50", 
+     "diputados": 2, 
+     "votos": 2329, 
+     "porcentaje_votos": 7.92, 
+     "siglas": "VOX", 
+     "id": "0007"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 285, 
+     "porcentaje_votos": 0.97, 
+     "siglas": "U.P.L.", 
+     "id": "2744"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 87, 
+     "porcentaje_votos": 0.29, 
+     "siglas": "F", 
+     "id": "3449"
+    }, 
+    {
+     "color": "#801e75", 
+     "diputados": 0, 
+     "votos": 79, 
+     "porcentaje_votos": 0.26, 
+     "siglas": "PODEMOS-AV", 
+     "id": "0325"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 73, 
+     "porcentaje_votos": 0.24, 
+     "siglas": "PREPAL", 
+     "id": "2753"
+    }
+   ], 
+   "result_ccaa": "elecciones/elecciones-castilla-y-leon/resultados/2023/08/99/p99.html", 
+   "slug": "zamora", 
+   "result_muni": "elecciones/elecciones-municipales/resultados/2023/08/49/p275.html", 
+   "name": "Zamora", 
+   "codigo_distritos": "99"
+  }, 
+  "28065": {
+   "votos_nulos": 1417, 
+   "code": "065", 
+   "porcentaje_censo_escrutado": 100.0, 
+   "porcentaje_votos_blanco": 1.15, 
+   "abstencion": 39971, 
+   "porcentaje_total_votantes": 70.2, 
+   "mesas_totales": 190, 
+   "total_votantes": 94200, 
+   "year": 2023, 
+   "porcentaje_abstencion": 29.79, 
+   "provincia_code": "28", 
+   "result_prov": "elecciones/elecciones-municipales/resultados/2023/12/28/p99.html", 
+   "typeMun": "region", 
+   "censo": 134171, 
+   "code_muni_prov": "28065", 
+   "ccaa_code": "12", 
+   "votos_blanco": 1073, 
+   "type": "municipales_localidades", 
+   "censo_escrutado": 134170, 
+   "ccaaName": "Comunidad de Madrid", 
+   "diputados": 27, 
+   "porcentaje_votos_nulos": 1.5, 
+   "partidos": [
+    {
+     "color": "#dc1222", 
+     "diputados": 10, 
+     "votos": 33669, 
+     "porcentaje_votos": 36.28, 
+     "siglas": "PSOE", 
+     "id": "0030"
+    }, 
+    {
+     "color": "#30a6df", 
+     "diputados": 10, 
+     "votos": 31160, 
+     "porcentaje_votos": 33.58, 
+     "siglas": "PP", 
+     "id": "0006"
+    }, 
+    {
+     "color": "#78d599", 
+     "diputados": 3, 
+     "votos": 10034, 
+     "porcentaje_votos": 10.81, 
+     "siglas": "MAS_MADRID", 
+     "id": "3334"
+    }, 
+    {
+     "color": "#801e75", 
+     "diputados": 2, 
+     "votos": 7705, 
+     "porcentaje_votos": 8.3, 
+     "siglas": "PODEMOS", 
+     "id": "0193"
+    }, 
+    {
+     "color": "#8abb50", 
+     "diputados": 2, 
+     "votos": 7341, 
+     "porcentaje_votos": 7.91, 
+     "siglas": "VOX", 
+     "id": "0007"
+    }, 
+    {
+     "color": "#ef833a", 
+     "diputados": 0, 
+     "votos": 1801, 
+     "porcentaje_votos": 1.94, 
+     "siglas": "Cs", 
+     "id": "0027"
+    }
+   ], 
+   "result_ccaa": "elecciones/elecciones-madrid/resultados/2023/12/99/p99.html", 
+   "slug": "getafe", 
+   "result_muni": "elecciones/elecciones-municipales/resultados/2023/12/28/p065.html", 
+   "name": "Getafe", 
+   "codigo_distritos": "99"
+  }, 
+  "12040": {
+   "votos_nulos": 813, 
+   "code": "040", 
+   "porcentaje_censo_escrutado": 100.0, 
+   "porcentaje_votos_blanco": 1.32, 
+   "abstencion": 42408, 
+   "porcentaje_total_votantes": 65.33, 
+   "mesas_totales": 195, 
+   "total_votantes": 79922, 
+   "year": 2023, 
+   "porcentaje_abstencion": 34.66, 
+   "provincia_code": "12", 
+   "result_prov": "elecciones/elecciones-municipales/resultados/2023/17/12/p99.html", 
+   "typeMun": "capital", 
+   "censo": 122330, 
+   "code_muni_prov": "12040", 
+   "ccaa_code": "17", 
+   "votos_blanco": 1049, 
+   "type": "municipales_localidades", 
+   "censo_escrutado": 122310, 
+   "ccaaName": "Comunidad Valenciana", 
+   "diputados": 27, 
+   "porcentaje_votos_nulos": 1.01, 
+   "partidos": [
+    {
+     "color": "#30a6df", 
+     "diputados": 11, 
+     "votos": 28394, 
+     "porcentaje_votos": 35.89, 
+     "siglas": "PP", 
+     "id": "0006"
+    }, 
+    {
+     "color": "#dc1222", 
+     "diputados": 9, 
+     "votos": 22372, 
+     "porcentaje_votos": 28.27, 
+     "siglas": "PSOE", 
+     "id": "0030"
+    }, 
+    {
+     "color": "#8abb50", 
+     "diputados": 4, 
+     "votos": 10597, 
+     "porcentaje_votos": 13.39, 
+     "siglas": "VOX", 
+     "id": "0007"
+    }, 
+    {
+     "color": "#ff5614", 
+     "diputados": 3, 
+     "votos": 9377, 
+     "porcentaje_votos": 11.85, 
+     "siglas": "COMPROMIS", 
+     "id": "6063"
+    }, 
+    {
+     "color": "#801e75", 
+     "diputados": 0, 
+     "votos": 2698, 
+     "porcentaje_votos": 3.41, 
+     "siglas": "UNIDAS - PODEMOS - IU", 
+     "id": "0369"
+    }, 
+    {
+     "color": "#ef833a", 
+     "diputados": 0, 
+     "votos": 2075, 
+     "porcentaje_votos": 2.62, 
+     "siglas": "Cs", 
+     "id": "1678"
+    }, 
+    {
+     "color": "#ef833a", 
+     "diputados": 0, 
+     "votos": 1717, 
+     "porcentaje_votos": 2.17, 
+     "siglas": "Cs", 
+     "id": "0027"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 349, 
+     "porcentaje_votos": 0.44, 
+     "siglas": "LO NOSTRE", 
+     "id": "1679"
+    }, 
+    {
+     "color": "#ffb85c", 
+     "diputados": 0, 
+     "votos": 202, 
+     "porcentaje_votos": 0.25, 
+     "siglas": "ERC", 
+     "id": "5783"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 183, 
+     "porcentaje_votos": 0.23, 
+     "siglas": "ADIN", 
+     "id": "0107"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 96, 
+     "porcentaje_votos": 0.12, 
+     "siglas": "FE DE LAS JONS", 
+     "id": "0113"
+    }
+   ], 
+   "result_ccaa": "elecciones/elecciones-comunidad-valenciana/resultados/2023/17/99/p99.html", 
+   "slug": "castellon-de-la-plana/castello-de-la-plana", 
+   "result_muni": "elecciones/elecciones-municipales/resultados/2023/17/12/p040.html", 
+   "name": "Castellón de la Plana/Castelló de la Plana", 
+   "codigo_distritos": "99"
+  }, 
+  "52001": {
+   "votos_nulos": 482, 
+   "code": "001", 
+   "porcentaje_censo_escrutado": 100.0, 
+   "porcentaje_votos_blanco": 1.32, 
+   "abstencion": 25188, 
+   "porcentaje_total_votantes": 54.36, 
+   "mesas_totales": 87, 
+   "total_votantes": 30010, 
+   "year": 2023, 
+   "porcentaje_abstencion": 45.63, 
+   "provincia_code": "52", 
+   "result_prov": "elecciones/elecciones-municipales/resultados/2023/19/52/p99.html", 
+   "typeMun": "capital", 
+   "censo": 55198, 
+   "code_muni_prov": "52001", 
+   "ccaa_code": "19", 
+   "votos_blanco": 392, 
+   "type": "municipales_localidades", 
+   "censo_escrutado": 55187, 
+   "ccaaName": "Melilla", 
+   "diputados": 25, 
+   "porcentaje_votos_nulos": 1.6, 
+   "partidos": [
+    {
+     "color": "#30a6df", 
+     "diputados": 14, 
+     "votos": 15555, 
+     "porcentaje_votos": 52.67, 
+     "siglas": "PP", 
+     "id": "0006"
+    }, 
+    {
+     "color": "#bfc91e", 
+     "diputados": 5, 
+     "votos": 5557, 
+     "porcentaje_votos": 18.81, 
+     "siglas": "CPM", 
+     "id": "5471"
+    }, 
+    {
+     "color": "#dc1222", 
+     "diputados": 3, 
+     "votos": 3148, 
+     "porcentaje_votos": 10.66, 
+     "siglas": "PSOE", 
+     "id": "0030"
+    }, 
+    {
+     "color": "#8abb50", 
+     "diputados": 2, 
+     "votos": 2937, 
+     "porcentaje_votos": 9.94, 
+     "siglas": "VOX", 
+     "id": "0007"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 1, 
+     "votos": 1508, 
+     "porcentaje_votos": 5.1, 
+     "siglas": "SML", 
+     "id": "5469"
+    }, 
+    {
+     "color": "#801e75", 
+     "diputados": 0, 
+     "votos": 285, 
+     "porcentaje_votos": 0.96, 
+     "siglas": "PODEMOS", 
+     "id": "0193"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 74, 
+     "porcentaje_votos": 0.25, 
+     "siglas": "ADEME", 
+     "id": "5470"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 72, 
+     "porcentaje_votos": 0.24, 
+     "siglas": "CREAME", 
+     "id": "5472"
+    }
+   ], 
+   "result_ccaa": "elecciones/elecciones-melilla/resultados/2023/19/99/p99.html", 
+   "slug": "melilla", 
+   "result_muni": "elecciones/elecciones-municipales/resultados/2023/19/52/p001.html", 
+   "name": "Melilla", 
+   "codigo_distritos": "99"
+  }, 
+  "17079": {
+   "votos_nulos": 556, 
+   "code": "079", 
+   "porcentaje_censo_escrutado": 100.0, 
+   "porcentaje_votos_blanco": 1.61, 
+   "abstencion": 33693, 
+   "porcentaje_total_votantes": 50.82, 
+   "mesas_totales": 104, 
+   "total_votantes": 34822, 
+   "year": 2023, 
+   "porcentaje_abstencion": 49.17, 
+   "provincia_code": "17", 
+   "result_prov": "elecciones/elecciones-municipales/resultados/2023/09/17/p99.html", 
+   "typeMun": "capital", 
+   "censo": 68515, 
+   "code_muni_prov": "17079", 
+   "ccaa_code": "09", 
+   "votos_blanco": 554, 
+   "type": "municipales_localidades", 
+   "censo_escrutado": 68515, 
+   "ccaaName": "Cataluña", 
+   "diputados": 27, 
+   "porcentaje_votos_nulos": 1.59, 
+   "partidos": [
+    {
+     "color": "#dc1222", 
+     "diputados": 8, 
+     "votos": 8644, 
+     "porcentaje_votos": 25.22, 
+     "siglas": "PSOE", 
+     "id": "0030"
+    }, 
+    {
+     "color": "#ffcc42", 
+     "diputados": 8, 
+     "votos": 7988, 
+     "porcentaje_votos": 23.31, 
+     "siglas": "CUP", 
+     "id": "6060"
+    }, 
+    {
+     "color": "#00c3b2", 
+     "diputados": 6, 
+     "votos": 6949, 
+     "porcentaje_votos": 20.27, 
+     "siglas": "JUNTS", 
+     "id": "1277"
+    }, 
+    {
+     "color": "#ffb85c", 
+     "diputados": 3, 
+     "votos": 3151, 
+     "porcentaje_votos": 9.19, 
+     "siglas": "ERC", 
+     "id": "5783"
+    }, 
+    {
+     "color": "#30a6df", 
+     "diputados": 1, 
+     "votos": 1791, 
+     "porcentaje_votos": 5.22, 
+     "siglas": "PP", 
+     "id": "0006"
+    }, 
+    {
+     "color": "#8abb50", 
+     "diputados": 1, 
+     "votos": 1739, 
+     "porcentaje_votos": 5.07, 
+     "siglas": "VOX", 
+     "id": "0007"
+    }, 
+    {
+     "color": "#213b9a", 
+     "diputados": 0, 
+     "votos": 1579, 
+     "porcentaje_votos": 4.6, 
+     "siglas": "PDECAT", 
+     "id": "0552"
+    }, 
+    {
+     "color": "#801e75", 
+     "diputados": 0, 
+     "votos": 892, 
+     "porcentaje_votos": 2.6, 
+     "siglas": "EN COMÚ", 
+     "id": "5782"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 262, 
+     "porcentaje_votos": 0.76, 
+     "siglas": "VALENTS", 
+     "id": "0530"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 228, 
+     "porcentaje_votos": 0.66, 
+     "siglas": "EB-AZ", 
+     "id": "0270"
+    }, 
+    {
+     "color": "#ef833a", 
+     "diputados": 0, 
+     "votos": 198, 
+     "porcentaje_votos": 0.57, 
+     "siglas": "Cs", 
+     "id": "0027"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 158, 
+     "porcentaje_votos": 0.46, 
+     "siglas": "FNC", 
+     "id": "0570"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 133, 
+     "porcentaje_votos": 0.38, 
+     "siglas": "GI X GI", 
+     "id": "2106"
+    }
+   ], 
+   "result_ccaa": "elecciones/elecciones-cataluna/resultados/2023/09/99/p99.html", 
+   "slug": "girona", 
+   "result_muni": "elecciones/elecciones-municipales/resultados/2023/09/17/p079.html", 
+   "name": "Girona", 
+   "codigo_distritos": "99"
+  }, 
+  "51001": {
+   "votos_nulos": 385, 
+   "code": "001", 
+   "porcentaje_censo_escrutado": 100.0, 
+   "porcentaje_votos_blanco": 1.15, 
+   "abstencion": 25826, 
+   "porcentaje_total_votantes": 57.21, 
+   "mesas_totales": 96, 
+   "total_votantes": 34534, 
+   "year": 2023, 
+   "porcentaje_abstencion": 42.78, 
+   "provincia_code": "51", 
+   "result_prov": "elecciones/elecciones-municipales/resultados/2023/18/51/p99.html", 
+   "typeMun": "capital", 
+   "censo": 60360, 
+   "code_muni_prov": "51001", 
+   "ccaa_code": "18", 
+   "votos_blanco": 393, 
+   "type": "municipales_localidades", 
+   "censo_escrutado": 60342, 
+   "ccaaName": "Ceuta", 
+   "diputados": 25, 
+   "porcentaje_votos_nulos": 1.11, 
+   "partidos": [
+    {
+     "color": "#30a6df", 
+     "diputados": 9, 
+     "votos": 11738, 
+     "porcentaje_votos": 34.37, 
+     "siglas": "PP", 
+     "id": "0006"
+    }, 
+    {
+     "color": "#dc1222", 
+     "diputados": 6, 
+     "votos": 7158, 
+     "porcentaje_votos": 20.96, 
+     "siglas": "PSOE", 
+     "id": "0030"
+    }, 
+    {
+     "color": "#8abb50", 
+     "diputados": 5, 
+     "votos": 7050, 
+     "porcentaje_votos": 20.64, 
+     "siglas": "VOX", 
+     "id": "0007"
+    }, 
+    {
+     "color": "#4a4a4a", 
+     "diputados": 3, 
+     "votos": 3839, 
+     "porcentaje_votos": 11.24, 
+     "siglas": "MDYC", 
+     "id": "5468"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 2, 
+     "votos": 3428, 
+     "porcentaje_votos": 10.03, 
+     "siglas": "CEUTA YA!", 
+     "id": "5467"
+    }, 
+    {
+     "color": "#ef833a", 
+     "diputados": 0, 
+     "votos": 236, 
+     "porcentaje_votos": 0.69, 
+     "siglas": "Cs", 
+     "id": "0027"
+    }, 
+    {
+     "color": "#801e75", 
+     "diputados": 0, 
+     "votos": 186, 
+     "porcentaje_votos": 0.54, 
+     "siglas": "PODEMOS", 
+     "id": "0193"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 121, 
+     "porcentaje_votos": 0.35, 
+     "siglas": "LB", 
+     "id": "0070"
+    }
+   ], 
+   "result_ccaa": "elecciones/elecciones-ceuta/resultados/2023/18/99/p99.html", 
+   "slug": "ceuta", 
+   "result_muni": "elecciones/elecciones-municipales/resultados/2023/18/51/p001.html", 
+   "name": "Ceuta", 
+   "codigo_distritos": "99"
+  }, 
+  "01059": {
+   "votos_nulos": 1647, 
+   "code": "059", 
+   "porcentaje_censo_escrutado": 100.0, 
+   "porcentaje_votos_blanco": 1.31, 
+   "abstencion": 79730, 
+   "porcentaje_total_votantes": 58.11, 
+   "mesas_totales": 309, 
+   "total_votantes": 110633, 
+   "year": 2023, 
+   "porcentaje_abstencion": 41.88, 
+   "provincia_code": "01", 
+   "result_prov": "elecciones/elecciones-municipales/resultados/2023/14/01/p99.html", 
+   "typeMun": "capital", 
+   "censo": 190363, 
+   "code_muni_prov": "01059", 
+   "ccaa_code": "14", 
+   "votos_blanco": 1437, 
+   "type": "municipales_localidades", 
+   "censo_escrutado": 190351, 
+   "ccaaName": "País Vasco", 
+   "diputados": 27, 
+   "porcentaje_votos_nulos": 1.48, 
+   "partidos": [
+    {
+     "color": "#bddc75", 
+     "diputados": 7, 
+     "votos": 24845, 
+     "porcentaje_votos": 22.79, 
+     "siglas": "EH-BILDU", 
+     "id": "0002"
+    }, 
+    {
+     "color": "#dc1222", 
+     "diputados": 6, 
+     "votos": 23909, 
+     "porcentaje_votos": 21.93, 
+     "siglas": "PSOE", 
+     "id": "0003"
+    }, 
+    {
+     "color": "#30a6df", 
+     "diputados": 6, 
+     "votos": 21853, 
+     "porcentaje_votos": 20.05, 
+     "siglas": "PP", 
+     "id": "0006"
+    }, 
+    {
+     "color": "#008c35", 
+     "diputados": 6, 
+     "votos": 21454, 
+     "porcentaje_votos": 19.68, 
+     "siglas": "PNV", 
+     "id": "0001"
+    }, 
+    {
+     "color": "#801e75", 
+     "diputados": 2, 
+     "votos": 7742, 
+     "porcentaje_votos": 7.1, 
+     "siglas": "PODEMOS, EZKER ANITZA / IU, ALIANZA VERDE", 
+     "id": "0010"
+    }, 
+    {
+     "color": "#8abb50", 
+     "diputados": 0, 
+     "votos": 4194, 
+     "porcentaje_votos": 3.84, 
+     "siglas": "VOX", 
+     "id": "0007"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 1619, 
+     "porcentaje_votos": 1.48, 
+     "siglas": "LXE", 
+     "id": "0023"
+    }, 
+    {
+     "color": "#555555", 
+     "diputados": 0, 
+     "votos": 951, 
+     "porcentaje_votos": 0.87, 
+     "siglas": "EB-AZ", 
+     "id": "0024"
+    }, 
+    {
+     "color": "#f9d3b6", 
+     "diputados": 0, 
+     "votos": 475, 
+     "porcentaje_votos": 0.43, 
+     "siglas": "PUM+J", 
+     "id": "0026"
+    }, 
+    {
+     "color": "#ef833a", 
+     "diputados": 0, 
+     "votos": 260, 
+     "porcentaje_votos": 0.23, 
+     "siglas": "Cs", 
+     "id": "0027"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 247, 
+     "porcentaje_votos": 0.22, 
+     "siglas": "O.E.", 
+     "id": "0025"
+    }
+   ], 
+   "result_ccaa": "elecciones/elecciones-pais-vasco/resultados/2023/14/99/p99.html", 
+   "slug": "vitoria-gasteiz", 
+   "result_muni": "elecciones/elecciones-municipales/resultados/2023/14/01/p059.html", 
+   "name": "Vitoria-Gasteiz", 
+   "codigo_distritos": "99"
+  }, 
+  "34120": {
+   "votos_nulos": 491, 
+   "code": "120", 
+   "porcentaje_censo_escrutado": 100.0, 
+   "porcentaje_votos_blanco": 1.12, 
+   "abstencion": 22071, 
+   "porcentaje_total_votantes": 64.33, 
+   "mesas_totales": 91, 
+   "total_votantes": 39817, 
+   "year": 2023, 
+   "porcentaje_abstencion": 35.66, 
+   "provincia_code": "34", 
+   "result_prov": "elecciones/elecciones-municipales/resultados/2023/08/34/p99.html", 
+   "typeMun": "capital", 
+   "censo": 61888, 
+   "code_muni_prov": "34120", 
+   "ccaa_code": "08", 
+   "votos_blanco": 444, 
+   "type": "municipales_localidades", 
+   "censo_escrutado": 61887, 
+   "ccaaName": "Castilla y León", 
+   "diputados": 25, 
+   "porcentaje_votos_nulos": 1.23, 
+   "partidos": [
+    {
+     "color": "#dc1222", 
+     "diputados": 10, 
+     "votos": 14487, 
+     "porcentaje_votos": 36.83, 
+     "siglas": "PSOE", 
+     "id": "0030"
+    }, 
+    {
+     "color": "#30a6df", 
+     "diputados": 8, 
+     "votos": 12382, 
+     "porcentaje_votos": 31.48, 
+     "siglas": "PP", 
+     "id": "0006"
+    }, 
+    {
+     "color": "#8abb50", 
+     "diputados": 3, 
+     "votos": 4361, 
+     "porcentaje_votos": 11.08, 
+     "siglas": "VOX", 
+     "id": "0007"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 3, 
+     "votos": 4177, 
+     "porcentaje_votos": 10.62, 
+     "siglas": "VP", 
+     "id": "4104"
+    }, 
+    {
+     "color": "#801e75", 
+     "diputados": 1, 
+     "votos": 2029, 
+     "porcentaje_votos": 5.15, 
+     "siglas": "IU-PODEMOS", 
+     "id": "0336"
+    }, 
+    {
+     "color": "#ef833a", 
+     "diputados": 0, 
+     "votos": 1243, 
+     "porcentaje_votos": 3.16, 
+     "siglas": "Cs", 
+     "id": "0027"
+    }, 
+    {
+     "color": "#f9d3b6", 
+     "diputados": 0, 
+     "votos": 203, 
+     "porcentaje_votos": 0.51, 
+     "siglas": "PUM+J", 
+     "id": "0026"
+    }
+   ], 
+   "result_ccaa": "elecciones/elecciones-castilla-y-leon/resultados/2023/08/99/p99.html", 
+   "slug": "palencia", 
+   "result_muni": "elecciones/elecciones-municipales/resultados/2023/08/34/p120.html", 
+   "name": "Palencia", 
+   "codigo_distritos": "99"
+  }, 
+  "10037": {
+   "votos_nulos": 771, 
+   "code": "037", 
+   "porcentaje_censo_escrutado": 100.0, 
+   "porcentaje_votos_blanco": 1.25, 
+   "abstencion": 25675, 
+   "porcentaje_total_votantes": 66.84, 
+   "mesas_totales": 105, 
+   "total_votantes": 51773, 
+   "year": 2023, 
+   "porcentaje_abstencion": 33.15, 
+   "provincia_code": "10", 
+   "result_prov": "elecciones/elecciones-municipales/resultados/2023/10/10/p99.html", 
+   "typeMun": "capital", 
+   "censo": 77448, 
+   "code_muni_prov": "10037", 
+   "ccaa_code": "10", 
+   "votos_blanco": 641, 
+   "type": "municipales_localidades", 
+   "censo_escrutado": 77440, 
+   "ccaaName": "Extremadura", 
+   "diputados": 25, 
+   "porcentaje_votos_nulos": 1.48, 
+   "partidos": [
+    {
+     "color": "#30a6df", 
+     "diputados": 11, 
+     "votos": 20445, 
+     "porcentaje_votos": 40.08, 
+     "siglas": "PP", 
+     "id": "0006"
+    }, 
+    {
+     "color": "#dc1222", 
+     "diputados": 10, 
+     "votos": 17054, 
+     "porcentaje_votos": 33.43, 
+     "siglas": "PSOE", 
+     "id": "0030"
+    }, 
+    {
+     "color": "#8abb50", 
+     "diputados": 2, 
+     "votos": 4677, 
+     "porcentaje_votos": 9.17, 
+     "siglas": "VOX", 
+     "id": "0007"
+    }, 
+    {
+     "color": "#801e75", 
+     "diputados": 2, 
+     "votos": 3444, 
+     "porcentaje_votos": 6.75, 
+     "siglas": "UNIDAS - PODEMOS - IU", 
+     "id": "0369"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 1777, 
+     "porcentaje_votos": 3.48, 
+     "siglas": "CACERES VIVA", 
+     "id": "1528"
+    }, 
+    {
+     "color": "#ef833a", 
+     "diputados": 0, 
+     "votos": 926, 
+     "porcentaje_votos": 1.81, 
+     "siglas": "Cs", 
+     "id": "0027"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 662, 
+     "porcentaje_votos": 1.29, 
+     "siglas": "SOMOS CC", 
+     "id": "1530"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 590, 
+     "porcentaje_votos": 1.15, 
+     "siglas": "LEVANTA", 
+     "id": "1529"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 563, 
+     "porcentaje_votos": 1.1, 
+     "siglas": "J.U.E.X.", 
+     "id": "0348"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 223, 
+     "porcentaje_votos": 0.43, 
+     "siglas": "UED", 
+     "id": "0349"
+    }
+   ], 
+   "result_ccaa": "elecciones/elecciones-extremadura/resultados/2023/10/99/p99.html", 
+   "slug": "caceres", 
+   "result_muni": "elecciones/elecciones-municipales/resultados/2023/10/10/p037.html", 
+   "name": "Cáceres", 
+   "codigo_distritos": "99"
+  }, 
+  "25120": {
+   "votos_nulos": 842, 
+   "code": "120", 
+   "porcentaje_censo_escrutado": 100.0, 
+   "porcentaje_votos_blanco": 2.19, 
+   "abstencion": 45314, 
+   "porcentaje_total_votantes": 51.5, 
+   "mesas_totales": 139, 
+   "total_votantes": 48130, 
+   "year": 2023, 
+   "porcentaje_abstencion": 48.49, 
+   "provincia_code": "25", 
+   "result_prov": "elecciones/elecciones-municipales/resultados/2023/09/25/p99.html", 
+   "typeMun": "capital", 
+   "censo": 93444, 
+   "code_muni_prov": "25120", 
+   "ccaa_code": "09", 
+   "votos_blanco": 1037, 
+   "type": "municipales_localidades", 
+   "censo_escrutado": 93435, 
+   "ccaaName": "Cataluña", 
+   "diputados": 27, 
+   "porcentaje_votos_nulos": 1.74, 
+   "partidos": [
+    {
+     "color": "#dc1222", 
+     "diputados": 9, 
+     "votos": 12979, 
+     "porcentaje_votos": 27.44, 
+     "siglas": "PSOE", 
+     "id": "0030"
+    }, 
+    {
+     "color": "#30a6df", 
+     "diputados": 5, 
+     "votos": 7348, 
+     "porcentaje_votos": 15.53, 
+     "siglas": "PP", 
+     "id": "0006"
+    }, 
+    {
+     "color": "#ffb85c", 
+     "diputados": 5, 
+     "votos": 7199, 
+     "porcentaje_votos": 15.22, 
+     "siglas": "ERC", 
+     "id": "5783"
+    }, 
+    {
+     "color": "#00c3b2", 
+     "diputados": 5, 
+     "votos": 6862, 
+     "porcentaje_votos": 14.51, 
+     "siglas": "JUNTS", 
+     "id": "1277"
+    }, 
+    {
+     "color": "#8abb50", 
+     "diputados": 2, 
+     "votos": 3575, 
+     "porcentaje_votos": 7.56, 
+     "siglas": "VOX", 
+     "id": "0007"
+    }, 
+    {
+     "color": "#801e75", 
+     "diputados": 1, 
+     "votos": 2373, 
+     "porcentaje_votos": 5.01, 
+     "siglas": "EN COMÚ", 
+     "id": "5782"
+    }, 
+    {
+     "color": "#213b9a", 
+     "diputados": 0, 
+     "votos": 2258, 
+     "porcentaje_votos": 4.77, 
+     "siglas": "PDECAT", 
+     "id": "0552"
+    }, 
+    {
+     "color": "#ffcc42", 
+     "diputados": 0, 
+     "votos": 2170, 
+     "porcentaje_votos": 4.58, 
+     "siglas": "CUP", 
+     "id": "6060"
+    }, 
+    {
+     "color": "#ef833a", 
+     "diputados": 0, 
+     "votos": 638, 
+     "porcentaje_votos": 1.34, 
+     "siglas": "Cs", 
+     "id": "0027"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 504, 
+     "porcentaje_votos": 1.06, 
+     "siglas": "VALENTS", 
+     "id": "0530"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 345, 
+     "porcentaje_votos": 0.72, 
+     "siglas": "EB-AZ", 
+     "id": "0270"
+    }
+   ], 
+   "result_ccaa": "elecciones/elecciones-cataluna/resultados/2023/09/99/p99.html", 
+   "slug": "lleida", 
+   "result_muni": "elecciones/elecciones-municipales/resultados/2023/09/25/p120.html", 
+   "name": "Lleida", 
+   "codigo_distritos": "99"
+  }, 
+  "22125": {
+   "votos_nulos": 375, 
+   "code": "125", 
+   "porcentaje_censo_escrutado": 100.0, 
+   "porcentaje_votos_blanco": 2.0, 
+   "abstencion": 14499, 
+   "porcentaje_total_votantes": 63.18, 
+   "mesas_totales": 68, 
+   "total_votantes": 24884, 
+   "year": 2023, 
+   "porcentaje_abstencion": 36.81, 
+   "provincia_code": "22", 
+   "result_prov": "elecciones/elecciones-municipales/resultados/2023/02/22/p99.html", 
+   "typeMun": "capital", 
+   "censo": 39383, 
+   "code_muni_prov": "22125", 
+   "ccaa_code": "02", 
+   "votos_blanco": 491, 
+   "type": "municipales_localidades", 
+   "censo_escrutado": 39378, 
+   "ccaaName": "Aragón", 
+   "diputados": 25, 
+   "porcentaje_votos_nulos": 1.5, 
+   "partidos": [
+    {
+     "color": "#30a6df", 
+     "diputados": 12, 
+     "votos": 8841, 
+     "porcentaje_votos": 36.07, 
+     "siglas": "PP", 
+     "id": "0006"
+    }, 
+    {
+     "color": "#dc1222", 
+     "diputados": 10, 
+     "votos": 6938, 
+     "porcentaje_votos": 28.3, 
+     "siglas": "PSOE", 
+     "id": "0030"
+    }, 
+    {
+     "color": "#8abb50", 
+     "diputados": 3, 
+     "votos": 2581, 
+     "porcentaje_votos": 10.53, 
+     "siglas": "VOX", 
+     "id": "0007"
+    }, 
+    {
+     "color": "#801e75", 
+     "diputados": 0, 
+     "votos": 1149, 
+     "porcentaje_votos": 4.68, 
+     "siglas": "PODEMOS-AV", 
+     "id": "0325"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 1098, 
+     "porcentaje_votos": 4.47, 
+     "siglas": "CB", 
+     "id": "5887"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 1088, 
+     "porcentaje_votos": 4.43, 
+     "siglas": "CHA", 
+     "id": "2660"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 1055, 
+     "porcentaje_votos": 4.3, 
+     "siglas": "EQUO", 
+     "id": "1462"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 543, 
+     "porcentaje_votos": 2.21, 
+     "siglas": "PAR", 
+     "id": "2661"
+    }, 
+    {
+     "color": "#ef833a", 
+     "diputados": 0, 
+     "votos": 454, 
+     "porcentaje_votos": 1.85, 
+     "siglas": "Cs", 
+     "id": "2668"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 177, 
+     "porcentaje_votos": 0.72, 
+     "siglas": "EB-AZ", 
+     "id": "0270"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 94, 
+     "porcentaje_votos": 0.38, 
+     "siglas": "F.I.A.", 
+     "id": "2672"
+    }
+   ], 
+   "result_ccaa": "elecciones/elecciones-aragon/resultados/2023/02/99/p99.html", 
+   "slug": "huesca", 
+   "result_muni": "elecciones/elecciones-municipales/resultados/2023/02/22/p125.html", 
+   "name": "Huesca", 
+   "codigo_distritos": "99"
+  }, 
+  "41091": {
+   "votos_nulos": 3629, 
+   "code": "091", 
+   "porcentaje_censo_escrutado": 100.0, 
+   "porcentaje_votos_blanco": 1.19, 
+   "abstencion": 205873, 
+   "porcentaje_total_votantes": 61.29, 
+   "mesas_totales": 907, 
+   "total_votantes": 326013, 
+   "year": 2023, 
+   "porcentaje_abstencion": 38.7, 
+   "provincia_code": "41", 
+   "result_prov": "elecciones/elecciones-municipales/resultados/2023/01/41/p99.html", 
+   "typeMun": "capital", 
+   "censo": 531886, 
+   "code_muni_prov": "41091", 
+   "ccaa_code": "01", 
+   "votos_blanco": 3856, 
+   "type": "municipales_localidades", 
+   "censo_escrutado": 531387, 
+   "ccaaName": "Andalucía", 
+   "diputados": 31, 
+   "porcentaje_votos_nulos": 1.11, 
+   "partidos": [
+    {
+     "color": "#30a6df", 
+     "diputados": 14, 
+     "votos": 132745, 
+     "porcentaje_votos": 41.17, 
+     "siglas": "PP", 
+     "id": "0006"
+    }, 
+    {
+     "color": "#dc1222", 
+     "diputados": 12, 
+     "votos": 110242, 
+     "porcentaje_votos": 34.19, 
+     "siglas": "PSOE", 
+     "id": "0030"
+    }, 
+    {
+     "color": "#8abb50", 
+     "diputados": 3, 
+     "votos": 28722, 
+     "porcentaje_votos": 8.9, 
+     "siglas": "VOX", 
+     "id": "0007"
+    }, 
+    {
+     "color": "#801e75", 
+     "diputados": 2, 
+     "votos": 22710, 
+     "porcentaje_votos": 7.04, 
+     "siglas": "CON ANDALUCÍA", 
+     "id": "5774"
+    }, 
+    {
+     "color": "#5ea878", 
+     "diputados": 0, 
+     "votos": 11997, 
+     "porcentaje_votos": 3.72, 
+     "siglas": "ADELANTE", 
+     "id": "1599"
+    }, 
+    {
+     "color": "#ef833a", 
+     "diputados": 0, 
+     "votos": 5060, 
+     "porcentaje_votos": 1.56, 
+     "siglas": "Cs", 
+     "id": "0027"
+    }, 
+    {
+     "color": "#93a607", 
+     "diputados": 0, 
+     "votos": 4349, 
+     "porcentaje_votos": 1.34, 
+     "siglas": "PACMA", 
+     "id": "0031"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 1087, 
+     "porcentaje_votos": 0.33, 
+     "siglas": "EB-AZ", 
+     "id": "0270"
+    }, 
+    {
+     "color": "#f9d3b6", 
+     "diputados": 0, 
+     "votos": 851, 
+     "porcentaje_votos": 0.26, 
+     "siglas": "PUM+J", 
+     "id": "0026"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 557, 
+     "porcentaje_votos": 0.17, 
+     "siglas": "PCTC", 
+     "id": "1469"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 208, 
+     "porcentaje_votos": 0.06, 
+     "siglas": "FE DE LAS JONS", 
+     "id": "0113"
+    }
+   ], 
+   "result_ccaa": "elecciones/elecciones-andalucia/resultados/2023/01/99/p99.html", 
+   "slug": "sevilla", 
+   "result_muni": "elecciones/elecciones-municipales/resultados/2023/01/41/p091.html", 
+   "name": "Sevilla", 
+   "codigo_distritos": "99"
+  }, 
+  "26089": {
+   "votos_nulos": 1272, 
+   "code": "089", 
+   "porcentaje_censo_escrutado": 100.0, 
+   "porcentaje_votos_blanco": 1.54, 
+   "abstencion": 33227, 
+   "porcentaje_total_votantes": 70.29, 
+   "mesas_totales": 192, 
+   "total_votantes": 78640, 
+   "year": 2023, 
+   "porcentaje_abstencion": 29.7, 
+   "provincia_code": "26", 
+   "result_prov": "elecciones/elecciones-municipales/resultados/2023/16/26/p99.html", 
+   "typeMun": "capital", 
+   "censo": 111867, 
+   "code_muni_prov": "26089", 
+   "ccaa_code": "16", 
+   "votos_blanco": 1196, 
+   "type": "municipales_localidades", 
+   "censo_escrutado": 111850, 
+   "ccaaName": "La Rioja (Comunidad)", 
+   "diputados": 27, 
+   "porcentaje_votos_nulos": 1.61, 
+   "partidos": [
+    {
+     "color": "#30a6df", 
+     "diputados": 14, 
+     "votos": 33831, 
+     "porcentaje_votos": 43.72, 
+     "siglas": "PP", 
+     "id": "0006"
+    }, 
+    {
+     "color": "#dc1222", 
+     "diputados": 9, 
+     "votos": 24067, 
+     "porcentaje_votos": 31.1, 
+     "siglas": "PSOE", 
+     "id": "0030"
+    }, 
+    {
+     "color": "#8abb50", 
+     "diputados": 2, 
+     "votos": 6005, 
+     "porcentaje_votos": 7.76, 
+     "siglas": "VOX", 
+     "id": "0007"
+    }, 
+    {
+     "color": "#a70000", 
+     "diputados": 1, 
+     "votos": 3954, 
+     "porcentaje_votos": 5.11, 
+     "siglas": "IU_ALIADOS", 
+     "id": "3252"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 1, 
+     "votos": 3937, 
+     "porcentaje_votos": 5.08, 
+     "siglas": "PR+E", 
+     "id": "3239"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 2399, 
+     "porcentaje_votos": 3.1, 
+     "siglas": "PLRI", 
+     "id": "3238"
+    }, 
+    {
+     "color": "#ef833a", 
+     "diputados": 0, 
+     "votos": 931, 
+     "porcentaje_votos": 1.2, 
+     "siglas": "Cs", 
+     "id": "0027"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 567, 
+     "porcentaje_votos": 0.73, 
+     "siglas": "VINEA", 
+     "id": "3242"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 481, 
+     "porcentaje_votos": 0.62, 
+     "siglas": "EB-AZ", 
+     "id": "0270"
+    }
+   ], 
+   "result_ccaa": "elecciones/elecciones-la-rioja/resultados/2023/16/99/p99.html", 
+   "slug": "logrono", 
+   "result_muni": "elecciones/elecciones-municipales/resultados/2023/16/26/p089.html", 
+   "name": "Logroño", 
+   "codigo_distritos": "99"
+  }, 
+  "39075": {
+   "votos_nulos": 1127, 
+   "code": "075", 
+   "porcentaje_censo_escrutado": 100.0, 
+   "porcentaje_votos_blanco": 1.59, 
+   "abstencion": 47498, 
+   "porcentaje_total_votantes": 64.98, 
+   "mesas_totales": 191, 
+   "total_votantes": 88160, 
+   "year": 2023, 
+   "porcentaje_abstencion": 35.01, 
+   "provincia_code": "39", 
+   "result_prov": "elecciones/elecciones-municipales/resultados/2023/06/39/p99.html", 
+   "typeMun": "capital", 
+   "censo": 135658, 
+   "code_muni_prov": "39075", 
+   "ccaa_code": "06", 
+   "votos_blanco": 1384, 
+   "type": "municipales_localidades", 
+   "censo_escrutado": 135625, 
+   "ccaaName": "Cantabria", 
+   "diputados": 27, 
+   "porcentaje_votos_nulos": 1.27, 
+   "partidos": [
+    {
+     "color": "#30a6df", 
+     "diputados": 14, 
+     "votos": 37773, 
+     "porcentaje_votos": 43.4, 
+     "siglas": "PP", 
+     "id": "0006"
+    }, 
+    {
+     "color": "#dc1222", 
+     "diputados": 6, 
+     "votos": 18141, 
+     "porcentaje_votos": 20.84, 
+     "siglas": "PSOE", 
+     "id": "0030"
+    }, 
+    {
+     "color": "#8abb50", 
+     "diputados": 3, 
+     "votos": 10621, 
+     "porcentaje_votos": 12.2, 
+     "siglas": "VOX", 
+     "id": "0007"
+    }, 
+    {
+     "color": "#C0CB37", 
+     "diputados": 3, 
+     "votos": 9621, 
+     "porcentaje_votos": 11.05, 
+     "siglas": "P.R.C.", 
+     "id": "4294"
+    }, 
+    {
+     "color": "#801e75", 
+     "diputados": 1, 
+     "votos": 4604, 
+     "porcentaje_votos": 5.28, 
+     "siglas": "IU-PODEMOS", 
+     "id": "0336"
+    }, 
+    {
+     "color": "#ef833a", 
+     "diputados": 0, 
+     "votos": 2046, 
+     "porcentaje_votos": 2.35, 
+     "siglas": "Cs", 
+     "id": "0027"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 1573, 
+     "porcentaje_votos": 1.8, 
+     "siglas": "CANTABRISTAS", 
+     "id": "4301"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 571, 
+     "porcentaje_votos": 0.65, 
+     "siglas": "EQUO", 
+     "id": "1462"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 265, 
+     "porcentaje_votos": 0.3, 
+     "siglas": "OLA CANTABRIA", 
+     "id": "4297"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 258, 
+     "porcentaje_votos": 0.29, 
+     "siglas": "CANTABRIA DISTINTA", 
+     "id": "4299"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 176, 
+     "porcentaje_votos": 0.2, 
+     "siglas": "PCTC", 
+     "id": "1469"
+    }
+   ], 
+   "result_ccaa": "elecciones/elecciones-cantabria/resultados/2023/06/99/p99.html", 
+   "slug": "santander", 
+   "result_muni": "elecciones/elecciones-municipales/resultados/2023/06/39/p075.html", 
+   "name": "Santander", 
+   "codigo_distritos": "99"
+  }, 
+  "28007": {
+   "votos_nulos": 1006, 
+   "code": "007", 
+   "porcentaje_censo_escrutado": 100.0, 
+   "porcentaje_votos_blanco": 1.2, 
+   "abstencion": 37481, 
+   "porcentaje_total_votantes": 70.9, 
+   "mesas_totales": 190, 
+   "total_votantes": 91335, 
+   "year": 2023, 
+   "porcentaje_abstencion": 29.09, 
+   "provincia_code": "28", 
+   "result_prov": "elecciones/elecciones-municipales/resultados/2023/12/28/p99.html", 
+   "typeMun": "region", 
+   "censo": 128816, 
+   "code_muni_prov": "28007", 
+   "ccaa_code": "12", 
+   "votos_blanco": 1089, 
+   "type": "municipales_localidades", 
+   "censo_escrutado": 128814, 
+   "ccaaName": "Comunidad de Madrid", 
+   "diputados": 27, 
+   "porcentaje_votos_nulos": 1.1, 
+   "partidos": [
+    {
+     "color": "#30a6df", 
+     "diputados": 11, 
+     "votos": 35044, 
+     "porcentaje_votos": 38.79, 
+     "siglas": "PP", 
+     "id": "0006"
+    }, 
+    {
+     "color": "#dc1222", 
+     "diputados": 8, 
+     "votos": 23390, 
+     "porcentaje_votos": 25.89, 
+     "siglas": "PSOE", 
+     "id": "0030"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 4, 
+     "votos": 14181, 
+     "porcentaje_votos": 15.69, 
+     "siglas": "G. ALCORCÓN", 
+     "id": "3309"
+    }, 
+    {
+     "color": "#8abb50", 
+     "diputados": 2, 
+     "votos": 8273, 
+     "porcentaje_votos": 9.15, 
+     "siglas": "VOX", 
+     "id": "0007"
+    }, 
+    {
+     "color": "#78d599", 
+     "diputados": 2, 
+     "votos": 6599, 
+     "porcentaje_votos": 7.3, 
+     "siglas": "MAS_MADRID", 
+     "id": "3414"
+    }, 
+    {
+     "color": "#ef833a", 
+     "diputados": 0, 
+     "votos": 1300, 
+     "porcentaje_votos": 1.43, 
+     "siglas": "Cs", 
+     "id": "0027"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 453, 
+     "porcentaje_votos": 0.5, 
+     "siglas": "CONTIGO", 
+     "id": "0154"
+    }
+   ], 
+   "result_ccaa": "elecciones/elecciones-madrid/resultados/2023/12/99/p99.html", 
+   "slug": "alcorcon", 
+   "result_muni": "elecciones/elecciones-municipales/resultados/2023/12/28/p007.html", 
+   "name": "Alcorcón", 
+   "codigo_distritos": "99"
+  }, 
+  "15030": {
+   "votos_nulos": 1095, 
+   "code": "030", 
+   "porcentaje_censo_escrutado": 100.0, 
+   "porcentaje_votos_blanco": 1.42, 
+   "abstencion": 81155, 
+   "porcentaje_total_votantes": 58.94, 
+   "mesas_totales": 295, 
+   "total_votantes": 116518, 
+   "year": 2023, 
+   "porcentaje_abstencion": 41.05, 
+   "provincia_code": "15", 
+   "result_prov": "elecciones/elecciones-municipales/resultados/2023/11/15/p99.html", 
+   "typeMun": "capital", 
+   "censo": 197673, 
+   "code_muni_prov": "15030", 
+   "ccaa_code": "11", 
+   "votos_blanco": 1644, 
+   "type": "municipales_localidades", 
+   "censo_escrutado": 197653, 
+   "ccaaName": "Galicia", 
+   "diputados": 27, 
+   "porcentaje_votos_nulos": 0.93, 
+   "partidos": [
+    {
+     "color": "#30a6df", 
+     "diputados": 12, 
+     "votos": 42181, 
+     "porcentaje_votos": 36.54, 
+     "siglas": "PP", 
+     "id": "0006"
+    }, 
+    {
+     "color": "#dc1222", 
+     "diputados": 11, 
+     "votos": 36188, 
+     "porcentaje_votos": 31.35, 
+     "siglas": "PSOE", 
+     "id": "0030"
+    }, 
+    {
+     "color": "#78cbeb", 
+     "diputados": 4, 
+     "votos": 15754, 
+     "porcentaje_votos": 13.64, 
+     "siglas": "B.N.G.", 
+     "id": "1839"
+    }, 
+    {
+     "color": "#b97cf9", 
+     "diputados": 0, 
+     "votos": 5627, 
+     "porcentaje_votos": 4.87, 
+     "siglas": "MAREA", 
+     "id": "1860"
+    }, 
+    {
+     "color": "#313131", 
+     "diputados": 0, 
+     "votos": 4804, 
+     "porcentaje_votos": 4.16, 
+     "siglas": "PODEMOS - ESQUERDA UNIDA -ALIANZA VERDE", 
+     "id": "1861"
+    }, 
+    {
+     "color": "#8abb50", 
+     "diputados": 0, 
+     "votos": 4528, 
+     "porcentaje_votos": 3.92, 
+     "siglas": "VOX", 
+     "id": "0007"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 2546, 
+     "porcentaje_votos": 2.2, 
+     "siglas": "AV", 
+     "id": "1843"
+    }, 
+    {
+     "color": "#93a607", 
+     "diputados": 0, 
+     "votos": 1055, 
+     "porcentaje_votos": 0.91, 
+     "siglas": "PACMA", 
+     "id": "0031"
+    }, 
+    {
+     "color": "#ef833a", 
+     "diputados": 0, 
+     "votos": 477, 
+     "porcentaje_votos": 0.41, 
+     "siglas": "Cs", 
+     "id": "0027"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 397, 
+     "porcentaje_votos": 0.34, 
+     "siglas": "EB-AZ", 
+     "id": "0270"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 222, 
+     "porcentaje_votos": 0.19, 
+     "siglas": "UNIDADE LOCAL", 
+     "id": "1844"
+    }
+   ], 
+   "result_ccaa": "elecciones/elecciones-galicia/resultados/2023/11/99/p99.html", 
+   "slug": "a-coruna", 
+   "result_muni": "elecciones/elecciones-municipales/resultados/2023/11/15/p030.html", 
+   "name": "A Coruña", 
+   "codigo_distritos": "99"
+  }, 
+  "33044": {
+   "votos_nulos": 1228, 
+   "code": "044", 
+   "porcentaje_censo_escrutado": 100.0, 
+   "porcentaje_votos_blanco": 1.69, 
+   "abstencion": 62619, 
+   "porcentaje_total_votantes": 64.01, 
+   "mesas_totales": 295, 
+   "total_votantes": 111390, 
+   "year": 2023, 
+   "porcentaje_abstencion": 35.98, 
+   "provincia_code": "33", 
+   "result_prov": "elecciones/elecciones-municipales/resultados/2023/03/33/p99.html", 
+   "typeMun": "capital", 
+   "censo": 174009, 
+   "code_muni_prov": "33044", 
+   "ccaa_code": "03", 
+   "votos_blanco": 1865, 
+   "type": "municipales_localidades", 
+   "censo_escrutado": 173991, 
+   "ccaaName": "Principado de Asturias", 
+   "diputados": 27, 
+   "porcentaje_votos_nulos": 1.1, 
+   "partidos": [
+    {
+     "color": "#30a6df", 
+     "diputados": 14, 
+     "votos": 46849, 
+     "porcentaje_votos": 42.52, 
+     "siglas": "PP", 
+     "id": "0006"
+    }, 
+    {
+     "color": "#dc1222", 
+     "diputados": 7, 
+     "votos": 26632, 
+     "porcentaje_votos": 24.17, 
+     "siglas": "PSOE", 
+     "id": "0030"
+    }, 
+    {
+     "color": "#8abb50", 
+     "diputados": 3, 
+     "votos": 11907, 
+     "porcentaje_votos": 10.8, 
+     "siglas": "VOX", 
+     "id": "0007"
+    }, 
+    {
+     "color": "#a70000", 
+     "diputados": 3, 
+     "votos": 11191, 
+     "porcentaje_votos": 10.15, 
+     "siglas": "IU_ALIADOS", 
+     "id": "5929"
+    }, 
+    {
+     "color": "#801e75", 
+     "diputados": 0, 
+     "votos": 4906, 
+     "porcentaje_votos": 4.45, 
+     "siglas": "PODEMOS", 
+     "id": "0193"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 2972, 
+     "porcentaje_votos": 2.69, 
+     "siglas": "FORO ASTURIAS", 
+     "id": "3985"
+    }, 
+    {
+     "color": "#ef833a", 
+     "diputados": 0, 
+     "votos": 1681, 
+     "porcentaje_votos": 1.52, 
+     "siglas": "Cs", 
+     "id": "0027"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 720, 
+     "porcentaje_votos": 0.65, 
+     "siglas": "SMP", 
+     "id": "3984"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 449, 
+     "porcentaje_votos": 0.4, 
+     "siglas": "EB-AZ", 
+     "id": "0270"
+    }, 
+    {
+     "color": "#f9d3b6", 
+     "diputados": 0, 
+     "votos": 420, 
+     "porcentaje_votos": 0.38, 
+     "siglas": "PUM+J", 
+     "id": "0026"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 309, 
+     "porcentaje_votos": 0.28, 
+     "siglas": "PCTC", 
+     "id": "1469"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 261, 
+     "porcentaje_votos": 0.23, 
+     "siglas": "ANDECHA", 
+     "id": "3982"
+    }
+   ], 
+   "result_ccaa": "elecciones/elecciones-asturias/resultados/2023/03/99/p99.html", 
+   "slug": "oviedo", 
+   "result_muni": "elecciones/elecciones-municipales/resultados/2023/03/33/p044.html", 
+   "name": "Oviedo", 
+   "codigo_distritos": "99"
+  }, 
+  "20069": {
+   "votos_nulos": 714, 
+   "code": "069", 
+   "porcentaje_censo_escrutado": 100.0, 
+   "porcentaje_votos_blanco": 1.84, 
+   "abstencion": 59106, 
+   "porcentaje_total_votantes": 59.87, 
+   "mesas_totales": 190, 
+   "total_votantes": 88212, 
+   "year": 2023, 
+   "porcentaje_abstencion": 40.12, 
+   "provincia_code": "20", 
+   "result_prov": "elecciones/elecciones-municipales/resultados/2023/14/20/p99.html", 
+   "typeMun": "capital", 
+   "censo": 147318, 
+   "code_muni_prov": "20069", 
+   "ccaa_code": "14", 
+   "votos_blanco": 1615, 
+   "type": "municipales_localidades", 
+   "censo_escrutado": 147304, 
+   "ccaaName": "País Vasco", 
+   "diputados": 27, 
+   "porcentaje_votos_nulos": 0.8, 
+   "partidos": [
+    {
+     "color": "#008c35", 
+     "diputados": 9, 
+     "votos": 24539, 
+     "porcentaje_votos": 28.04, 
+     "siglas": "PNV", 
+     "id": "0001"
+    }, 
+    {
+     "color": "#bddc75", 
+     "diputados": 8, 
+     "votos": 23387, 
+     "porcentaje_votos": 26.72, 
+     "siglas": "EH-BILDU", 
+     "id": "0002"
+    }, 
+    {
+     "color": "#dc1222", 
+     "diputados": 5, 
+     "votos": 16239, 
+     "porcentaje_votos": 18.55, 
+     "siglas": "PSOE", 
+     "id": "0003"
+    }, 
+    {
+     "color": "#30a6df", 
+     "diputados": 3, 
+     "votos": 10590, 
+     "porcentaje_votos": 12.1, 
+     "siglas": "PP", 
+     "id": "0006"
+    }, 
+    {
+     "color": "#801e75", 
+     "diputados": 2, 
+     "votos": 7063, 
+     "porcentaje_votos": 8.07, 
+     "siglas": "PODEMOS, EZKER ANITZA / IU, ALIANZA VERDE", 
+     "id": "0010"
+    }, 
+    {
+     "color": "#8abb50", 
+     "diputados": 0, 
+     "votos": 2019, 
+     "porcentaje_votos": 2.3, 
+     "siglas": "VOX", 
+     "id": "0007"
+    }, 
+    {
+     "color": "#93a607", 
+     "diputados": 0, 
+     "votos": 870, 
+     "porcentaje_votos": 0.99, 
+     "siglas": "PACMA", 
+     "id": "0031"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 575, 
+     "porcentaje_votos": 0.65, 
+     "siglas": "EB-AZ", 
+     "id": "0270"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 326, 
+     "porcentaje_votos": 0.37, 
+     "siglas": "STOP", 
+     "id": "2594"
+    }, 
+    {
+     "color": "#ef833a", 
+     "diputados": 0, 
+     "votos": 165, 
+     "porcentaje_votos": 0.18, 
+     "siglas": "Cs", 
+     "id": "0027"
+    }, 
+    {
+     "color": "#f9d3b6", 
+     "diputados": 0, 
+     "votos": 110, 
+     "porcentaje_votos": 0.12, 
+     "siglas": "PUM+J", 
+     "id": "0026"
+    }
+   ], 
+   "result_ccaa": "elecciones/elecciones-pais-vasco/resultados/2023/14/99/p99.html", 
+   "slug": "donostia/san-sebastian", 
+   "result_muni": "elecciones/elecciones-municipales/resultados/2023/14/20/p069.html", 
+   "name": "Donostia/San Sebastián", 
+   "codigo_distritos": "99"
+  }, 
+  "15078": {
+   "votos_nulos": 527, 
+   "code": "078", 
+   "porcentaje_censo_escrutado": 100.0, 
+   "porcentaje_votos_blanco": 1.52, 
+   "abstencion": 30255, 
+   "porcentaje_total_votantes": 61.85, 
+   "mesas_totales": 117, 
+   "total_votantes": 49052, 
+   "year": 2023, 
+   "porcentaje_abstencion": 38.14, 
+   "provincia_code": "15", 
+   "result_prov": "elecciones/elecciones-municipales/resultados/2023/11/15/p99.html", 
+   "typeMun": "region", 
+   "censo": 79307, 
+   "code_muni_prov": "15078", 
+   "ccaa_code": "11", 
+   "votos_blanco": 740, 
+   "type": "municipales_localidades", 
+   "censo_escrutado": 79294, 
+   "ccaaName": "Galicia", 
+   "diputados": 25, 
+   "porcentaje_votos_nulos": 1.07, 
+   "partidos": [
+    {
+     "color": "#30a6df", 
+     "diputados": 11, 
+     "votos": 18294, 
+     "porcentaje_votos": 37.7, 
+     "siglas": "PP", 
+     "id": "0006"
+    }, 
+    {
+     "color": "#78cbeb", 
+     "diputados": 6, 
+     "votos": 11428, 
+     "porcentaje_votos": 23.55, 
+     "siglas": "B.N.G.", 
+     "id": "1839"
+    }, 
+    {
+     "color": "#dc1222", 
+     "diputados": 6, 
+     "votos": 10513, 
+     "porcentaje_votos": 21.66, 
+     "siglas": "PSOE", 
+     "id": "0030"
+    }, 
+    {
+     "color": "#213b9a", 
+     "diputados": 2, 
+     "votos": 4446, 
+     "porcentaje_votos": 9.16, 
+     "siglas": "CA", 
+     "id": "1895"
+    }, 
+    {
+     "color": "#8abb50", 
+     "diputados": 0, 
+     "votos": 1652, 
+     "porcentaje_votos": 3.4, 
+     "siglas": "VOX", 
+     "id": "0007"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 1023, 
+     "porcentaje_votos": 2.1, 
+     "siglas": "POR E PARA SANTIAGO", 
+     "id": "1894"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 291, 
+     "porcentaje_votos": 0.59, 
+     "siglas": "GLG", 
+     "id": "1885"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 138, 
+     "porcentaje_votos": 0.28, 
+     "siglas": "CXG", 
+     "id": "1855"
+    }
+   ], 
+   "result_ccaa": "elecciones/elecciones-galicia/resultados/2023/11/99/p99.html", 
+   "slug": "santiago-de-compostela", 
+   "result_muni": "elecciones/elecciones-municipales/resultados/2023/11/15/p078.html", 
+   "name": "Santiago de Compostela", 
+   "codigo_distritos": "99"
+  }, 
+  "43148": {
+   "votos_nulos": 643, 
+   "code": "148", 
+   "porcentaje_censo_escrutado": 100.0, 
+   "porcentaje_votos_blanco": 1.69, 
+   "abstencion": 44425, 
+   "porcentaje_total_votantes": 52.06, 
+   "mesas_totales": 159, 
+   "total_votantes": 48260, 
+   "year": 2023, 
+   "porcentaje_abstencion": 47.93, 
+   "provincia_code": "43", 
+   "result_prov": "elecciones/elecciones-municipales/resultados/2023/09/43/p99.html", 
+   "typeMun": "capital", 
+   "censo": 92685, 
+   "code_muni_prov": "43148", 
+   "ccaa_code": "09", 
+   "votos_blanco": 809, 
+   "type": "municipales_localidades", 
+   "censo_escrutado": 92643, 
+   "ccaaName": "Cataluña", 
+   "diputados": 27, 
+   "porcentaje_votos_nulos": 1.33, 
+   "partidos": [
+    {
+     "color": "#dc1222", 
+     "diputados": 9, 
+     "votos": 13123, 
+     "porcentaje_votos": 27.55, 
+     "siglas": "PSOE", 
+     "id": "0030"
+    }, 
+    {
+     "color": "#ffb85c", 
+     "diputados": 6, 
+     "votos": 8940, 
+     "porcentaje_votos": 18.77, 
+     "siglas": "ERC", 
+     "id": "5783"
+    }, 
+    {
+     "color": "#30a6df", 
+     "diputados": 4, 
+     "votos": 6638, 
+     "porcentaje_votos": 13.94, 
+     "siglas": "PP", 
+     "id": "0006"
+    }, 
+    {
+     "color": "#8abb50", 
+     "diputados": 3, 
+     "votos": 5035, 
+     "porcentaje_votos": 10.57, 
+     "siglas": "VOX", 
+     "id": "0007"
+    }, 
+    {
+     "color": "#00c3b2", 
+     "diputados": 3, 
+     "votos": 4119, 
+     "porcentaje_votos": 8.65, 
+     "siglas": "JUNTS", 
+     "id": "1277"
+    }, 
+    {
+     "color": "#801e75", 
+     "diputados": 2, 
+     "votos": 2881, 
+     "porcentaje_votos": 6.05, 
+     "siglas": "EN COMÚ", 
+     "id": "5782"
+    }, 
+    {
+     "color": "#ffcc42", 
+     "diputados": 0, 
+     "votos": 2361, 
+     "porcentaje_votos": 4.95, 
+     "siglas": "CUP", 
+     "id": "6060"
+    }, 
+    {
+     "color": "#213b9a", 
+     "diputados": 0, 
+     "votos": 1321, 
+     "porcentaje_votos": 2.77, 
+     "siglas": "PDECAT", 
+     "id": "0552"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 1117, 
+     "porcentaje_votos": 2.34, 
+     "siglas": "VALENTS", 
+     "id": "0530"
+    }, 
+    {
+     "color": "#ef833a", 
+     "diputados": 0, 
+     "votos": 792, 
+     "porcentaje_votos": 1.66, 
+     "siglas": "Cs", 
+     "id": "0027"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 231, 
+     "porcentaje_votos": 0.48, 
+     "siglas": "EB-AZ", 
+     "id": "0270"
+    }, 
+    {
+     "color": "#616161", 
+     "diputados": 0, 
+     "votos": 179, 
+     "porcentaje_votos": 0.37, 
+     "siglas": "PCTC", 
+     "id": "0597"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 71, 
+     "porcentaje_votos": 0.14, 
+     "siglas": "CNV", 
+     "id": "1127"
+    }
+   ], 
+   "result_ccaa": "elecciones/elecciones-cataluna/resultados/2023/09/99/p99.html", 
+   "slug": "tarragona", 
+   "result_muni": "elecciones/elecciones-municipales/resultados/2023/09/43/p148.html", 
+   "name": "Tarragona", 
+   "codigo_distritos": "99"
+  }, 
+  "29067": {
+   "votos_nulos": 2204, 
+   "code": "067", 
+   "porcentaje_censo_escrutado": 100.0, 
+   "porcentaje_votos_blanco": 1.1, 
+   "abstencion": 195910, 
+   "porcentaje_total_votantes": 55.18, 
+   "mesas_totales": 617, 
+   "total_votantes": 241289, 
+   "year": 2023, 
+   "porcentaje_abstencion": 44.81, 
+   "provincia_code": "29", 
+   "result_prov": "elecciones/elecciones-municipales/resultados/2023/01/29/p99.html", 
+   "typeMun": "capital", 
+   "censo": 437199, 
+   "code_muni_prov": "29067", 
+   "ccaa_code": "01", 
+   "votos_blanco": 2633, 
+   "type": "municipales_localidades", 
+   "censo_escrutado": 437133, 
+   "ccaaName": "Andalucía", 
+   "diputados": 31, 
+   "porcentaje_votos_nulos": 0.91, 
+   "partidos": [
+    {
+     "color": "#30a6df", 
+     "diputados": 17, 
+     "votos": 117577, 
+     "porcentaje_votos": 49.17, 
+     "siglas": "PP", 
+     "id": "0006"
+    }, 
+    {
+     "color": "#dc1222", 
+     "diputados": 10, 
+     "votos": 69840, 
+     "porcentaje_votos": 29.21, 
+     "siglas": "PSOE", 
+     "id": "0030"
+    }, 
+    {
+     "color": "#8abb50", 
+     "diputados": 2, 
+     "votos": 18476, 
+     "porcentaje_votos": 7.72, 
+     "siglas": "VOX", 
+     "id": "0007"
+    }, 
+    {
+     "color": "#801e75", 
+     "diputados": 2, 
+     "votos": 17655, 
+     "porcentaje_votos": 7.38, 
+     "siglas": "CON ANDALUCÍA", 
+     "id": "5774"
+    }, 
+    {
+     "color": "#ef833a", 
+     "diputados": 0, 
+     "votos": 4712, 
+     "porcentaje_votos": 1.97, 
+     "siglas": "Cs", 
+     "id": "0027"
+    }, 
+    {
+     "color": "#93a607", 
+     "diputados": 0, 
+     "votos": 3498, 
+     "porcentaje_votos": 1.46, 
+     "siglas": "PACMA", 
+     "id": "0031"
+    }, 
+    {
+     "color": "#5ea878", 
+     "diputados": 0, 
+     "votos": 2648, 
+     "porcentaje_votos": 1.1, 
+     "siglas": "ADELANTE", 
+     "id": "1599"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 771, 
+     "porcentaje_votos": 0.32, 
+     "siglas": "EB-AZ", 
+     "id": "0270"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 464, 
+     "porcentaje_votos": 0.19, 
+     "siglas": "PCPA", 
+     "id": "1629"
+    }, 
+    {
+     "color": "#f9d3b6", 
+     "diputados": 0, 
+     "votos": 426, 
+     "porcentaje_votos": 0.17, 
+     "siglas": "PUM+J", 
+     "id": "0026"
+    }, 
+    {
+     "color": "#b97cf9", 
+     "diputados": 0, 
+     "votos": 240, 
+     "porcentaje_votos": 0.1, 
+     "siglas": "ALTER", 
+     "id": "1622"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 145, 
+     "porcentaje_votos": 0.06, 
+     "siglas": "FE DE LAS JONS", 
+     "id": "0113"
+    }
+   ], 
+   "result_ccaa": "elecciones/elecciones-andalucia/resultados/2023/01/99/p99.html", 
+   "slug": "malaga", 
+   "result_muni": "elecciones/elecciones-municipales/resultados/2023/01/29/p067.html", 
+   "name": "Málaga", 
+   "codigo_distritos": "99"
+  }, 
+  "44216": {
+   "votos_nulos": 277, 
+   "code": "216", 
+   "porcentaje_censo_escrutado": 100.0, 
+   "porcentaje_votos_blanco": 1.34, 
+   "abstencion": 8668, 
+   "porcentaje_total_votantes": 67.79, 
+   "mesas_totales": 42, 
+   "total_votantes": 18243, 
+   "year": 2023, 
+   "porcentaje_abstencion": 32.2, 
+   "provincia_code": "44", 
+   "result_prov": "elecciones/elecciones-municipales/resultados/2023/02/44/p99.html", 
+   "typeMun": "capital", 
+   "censo": 26911, 
+   "code_muni_prov": "44216", 
+   "ccaa_code": "02", 
+   "votos_blanco": 241, 
+   "type": "municipales_localidades", 
+   "censo_escrutado": 26911, 
+   "ccaaName": "Aragón", 
+   "diputados": 21, 
+   "porcentaje_votos_nulos": 1.51, 
+   "partidos": [
+    {
+     "color": "#30a6df", 
+     "diputados": 11, 
+     "votos": 7535, 
+     "porcentaje_votos": 41.94, 
+     "siglas": "PP", 
+     "id": "0006"
+    }, 
+    {
+     "color": "#bfdcc9", 
+     "diputados": 5, 
+     "votos": 3673, 
+     "porcentaje_votos": 20.44, 
+     "siglas": "EXISTE", 
+     "id": "6059"
+    }, 
+    {
+     "color": "#dc1222", 
+     "diputados": 3, 
+     "votos": 2396, 
+     "porcentaje_votos": 13.33, 
+     "siglas": "PSOE", 
+     "id": "0030"
+    }, 
+    {
+     "color": "#8abb50", 
+     "diputados": 2, 
+     "votos": 1918, 
+     "porcentaje_votos": 10.67, 
+     "siglas": "VOX", 
+     "id": "0007"
+    }, 
+    {
+     "color": "#a70000", 
+     "diputados": 0, 
+     "votos": 819, 
+     "porcentaje_votos": 4.55, 
+     "siglas": "IU_ALIADOS", 
+     "id": "6071"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 493, 
+     "porcentaje_votos": 2.74, 
+     "siglas": "PAR", 
+     "id": "2661"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 455, 
+     "porcentaje_votos": 2.53, 
+     "siglas": "CHA", 
+     "id": "2660"
+    }, 
+    {
+     "color": "#ef833a", 
+     "diputados": 0, 
+     "votos": 261, 
+     "porcentaje_votos": 1.45, 
+     "siglas": "Cs", 
+     "id": "2668"
+    }, 
+    {
+     "color": "#801e75", 
+     "diputados": 0, 
+     "votos": 175, 
+     "porcentaje_votos": 0.97, 
+     "siglas": "PODEMOS-AV", 
+     "id": "0325"
+    }
+   ], 
+   "result_ccaa": "elecciones/elecciones-aragon/resultados/2023/02/99/p99.html", 
+   "slug": "teruel", 
+   "result_muni": "elecciones/elecciones-municipales/resultados/2023/02/44/p216.html", 
+   "name": "Teruel", 
+   "codigo_distritos": "99"
+  }, 
+  "13034": {
+   "votos_nulos": 471, 
+   "code": "034", 
+   "porcentaje_censo_escrutado": 100.0, 
+   "porcentaje_votos_blanco": 1.46, 
+   "abstencion": 19026, 
+   "porcentaje_total_votantes": 67.57, 
+   "mesas_totales": 102, 
+   "total_votantes": 39642, 
+   "year": 2023, 
+   "porcentaje_abstencion": 32.42, 
+   "provincia_code": "13", 
+   "result_prov": "elecciones/elecciones-municipales/resultados/2023/07/13/p99.html", 
+   "typeMun": "capital", 
+   "censo": 58668, 
+   "code_muni_prov": "13034", 
+   "ccaa_code": "07", 
+   "votos_blanco": 572, 
+   "type": "municipales_localidades", 
+   "censo_escrutado": 58663, 
+   "ccaaName": "Castilla - La Mancha", 
+   "diputados": 25, 
+   "porcentaje_votos_nulos": 1.18, 
+   "partidos": [
+    {
+     "color": "#30a6df", 
+     "diputados": 11, 
+     "votos": 15555, 
+     "porcentaje_votos": 39.71, 
+     "siglas": "PP", 
+     "id": "0006"
+    }, 
+    {
+     "color": "#dc1222", 
+     "diputados": 9, 
+     "votos": 13516, 
+     "porcentaje_votos": 34.5, 
+     "siglas": "PSOE", 
+     "id": "0030"
+    }, 
+    {
+     "color": "#8abb50", 
+     "diputados": 4, 
+     "votos": 5650, 
+     "porcentaje_votos": 14.42, 
+     "siglas": "VOX", 
+     "id": "0007"
+    }, 
+    {
+     "color": "#ef833a", 
+     "diputados": 1, 
+     "votos": 1975, 
+     "porcentaje_votos": 5.04, 
+     "siglas": "Cs", 
+     "id": "0027"
+    }, 
+    {
+     "color": "#801e75", 
+     "diputados": 0, 
+     "votos": 1903, 
+     "porcentaje_votos": 4.85, 
+     "siglas": "UNIDAS - PODEMOS - IU", 
+     "id": "0369"
+    }
+   ], 
+   "result_ccaa": "elecciones/elecciones-castilla-la-mancha/resultados/2023/07/99/p99.html", 
+   "slug": "ciudad-real", 
+   "result_muni": "elecciones/elecciones-municipales/resultados/2023/07/13/p034.html", 
+   "name": "Ciudad Real", 
+   "codigo_distritos": "99"
+  }, 
+  "42173": {
+   "votos_nulos": 286, 
+   "code": "173", 
+   "porcentaje_censo_escrutado": 100.0, 
+   "porcentaje_votos_blanco": 2.03, 
+   "abstencion": 11979, 
+   "porcentaje_total_votantes": 59.63, 
+   "mesas_totales": 49, 
+   "total_votantes": 17700, 
+   "year": 2023, 
+   "porcentaje_abstencion": 40.36, 
+   "provincia_code": "42", 
+   "result_prov": "elecciones/elecciones-municipales/resultados/2023/08/42/p99.html", 
+   "typeMun": "capital", 
+   "censo": 29679, 
+   "code_muni_prov": "42173", 
+   "ccaa_code": "08", 
+   "votos_blanco": 354, 
+   "type": "municipales_localidades", 
+   "censo_escrutado": 29679, 
+   "ccaaName": "Castilla y León", 
+   "diputados": 21, 
+   "porcentaje_votos_nulos": 1.61, 
+   "partidos": [
+    {
+     "color": "#dc1222", 
+     "diputados": 12, 
+     "votos": 8453, 
+     "porcentaje_votos": 48.54, 
+     "siglas": "PSOE", 
+     "id": "0030"
+    }, 
+    {
+     "color": "#30a6df", 
+     "diputados": 7, 
+     "votos": 5253, 
+     "porcentaje_votos": 30.16, 
+     "siglas": "PP", 
+     "id": "0006"
+    }, 
+    {
+     "color": "#8abb50", 
+     "diputados": 2, 
+     "votos": 1413, 
+     "porcentaje_votos": 8.11, 
+     "siglas": "VOX", 
+     "id": "0007"
+    }, 
+    {
+     "color": "#801e75", 
+     "diputados": 0, 
+     "votos": 807, 
+     "porcentaje_votos": 4.63, 
+     "siglas": "PODEMOS-AV", 
+     "id": "0325"
+    }, 
+    {
+     "color": "#a70000", 
+     "diputados": 0, 
+     "votos": 659, 
+     "porcentaje_votos": 3.78, 
+     "siglas": "IU", 
+     "id": "0040"
+    }, 
+    {
+     "color": "#ef833a", 
+     "diputados": 0, 
+     "votos": 384, 
+     "porcentaje_votos": 2.2, 
+     "siglas": "Cs", 
+     "id": "0027"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 91, 
+     "porcentaje_votos": 0.52, 
+     "siglas": "JXE", 
+     "id": "4523"
+    }
+   ], 
+   "result_ccaa": "elecciones/elecciones-castilla-y-leon/resultados/2023/08/99/p99.html", 
+   "slug": "soria", 
+   "result_muni": "elecciones/elecciones-municipales/resultados/2023/08/42/p173.html", 
+   "name": "Soria", 
+   "codigo_distritos": "99"
+  }, 
+  "50297": {
+   "votos_nulos": 3384, 
+   "code": "297", 
+   "porcentaje_censo_escrutado": 100.0, 
+   "porcentaje_votos_blanco": 1.56, 
+   "abstencion": 169071, 
+   "porcentaje_total_votantes": 66.48, 
+   "mesas_totales": 907, 
+   "total_votantes": 335350, 
+   "year": 2023, 
+   "porcentaje_abstencion": 33.51, 
+   "provincia_code": "50", 
+   "result_prov": "elecciones/elecciones-municipales/resultados/2023/02/50/p99.html", 
+   "typeMun": "capital", 
+   "censo": 504421, 
+   "code_muni_prov": "50297", 
+   "ccaa_code": "02", 
+   "votos_blanco": 5202, 
+   "type": "municipales_localidades", 
+   "censo_escrutado": 503731, 
+   "ccaaName": "Aragón", 
+   "diputados": 31, 
+   "porcentaje_votos_nulos": 1.0, 
+   "partidos": [
+    {
+     "color": "#30a6df", 
+     "diputados": 15, 
+     "votos": 125751, 
+     "porcentaje_votos": 37.88, 
+     "siglas": "PP", 
+     "id": "0006"
+    }, 
+    {
+     "color": "#dc1222", 
+     "diputados": 10, 
+     "votos": 87790, 
+     "porcentaje_votos": 26.44, 
+     "siglas": "PSOE", 
+     "id": "0030"
+    }, 
+    {
+     "color": "#8abb50", 
+     "diputados": 4, 
+     "votos": 41061, 
+     "porcentaje_votos": 12.36, 
+     "siglas": "VOX", 
+     "id": "0007"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 2, 
+     "votos": 19381, 
+     "porcentaje_votos": 5.83, 
+     "siglas": "ZEC", 
+     "id": "5984"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 15757, 
+     "porcentaje_votos": 4.74, 
+     "siglas": "CHA", 
+     "id": "2660"
+    }, 
+    {
+     "color": "#801e75", 
+     "diputados": 0, 
+     "votos": 14908, 
+     "porcentaje_votos": 4.49, 
+     "siglas": "PODEMOS-AV", 
+     "id": "0325"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 8081, 
+     "porcentaje_votos": 2.43, 
+     "siglas": "EXISTE", 
+     "id": "6059"
+    }, 
+    {
+     "color": "#ef833a", 
+     "diputados": 0, 
+     "votos": 5530, 
+     "porcentaje_votos": 1.66, 
+     "siglas": "Cs", 
+     "id": "2668"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 2902, 
+     "porcentaje_votos": 0.87, 
+     "siglas": "PAR", 
+     "id": "2661"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 2104, 
+     "porcentaje_votos": 0.63, 
+     "siglas": "ZARAGOZA YA", 
+     "id": "5463"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 1641, 
+     "porcentaje_votos": 0.49, 
+     "siglas": "EB-AZ", 
+     "id": "0270"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 699, 
+     "porcentaje_votos": 0.21, 
+     "siglas": "PCTC", 
+     "id": "1469"
+    }, 
+    {
+     "color": "#f9d3b6", 
+     "diputados": 0, 
+     "votos": 601, 
+     "porcentaje_votos": 0.18, 
+     "siglas": "PUM+J", 
+     "id": "0026"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 370, 
+     "porcentaje_votos": 0.11, 
+     "siglas": "F.I.A.", 
+     "id": "2672"
+    }, 
+    {
+     "color": "#5E6D6D", 
+     "diputados": 0, 
+     "votos": 188, 
+     "porcentaje_votos": 0.05, 
+     "siglas": "PROPONEMOS XM", 
+     "id": "0826"
+    }
+   ], 
+   "result_ccaa": "elecciones/elecciones-aragon/resultados/2023/02/99/p99.html", 
+   "slug": "zaragoza", 
+   "result_muni": "elecciones/elecciones-municipales/resultados/2023/02/50/p297.html", 
+   "name": "Zaragoza", 
+   "codigo_distritos": "99"
+  }
+ }
+}
