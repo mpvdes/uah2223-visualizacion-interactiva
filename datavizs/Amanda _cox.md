@@ -4,3 +4,6 @@ https://es.wikipedia.org/wiki/Amanda_Cox
 
 https://www.youtube.com/watch?v=0L1tGo-DvD0
 https://www.youtube.com/watch?v=XH-F9jV7EuE
+
+differents ways (https://youtu.be/XH-F9jV7EuE?t=1286) Visualizacion de datos de elecciones:
+

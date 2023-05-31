@@ -34,3 +34,7 @@ https://archive.nytimes.com/www.nytimes.com/interactive/2011/09/08/us/sept-11-re
 
 # A place for unique & beautiful data visualizations and data art
 https://www.visualcinnamon.com/
+
+
+# REsultados electorales El confidencial
+https://www.elconfidencial.com/espana/elecciones-autonomicas-municipales/resultados/2023-05-29/ponferrada_3647351/
