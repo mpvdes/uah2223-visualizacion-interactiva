@@ -1,93 +1,53 @@
 /*
  * @name Load Saved Table
- * @arialabel Four white circles with labels 
+ * @arialabel Four white circles with labels
  * @description Create a Bubble class, instantiate multiple bubbles using data from
  * a csv file, and display results on the screen.
  *  Because the web browsers differ in where they save files, we do not make use of
- * 
+ *
  * Based on Daniel Shiffman's <a href="https://processing.org/examples/loadsavetable.html">LoadSaveTable Example</a> for Processing.
  */
 
-// Bubble class
-class Bubble {
-  constructor(x, y, diameter, name) {
-    this.x = x;
-    this.y = y;
-    this.diameter = diameter;
-    this.radius = diameter / 2;
-    this.name = name;
-
-    this.over = false;
-  }
-
-  // Check if mouse is over the bubble
-  rollover(px, py) {
-    let d = dist(px, py, this.x, this.y);
-    this.over = d < this.radius;
-  }
-
-  // Display the Bubble
-  display() {
-    stroke(0);
-    strokeWeight(0.8);
-    noFill();
-    ellipse(this.x, this.y, this.diameter, this.diameter);
-    if (this.over) {
-      fill(0);
-      textAlign(CENTER);
-      text(this.name, this.x, this.y + this.radius + 20);
-    }
-  }
-}
 
 let table; // Global object to hold results from the loadTable call
-let bubbles = []; // Global array to hold all bubble objects
-
+let provincias = []; // Global array to hold all bubble objects
+let comunidades = []; // Global array to hold all bubble objects
+let estados = [];
 // Put any asynchronous data loading in preload to complete before "setup" is run
 function preload() {
-  table = loadTable("data/bubbles.csv", "header");
+  table = loadTable("data/totales_escrutinio_4_301.csv", "header");
 }
 
 // Convert saved Bubble data into Bubble Objects
 function loadData() {
-  const bubbleData = table.getRows();
+  const datas = table.getRows();
+
   // The size of the array of Bubble objects is determined by the total number of rows in the CSV
   const length = table.getRowCount();
 
   for (let i = 0; i < length; i++) {
     // Get position, diameter, name,
-    const x = bubbleData[i].getNum("x");
-    const y = bubbleData[i].getNum("y");
-    const diameter = bubbleData[i].getNum("diameter");
-    const name = bubbleData[i].getString("name");
-
+    const codigoComunidad =  datas[i].getNum(2);
+    const codigoProvincia =  datas[i].getNum(3);
+    const nombre =  datas[i].getString(5)
+   // const nombre = datas[i].getNum(5);
+    
+    if ( codigoComunidad == 99 && codigoProvincia == 99)
+    {
+     
+        print("codigoComunidad:"+codigoComunidad+ " codigoProvincia"+codigoProvincia+ " nombre:"+nombre);
+  
+      // separaremos EStado / Comunidad / Provincia
+      // es estado?  [3] == 99 && [4] == 99
+      estados.push(new Estado(nombre,datas[i].getNum(6),datas[i].getNum(7),datas[i].getNum(8),datas[i].getNum(9),datas[i].getNum(10),datas[i].getNum(11),datas[i].getNum(12),datas[i].getNum(13),datas[i].getNum(14),datas[i].getNum(15),datas[i].getNum(16),datas[i].getNum(17),datas[i].getNum(18)));
+    }
     // Put object in array
-    bubbles.push(new Bubble(x, y, diameter, name));
+    // bubbles.push(new Bubble(x, y, diameter, name));
   }
 }
 
 // Create a new Bubble each time the mouse is clicked.
 function mousePressed() {
-  // Create a new row
-  let row = table.addRow();
-
-  let name = "New Bubble";
-  let diameter = random(40, 80);
-
-  // Set the values of that row
-  row.setNum("x", mouseX);
-  row.setNum("y", mouseY);
-  row.setNum("diameter", diameter);
-  row.setString("name", name);
-
-  bubbles.push(new Bubble(mouseX, mouseY, diameter, name));
-
-  // If the table has more than 10 rows
-  if (table.getRowCount() > 10) {
-    // Delete the oldest row
-    table.removeRow(0);
-    bubbles.shift();
-  }
 }
 
 function setup() {
@@ -99,10 +59,10 @@ function draw() {
   background(255);
 
   // Display all bubbles
-  for (let i = 0; i < bubbles.length; i++) {
-    bubbles[i].display();
-    bubbles[i].rollover(mouseX, mouseY);
-  }
+  /* for (let i = 0; i < bubbles.length; i++) {
+   bubbles[i].display();
+   bubbles[i].rollover(mouseX, mouseY);
+   }*/
 
   // Label directions at bottom
   textAlign(LEFT);
