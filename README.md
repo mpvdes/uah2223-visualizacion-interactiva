@@ -85,3 +85,7 @@ https://krita.org/en/download/krita-desktop/
 
 ![img](./img/logo.svg)
 
+
+## para ignorar el commit de un archivo o mas
+  nano  .git/info/exclude
+
