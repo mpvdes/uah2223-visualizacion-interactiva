@@ -39,7 +39,7 @@ function loadData() {
   
       // separaremos EStado / Comunidad / Provincia
       // es estado?  [3] == 99 && [4] == 99
-      estados.push(new Estado(nombre,datas[i].getNum(6),datas[i].getNum(7),datas[i].getNum(8),datas[i].getNum(9),datas[i].getNum(10),datas[i].getNum(11),datas[i].getNum(12),datas[i].getNum(13),datas[i].getNum(14),datas[i].getNum(15),datas[i].getNum(16),datas[i].getNum(17),datas[i].getNum(18)));
+      estados.push(new Votos(nombre,datas[i].getNum(6),datas[i].getNum(7),datas[i].getNum(8),datas[i].getNum(9),datas[i].getNum(10),datas[i].getNum(11),datas[i].getNum(12),datas[i].getNum(13),datas[i].getNum(14),datas[i].getNum(15),datas[i].getNum(16),datas[i].getNum(17),datas[i].getNum(18)));
     }
     // Put object in array
     // bubbles.push(new Bubble(x, y, diameter, name));

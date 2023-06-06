@@ -1,5 +1,5 @@
 // Bubble class
-class Estado {
+class Votos {
   
   constructor(name,_numMesas,_censoMesas,_censoEscrutado,_porcentaje,_totalVotantes,_porcentajetotalVotantes,_abstencion,_porcentajeAbstencion,_votosBlanco,_pocentajeVotosBlanco,_votosNulos,_concejales,_alcaldes) {
     
@@ -17,6 +17,6 @@ class Estado {
   this.concejales =_concejales;
   this.alcaldes =_alcaldes;
   
-     print("------create ESTADO: "+this.alcaldes);
+     print("------create Votos: "+this.alcaldes);
   }
 }
